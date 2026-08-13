@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>국제 원자재 동향 모니터링 | 코코아, 커피, 우유(GDT) 실시간 추적</title>
+  <meta name="description" content="매일 업데이트되는 국제 주요 원자재(코코아, 아라비카/로부스타 커피, GDT 우유/원유 선물, 원당, 곡물) 실시간 동향 및 가격 추이 대시보드">
+  
+  <!-- Google Fonts & Chart.js -->
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <div class="app-container">
+    <!-- Header / Navbar -->
+    <header class="header-nav">
+      <div class="brand-group">
+        <div class="brand-icon">🌿</div>
+        <div>
+          <h1 class="brand-title">Commodity Pulse</h1>
+          <p class="brand-tagline">원자재 일일동향 by suesue</p>
+          <p class="brand-citation">📊 출처: Yahoo Finance · Global Dairy Trade (GDT) · ICE / CME / 서울외환시장</p>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div class="status-badge" id="lastUpdatedBadge">
+          <span class="pulse-dot"></span>
+          <span id="lastUpdatedText">실시간 갱신 중...</span>
+        </div>
+
+        <div class="currency-toggle">
+          <button class="currency-btn active" id="btnUsd">USD ($)</button>
+          <button class="currency-btn" id="btnKrw">KRW (₩)</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Live News Ticker Banner -->
+    <div class="news-ticker-banner" id="newsTickerBanner">
+      <div class="ticker-label">
+        <span class="pulse-dot"></span>
+        <span>LIVE NEWS</span>
+      </div>
+      <div class="ticker-content" id="tickerContent">
+        <a href="#" id="tickerLink" target="_blank" class="ticker-text">실시간 원자재 관련 뉴스를 불러오는 중...</a>
+      </div>
+      <div class="ticker-controls">
+        <button id="btnTickerPrev" class="ticker-nav-btn" title="이전 뉴스">❮</button>
+        <button id="btnTickerNext" class="ticker-nav-btn" title="다음 뉴스">❯</button>
+      </div>
+    </div>
+
+    <!-- Top Highlight Cards Grid -->
+    <section class="cards-grid" id="highlightCards">
+      <!-- Dynamically Rendered Cards -->
+    </section>
+
+    <!-- Main Dashboard Section -->
+    <main class="main-dashboard-layout">
+      
+      <!-- Interactive Chart Panel -->
+      <section class="chart-panel">
+        <div class="chart-header">
+          <div class="chart-title-group">
+            <h2 id="chartTitle">📈 코코아 (Cocoa) 시세 추이</h2>
+            <p class="chart-subtitle" id="chartSubtitle">ICE Futures US · 톤당 달러 (USD / MT)</p>
+          </div>
+
+          <div class="time-range-picker">
+            <button class="range-btn" data-range="1D">1일</button>
+            <button class="range-btn active" data-range="7D">7일</button>
+            <button class="range-btn" data-range="1M">1개월</button>
+            <button class="range-btn" data-range="1Y">1년</button>
+          </div>
+        </div>
+
+        <div class="chart-container">
+          <canvas id="mainChart"></canvas>
+        </div>
+      </section>
+
+      <!-- Data Table Panel -->
+      <section class="table-panel">
+        <div class="table-controls">
+          <div class="filter-tabs">
+                        <button class="tab-btn active" data-category="all">전체 원자재</button>
+            <button class="tab-btn" data-category="beverage">코코아&커피</button>
+            <button class="tab-btn" data-category="dairy">유제품</button>
+            <button class="tab-btn" data-category="oil">유지</button>
+            <button class="tab-btn" data-category="forex">환율</button>
+          </div>
+
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" class="search-input" placeholder="원자재명, 티커 검색...">
+          </div>
+        </div>
+
+        <div class="data-table-wrapper">
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th>품목명 (Item)</th>
+                <th>현재 시세</th>
+                <th>전일 대비</th>
+                <th>24h 고가 / 저가</th>
+                <th>52주 가격 범주</th>
+                <th>상세 분석 & 관련 뉴스</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody">
+              <!-- Dynamically populated rows -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- GitHub Pages Setup Modal -->
+  <div class="modal-overlay" id="guideModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title">🚀 GitHub Pages 자동 업데이트 구축 안내</h3>
+        <button class="modal-close" id="closeGuideModal">&times;</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="setup-step">
+          <h4>1. 깃허브 리포지토리 생성 및 업로드</h4>
+          <p>현재 폴더의 소스코드를 본인의 GitHub 새 저장소(Public)에 푸시합니다.</p>
+          <div class="code-block">git init<br>git add .<br>git commit -m "feat: initial commit"<br>git remote add origin https://github.com/사용자ID/원자재-대시보드.git<br>git push -u origin main</div>
+        </div>
+
+        <div class="setup-step">
+          <h4>2. GitHub Actions 쓰기 권한 설정</h4>
+          <p>매일 파이썬 스크립트가 실행되어 데이터(commodities.json)를 커밋할 수 있도록 권한을 엽니다.</p>
+          <p style="margin-top:6px; color:#F59E0B;">리포지토리 <strong>Settings &gt; Actions &gt; General &gt; Workflow permissions</strong>에서 <strong>"Read and write permissions"</strong> 선택 후 저장!</p>
+        </div>
+
+        <div class="setup-step">
+          <h4>3. GitHub Pages 활성화</h4>
+          <p><strong>Settings &gt; Pages &gt; Build and deployment</strong> 메뉴에서 Build Source를 <strong>"GitHub Actions"</strong>로 설정합니다.</p>
+        </div>
+
+        <div class="setup-step">
+          <h4>4. 매일 자동 업데이트 확인</h4>
+          <p>매일 아침 9시(00:00 UTC)에 <code>.github/workflows/daily-update.yml</code>이 자동으로 코코아, 커피, GDT 우유 시세를 가져와 대시보드를 갱신합니다. <strong>Actions 탭</strong>에서 <em>"Run workflow"</em>를 눌러 수동 테스트도 가능합니다.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Commodity Detail Modal -->
+  <div class="modal-overlay" id="detailModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title" id="detailTitle">원자재 상세정보</h3>
+        <button class="modal-close" id="closeDetailModal">&times;</button>
+      </div>
+      <div class="modal-body" id="detailBody">
+        <!-- Dynamically rendered detail -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Commodity News Modal -->
+  <div class="modal-overlay" id="newsModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title" id="newsModalTitle">📰 실시간 글로벌 시장 뉴스</h3>
+        <button class="modal-close" id="closeNewsModal">&times;</button>
+      </div>
+      <div class="modal-body" id="newsModalBody">
+        <!-- Dynamically rendered news -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Application Script -->
+  <script src="app.js"></script>
+</body>
+</html>
