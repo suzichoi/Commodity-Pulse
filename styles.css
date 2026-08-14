@@ -136,8 +136,6 @@ body {
   color: var(--text-secondary);
 }
 
-}
-
 .pulse-dot {
   width: 8px;
   height: 8px;
@@ -272,6 +270,16 @@ body {
   border-radius: var(--radius-full);
   font-size: 12px;
   font-weight: 700;
+}
+
+.title-mobile,
+.badge-mobile-trend {
+  display: none;
+}
+
+.title-desktop,
+.badge-full {
+  display: inline;
 }
 
 .badge-gain {
@@ -665,236 +673,138 @@ body {
   overflow-x: auto;
 }
 
-/* Responsive Styles */
-@media (max-width: 768px) {
-  /* ---- App Container ---- */
-  .app-container {
-    padding: 0 14px;
-  }
+/* ==========================================================================
+   Happy Cow Interactive Entertaining Widget
+   ========================================================================== */
+.happy-cow-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.08) 0%, rgba(236, 72, 153, 0.08) 100%);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(245, 158, 11, 0.25);
+  border-radius: var(--radius-lg);
+  padding: 8px 16px;
+  margin-bottom: 12px;
+  position: relative;
+  overflow: visible;
+  user-select: none;
+  transition: all 0.3s ease;
+}
 
-  /* ---- Header ---- */
-  .header-nav {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 12px;
-    padding: 16px 0;
-    margin-bottom: 16px;
-  }
+.happy-cow-bar:hover {
+  border-color: rgba(245, 158, 11, 0.45);
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(236, 72, 153, 0.12) 100%);
+}
 
-  .brand-title {
-    font-size: 20px;
-  }
+.happy-cow-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
 
-  .brand-tagline {
-    font-size: 12px;
-  }
+.cow-btn {
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
+  border: none;
+  border-radius: var(--radius-full);
+  padding: 5px 12px 5px 8px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(245, 158, 11, 0.35);
+  transition: transform 0.15s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.15s ease;
+  position: relative;
+}
 
-  .brand-citation {
-    font-size: 10px;
-    word-break: keep-all;
-  }
+.cow-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 14px rgba(245, 158, 11, 0.5);
+}
 
-  .header-actions {
-    width: 100%;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
+.cow-btn:active {
+  transform: scale(0.92);
+}
 
-  .status-badge {
-    font-size: 11px;
-    padding: 5px 10px;
-    width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-  }
+.cow-icon {
+  font-size: 20px;
+  display: inline-block;
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
 
-  .currency-toggle {
-    flex: 1;
-    justify-content: center;
-  }
+.cow-icon.wiggle {
+  animation: cowWiggle 0.45s ease;
+}
 
-  /* ---- News Ticker ---- */
-  .news-ticker-banner {
-    flex-wrap: wrap;
-    gap: 8px;
-    padding: 8px 12px;
-    margin-bottom: 14px;
-  }
+@keyframes cowWiggle {
+  0% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.4) rotate(-18deg); }
+  50% { transform: scale(1.4) rotate(18deg); }
+  75% { transform: scale(1.15) rotate(-6deg); }
+  100% { transform: scale(1) rotate(0deg); }
+}
 
-  .ticker-label {
-    font-size: 11px;
-    padding: 3px 8px;
-  }
+.cow-tap-hint {
+  font-size: 11.5px;
+  font-weight: 800;
+  color: #FFFFFF;
+  letter-spacing: -0.2px;
+}
 
-  .ticker-content {
-    width: 100%;
-    flex: none;
-    order: 3;
-  }
+.cow-speech {
+  font-size: 12.5px;
+  color: #F8FAFC;
+  font-weight: 500;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 4px 12px;
+  border-radius: var(--radius-md);
+  transition: all 0.2s ease;
+}
 
-  .ticker-text {
-    font-size: 12px;
-  }
+.happy-cow-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
 
-  .ticker-controls {
-    margin-left: auto;
-  }
+.cow-counter-label {
+  font-size: 11.5px;
+  color: var(--text-muted);
+}
 
-  /* ---- Cards Grid ---- */
-  .cards-grid {
-    grid-template-columns: 1fr;
-    gap: 12px;
-    margin-bottom: 20px;
-  }
+.cow-count-badge {
+  background: linear-gradient(135deg, #10B981 0%, #059669 100%);
+  color: #FFFFFF;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2.5px 8px;
+  border-radius: var(--radius-full);
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.3);
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+  white-space: nowrap;
+}
 
-  .card-value {
-    font-size: 22px;
-  }
+.cow-count-badge.pop {
+  transform: scale(1.28);
+}
 
-  /* ---- Chart ---- */
-  .chart-panel {
-    padding: 16px;
-  }
+/* Floating Moo Particle */
+.moo-particle {
+  position: absolute;
+  font-size: 13px;
+  font-weight: 800;
+  color: #FBBF24;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.8);
+  pointer-events: none;
+  z-index: 100;
+  animation: floatMoo 0.9s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
 
-  .chart-header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-    margin-bottom: 14px;
-  }
-
-  .chart-title-group h2 {
-    font-size: 16px;
-  }
-
-  .chart-subtitle {
-    font-size: 11px;
-    word-break: break-all;
-  }
-
-  .chart-container {
-    height: 240px;
-  }
-
-  .time-range-picker {
-    width: 100%;
-    justify-content: space-between;
-  }
-
-  .range-btn {
-    flex: 1;
-    text-align: center;
-    padding: 6px 6px;
-    font-size: 11px;
-  }
-
-  /* ---- Table Panel ---- */
-  .table-panel {
-    padding: 14px;
-  }
-
-  .table-controls {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-  }
-
-  .filter-tabs {
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-
-  .filter-tabs::-webkit-scrollbar {
-    display: none;
-  }
-
-  .tab-btn {
-    padding: 6px 12px;
-    font-size: 12px;
-    white-space: nowrap;
-  }
-
-  .search-box {
-    min-width: 0;
-    width: 100%;
-  }
-
-  /* ---- Data Table: card-style on mobile ---- */
-  .data-table-wrapper {
-    overflow-x: visible;
-  }
-
-  .data-table thead {
-    display: none;
-  }
-
-  .data-table,
-  .data-table tbody,
-  .data-table tr,
-  .data-table td {
-    display: block;
-    width: 100%;
-  }
-
-  .data-table tr {
-    background: rgba(18, 24, 38, 0.75);
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    border-radius: 12px;
-    margin-bottom: 12px;
-    padding: 14px 12px;
-    cursor: pointer;
-  }
-
-  .data-table tr:hover {
-    background: rgba(26, 35, 54, 0.85);
-  }
-
-  .data-table td {
-    padding: 4px 0;
-    border-bottom: none;
-    font-size: 13px;
-  }
-
-  /* label before each cell */
-  .data-table td::before {
-    display: inline-block;
-    font-size: 10px;
-    color: var(--text-muted);
-    text-transform: uppercase;
-    font-weight: 700;
-    letter-spacing: 0.4px;
-    margin-bottom: 2px;
-  }
-
-  .data-table td:nth-child(1)::before { content: ""; }
-  .data-table td:nth-child(2)::before { content: "현재 시세"; display: block; }
-  .data-table td:nth-child(3)::before { content: "전일 대비"; display: block; }
-  .data-table td:nth-child(4)::before { content: "24h 고/저가"; display: block; }
-  .data-table td:nth-child(5)::before { content: "52주 범위"; display: block; }
-  .data-table td:nth-child(6)::before { content: ""; }
-
-  .range-bar-container {
-    width: 100%;
-  }
-
-  .cell-price {
-    font-size: 18px;
-  }
-
-  /* ---- Modals ---- */
-  .modal-content {
-    padding: 20px 16px;
-    border-radius: var(--radius-md);
-    max-height: 88vh;
-  }
-
-  .modal-title {
-    font-size: 17px;
-  }
+@keyframes floatMoo {
+  0% { opacity: 0; transform: translateY(0) scale(0.7); }
+  25% { opacity: 1; transform: translateY(-12px) scale(1.2); }
+  100% { opacity: 0; transform: translateY(-44px) scale(1); }
 }
 
 /* Live News Ticker Banner */
@@ -930,30 +840,6 @@ body {
   white-space: nowrap;
   letter-spacing: -0.2px;
   box-shadow: 0 2px 8px rgba(5, 150, 105, 0.3);
-}
-
-.pulse-dot {
-  width: 7px;
-  height: 7px;
-  background-color: #34D399;
-  border-radius: 50%;
-  box-shadow: 0 0 0 0 rgba(52, 211, 153, 0.7);
-  animation: pulse-ring 1.5s infinite;
-}
-
-@keyframes pulse-ring {
-  0% {
-    transform: scale(0.95);
-    box-shadow: 0 0 0 0 rgba(52, 211, 153, 0.7);
-  }
-  70% {
-    transform: scale(1);
-    box-shadow: 0 0 0 6px rgba(52, 211, 153, 0);
-  }
-  100% {
-    transform: scale(0.95);
-    box-shadow: 0 0 0 0 rgba(52, 211, 153, 0);
-  }
 }
 
 .ticker-content {
@@ -1007,3 +893,505 @@ body {
   background: rgba(255, 255, 255, 0.15);
   color: #FFFFFF;
 }
+
+/* ==========================================================================
+   스마트폰 & 모바일 반응형 스타일 (너비 768px 이하 대응)
+   ========================================================================== */
+@media screen and (max-width: 768px) {
+  /* ---- 전체 컨테이너 여백 최적화 ---- */
+  .app-container {
+    padding: 8px 12px;
+  }
+
+  /* ---- 상단 네비게이션 및 헤더 배치 (슬림 세로 정렬) ---- */
+  .header-nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 10px 0;
+    margin-bottom: 10px;
+  }
+
+  .brand-group {
+    width: 100%;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .brand-icon {
+    width: 34px;
+    height: 34px;
+    font-size: 16px;
+    flex-shrink: 0;
+  }
+
+  .brand-title {
+    font-size: 18px;
+  }
+
+  .brand-tagline {
+    font-size: 11.5px;
+  }
+
+  .brand-citation {
+    font-size: 9.5px;
+    word-break: keep-all;
+    line-height: 1.3;
+  }
+
+  .header-actions {
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+  }
+
+  .status-badge {
+    width: 100%;
+    font-size: 11px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    line-height: 1.4;
+    word-break: break-word;
+    border-radius: var(--radius-md);
+  }
+
+  /* ---- Happy Cow 모바일 최적화 (대사 잘림 방지 & 확장) ---- */
+  .happy-cow-bar {
+    padding: 6px 10px;
+    margin-bottom: 8px;
+    border-radius: var(--radius-md);
+    gap: 8px;
+  }
+
+  .happy-cow-left {
+    flex: 1;
+    min-width: 0;
+    gap: 8px;
+    overflow: visible;
+  }
+
+  .cow-btn {
+    padding: 4px 8px 4px 6px;
+    flex-shrink: 0;
+  }
+
+  .cow-icon {
+    font-size: 16px;
+  }
+
+  .cow-tap-hint {
+    font-size: 10px;
+  }
+
+  .cow-speech {
+    font-size: 11px;
+    padding: 3px 8px;
+    flex: 1;
+    min-width: 0;
+    max-width: none; /* 고정 제한 해제하여 화면 너비에 맞춰 시원하게 확장 */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  .happy-cow-right {
+    flex-shrink: 0;
+  }
+
+  .cow-counter-label {
+    display: none;
+  }
+
+  .cow-count-badge {
+    font-size: 9.5px;
+    padding: 2px 6px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    flex-shrink: 0;
+  }
+
+  /* ---- 실시간 뉴스 티커 슬림화 ---- */
+  .news-ticker-banner {
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 6px 10px;
+    margin-bottom: 10px;
+    border-radius: var(--radius-md);
+  }
+
+  .ticker-label {
+    font-size: 10.5px;
+    padding: 2px 7px;
+  }
+
+  .ticker-content {
+    width: 100%;
+    flex: none;
+    order: 3;
+    height: 20px;
+  }
+
+  .ticker-text {
+    font-size: 11.5px;
+    line-height: 20px;
+  }
+
+  .ticker-controls {
+    margin-left: auto;
+  }
+
+  /* ---- 상단 요약 카드: 모바일 2x2 컴팩트 미니카드 모드 (숫자 없이 상승/하락 상태만 표시) ---- */
+  .title-desktop,
+  .badge-full,
+  .card-value,
+  .card-subtext,
+  .card-sparkline,
+  .card-title-en {
+    display: none !important;
+  }
+
+  .title-mobile,
+  .badge-mobile-trend {
+    display: inline-block !important;
+  }
+
+  .cards-grid,
+  .metrics-grid {
+    grid-template-columns: repeat(2, 1fr); /* 모바일 2x2 그리드 */
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .metric-card {
+    padding: 8px 10px;
+    border-radius: var(--radius-md);
+    min-height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .metric-card:hover,
+  .metric-card:active {
+    transform: none;
+  }
+
+  .card-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .card-icon-title {
+    gap: 6px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+
+  .card-icon {
+    font-size: 15px;
+    flex-shrink: 0;
+  }
+
+  .card-title-kr {
+    font-size: 12.5px;
+    font-weight: 700;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .badge-change {
+    padding: 3px 6px;
+    font-size: 10.5px;
+    font-weight: 700;
+    border-radius: var(--radius-full);
+    flex-shrink: 0;
+  }
+
+  /* ---- 인터랙티브 차트 패널: 모바일 진입 시 즉시 보이는 메인 영역 ---- */
+  .chart-panel {
+    padding: 14px 12px;
+    border-radius: var(--radius-md);
+    margin-bottom: 16px;
+  }
+
+  .chart-header {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  .chart-title-group h2 {
+    font-size: 16px;
+  }
+
+  .chart-subtitle {
+    font-size: 11.5px;
+    word-break: break-all;
+  }
+
+  .time-range-picker {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+  }
+
+  .range-btn {
+    flex: 1;
+    text-align: center;
+    padding: 6px 4px;
+    font-size: 11.5px;
+  }
+
+  .chart-container {
+    height: 280px; /* 큰 차트 표시 */
+  }
+
+  /* ---- 데이터 테이블 & 필터 영역 모바일 최적화 ---- */
+  .table-panel {
+    padding: 16px 12px;
+    border-radius: var(--radius-md);
+  }
+
+  .table-controls {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .filter-tabs {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+  }
+
+  .filter-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tab-btn {
+    padding: 7px 12px;
+    font-size: 12.5px;
+    flex-shrink: 0;
+  }
+
+  .search-box {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .search-input {
+    font-size: 13px;
+    padding: 10px 14px 10px 36px;
+  }
+
+  /* ---- 테이블 모바일 슬림 카드형 레이아웃 변환 ---- */
+  .data-table-wrapper {
+    overflow-x: visible;
+  }
+
+  .data-table thead {
+    display: none;
+  }
+
+  .data-table,
+  .data-table tbody {
+    display: block;
+    width: 100%;
+  }
+
+  .data-table tr {
+    background: rgba(18, 24, 38, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: var(--radius-md);
+    margin-bottom: 8px; /* 슬림한 여백 */
+    padding: 10px 12px;
+    cursor: pointer;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "item price"
+      "meta change"
+      "actions actions";
+    gap: 4px 10px;
+    align-items: center;
+    transition: background 0.2s ease, border-color 0.2s ease;
+  }
+
+  .data-table tr:hover,
+  .data-table tr:active {
+    background: rgba(26, 35, 54, 0.95);
+    border-color: var(--border-color-glow);
+  }
+
+  .data-table td {
+    padding: 0 !important;
+    border-bottom: none;
+  }
+
+  .data-table td::before {
+    display: none !important; /* 불필요한 라벨 제거하여 세로 길이 대폭 축소 */
+  }
+
+  /* 1열: 품목명 & 아이콘 */
+  .data-table td:nth-child(1) {
+    grid-area: item;
+  }
+
+  .cell-item {
+    gap: 8px;
+    align-items: center;
+  }
+
+  .cell-icon {
+    width: 28px;
+    height: 28px;
+    font-size: 14px;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+
+  .cell-name-kr {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .cell-symbol {
+    font-size: 10.5px;
+    color: var(--text-muted);
+  }
+
+  /* 2열: 현재 시세 (우측 상단) */
+  .data-table td:nth-child(2) {
+    grid-area: price;
+    text-align: right;
+  }
+
+  .cell-price {
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 1.2;
+    color: #F8FAFC;
+  }
+
+  .cell-unit {
+    font-size: 10px;
+    color: var(--text-muted);
+  }
+
+  /* 3열: 전일 대비 배지 (우측 하단) */
+  .data-table td:nth-child(3) {
+    grid-area: change;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .data-table td:nth-child(3) .badge-change {
+    padding: 2px 7px;
+    font-size: 11px;
+    font-weight: 700;
+    border-radius: 4px;
+  }
+
+  /* 4열: 24h 고/저가 (모바일에서는 간결함을 위해 상세모달로 위임) */
+  .data-table td:nth-child(4) {
+    display: none;
+  }
+
+  /* 5열: 52주 범위 슬림 바 (좌측 하단) */
+  .data-table td:nth-child(5) {
+    grid-area: meta;
+    display: flex;
+    align-items: center;
+  }
+
+  .range-bar-container {
+    width: 115px;
+    margin: 0;
+  }
+
+  .range-labels {
+    font-size: 8.5px;
+    margin-bottom: 1px;
+    color: var(--text-muted);
+  }
+
+  .range-track {
+    height: 4px;
+    border-radius: var(--radius-full);
+  }
+
+  /* 6열: 모바일 하단 액션 버튼 영역 */
+  .data-table td:nth-child(6) {
+    grid-area: actions;
+    padding-top: 6px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+    margin-top: 2px;
+  }
+
+  .data-table td:nth-child(6) > div {
+    width: 100%;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+  }
+
+  .data-table td:nth-child(6) button {
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    padding: 5px 0 !important;
+    font-size: 11.5px !important;
+    border-radius: 6px;
+    box-shadow: none;
+  }
+
+  /* ---- 모달 모바일 최적화 ---- */
+  .modal-overlay {
+    padding: 12px;
+  }
+
+  .modal-content {
+    padding: 20px 14px;
+    border-radius: var(--radius-md);
+    max-height: 90vh;
+  }
+
+  .modal-title {
+    font-size: 17px;
+  }
+}
+
+/* ==========================================================================
+   초소형 모바일 화면 (너비 480px 이하) 추가 최적화
+   ========================================================================== */
+@media screen and (max-width: 480px) {
+  .brand-title {
+    font-size: 17px;
+  }
+
+  .chart-container {
+    height: 260px;
+  }
+
+  .time-range-picker .range-btn {
+    font-size: 11px;
+    padding: 6px 2px;
+  }
+}
+
