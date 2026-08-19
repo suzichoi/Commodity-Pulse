@@ -16,37 +16,32 @@
     <!-- Header / Navbar -->
     <header class="header-nav">
       <div class="brand-group">
-        <div class="brand-icon">🌿</div>
         <div>
-          <h1 class="brand-title">Commodity Pulse</h1>
+          <div class="brand-title-wrap">
+            <h1 class="brand-title">Commodity Pulse</h1>
+            <span class="system-status-indicator success" id="systemStatusIndicator" title="최신 데이터 업데이트" aria-label="최신 데이터 업데이트">
+              <span class="status-dot"></span>
+            </span>
+          </div>
           <p class="brand-tagline">원자재 일일동향 by suesue</p>
-          <p class="brand-citation">📊 출처: Yahoo Finance · Global Dairy Trade (GDT) · ICE / CME / 서울외환시장</p>
+          <p class="brand-citation">출처: Yahoo Finance · Global Dairy Trade (GDT) · ICE / CME / 서울외환시장</p>
         </div>
       </div>
 
       <div class="header-actions">
         <div class="status-badge" id="lastUpdatedBadge">
           <span class="pulse-dot"></span>
-          <span id="lastUpdatedText">실시간 갱신 중...</span>
+          <span id="lastUpdatedText">USD/KRW · EUR/KRW 로딩 중...</span>
         </div>
-
+        <div class="cow-trigger-wrap" id="cowTriggerWrap">
+          <div class="cow-thought-bubble" id="cowThoughtBubble">Weekly report</div>
+          <button class="cow-icon-btn" id="cowIconBtn" type="button" aria-label="Weekly Report" title="Weekly Report">🐮</button>
+          <div class="cow-speech-bubble" id="cowSpeechBubble" role="dialog" aria-label="주간 시황 리포트">
+            <!-- Dynamically populated weekly briefing report -->
+          </div>
+        </div>
       </div>
     </header>
-
-    <!-- Happy Cow Widget (Entertaining) -->
-    <div class="happy-cow-bar" id="happyCowBar">
-      <div class="happy-cow-left">
-        <button class="cow-btn" id="cowBtn" title="터치해서 음메 충전!">
-          <span class="cow-icon" id="cowIcon">🐮</span>
-          <span class="cow-tap-hint">터치해주소!</span>
-        </button>
-        <div class="cow-speech" id="cowSpeech">"음메에에~ 행복 충전! 🍀"</div>
-      </div>
-      <div class="happy-cow-right">
-        <span class="cow-counter-label">행복 지수:</span>
-        <span class="cow-count-badge" id="cowCountBadge">0 음메</span>
-      </div>
-    </div>
 
     <!-- Live News Ticker Banner -->
     <div class="news-ticker-banner" id="newsTickerBanner">
@@ -63,9 +58,21 @@
       </div>
     </div>
 
-    <!-- Top Highlight Cards Grid -->
-    <section class="cards-grid" id="highlightCards">
-      <!-- Dynamically Rendered Cards -->
+    <!-- Top Highlight Cards Section with Filter Tabs -->
+    <section class="highlight-section">
+      <div class="highlight-header">
+        <div class="highlight-title-group">
+          <span class="highlight-title">시장 핵심 지표</span>
+          <div class="card-filter-tabs" id="cardFilterTabs">
+            <button class="card-tab-btn active" data-card-filter="featured">주요 품목</button>
+            <button class="card-tab-btn" data-card-filter="gainers">상승</button>
+            <button class="card-tab-btn" data-card-filter="losers">하락</button>
+          </div>
+        </div>
+      </div>
+      <div class="cards-grid" id="highlightCards">
+        <!-- Dynamically Rendered Cards -->
+      </div>
     </section>
 
     <!-- Main Dashboard Section -->
@@ -75,7 +82,7 @@
       <section class="chart-panel">
         <div class="chart-header">
           <div class="chart-title-group">
-            <h2 id="chartTitle">📈 코코아 (Cocoa) 시세 추이</h2>
+            <h2 id="chartTitle">🍫 코코아 (Cocoa)</h2>
             <p class="chart-subtitle" id="chartSubtitle">ICE Futures US · 톤당 달러 (USD / MT)</p>
           </div>
 
@@ -116,7 +123,7 @@
                 <th>품목명 (Item)</th>
                 <th>현재 시세</th>
                 <th>전일 대비</th>
-                <th>24h 고가 / 저가</th>
+                <th>1개월 고가 / 저가</th>
                 <th>52주 가격 범주</th>
                 <th>상세 분석 & 관련 뉴스</th>
               </tr>
