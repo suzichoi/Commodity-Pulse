@@ -7,7 +7,7 @@
   <meta name="description" content="매일 업데이트되는 국제 주요 원자재(코코아, 아라비카/로부스타 커피, GDT 우유/원유 선물, 원당, 곡물) 실시간 동향 및 가격 추이 대시보드">
   
   <!-- Google Fonts & Chart.js -->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=20260819">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
@@ -16,22 +16,23 @@
     <!-- Header / Navbar -->
     <header class="header-nav">
       <div class="brand-group">
-        <div>
-          <div class="brand-title-wrap">
-            <h1 class="brand-title">Commodity Pulse</h1>
-            <span class="system-status-indicator success" id="systemStatusIndicator" title="최신 데이터 업데이트" aria-label="최신 데이터 업데이트">
-              <span class="status-dot"></span>
-            </span>
-          </div>
-          <p class="brand-tagline">원자재 일일동향 by suesue</p>
-          <p class="brand-citation">출처: Yahoo Finance · Global Dairy Trade (GDT) · ICE / CME / 서울외환시장</p>
+        <div class="brand-title-wrap">
+          <h1 class="brand-title">Commodity Pulse</h1>
+          <button class="system-status-indicator success" id="systemStatusIndicator" type="button" aria-label="데이터 수집 상태" title="데이터 수집 상태">
+            <span class="status-dot"></span>
+          </button>
         </div>
+        <div class="brand-tagline">원자재 일일동향 by suesue</div>
+        <div class="brand-citation">출처: Yahoo Finance · GDT · ICE · CME</div>
       </div>
 
       <div class="header-actions">
         <div class="status-badge" id="lastUpdatedBadge">
-          <span class="pulse-dot"></span>
-          <span id="lastUpdatedText">USD/KRW · EUR/KRW 로딩 중...</span>
+          <div class="status-badge-top">
+            <span class="pulse-dot"></span>
+            <span id="lastUpdatedText">USD/KRW · EUR/KRW 로딩 중...</span>
+          </div>
+          <div class="status-badge-time" id="lastUpdatedTime">Update : 로딩 중...</div>
         </div>
         <div class="cow-trigger-wrap" id="cowTriggerWrap">
           <div class="cow-thought-bubble" id="cowThoughtBubble">Weekly report</div>
@@ -43,11 +44,14 @@
       </div>
     </header>
 
+    <!-- Status Toast Notification -->
+    <div id="statusToast" class="status-toast" role="status" aria-live="polite"></div>
+
     <!-- Live News Ticker Banner -->
     <div class="news-ticker-banner" id="newsTickerBanner">
       <div class="ticker-label">
         <span class="pulse-dot"></span>
-        <span>LIVE NEWS</span>
+        <span>LIVE</span>
       </div>
       <div class="ticker-content" id="tickerContent">
         <a href="#" id="tickerLink" target="_blank" class="ticker-text">실시간 원자재 관련 뉴스를 불러오는 중...</a>

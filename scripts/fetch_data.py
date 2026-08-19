@@ -498,6 +498,7 @@ def fetch_yahoo_chart(symbol):
                 meta_price = meta.get('regularMarketPrice')
                 if meta_price and abs(meta_price - regular_price) < (regular_price * 0.15):
                     regular_price = meta_price
+                    clean_prices[-1] = regular_price
             else:
                 regular_price = meta.get('regularMarketPrice', 0)
                 prev_close = meta.get('chartPreviousClose', regular_price)

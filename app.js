@@ -10,19 +10,20 @@ let appState = {
   activeCategory: 'all',
   searchQuery: '',
   cardFilter: 'featured', // 'featured' (주요 품목), 'gainers' (상승), 'losers' (하락)
+  newsLang: 'KR',
   chartInstance: null
 };
 
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "success",
-  "last_updated": "2026-08-19 13:53:48",
+  "last_updated": "2026-08-19 14:44:24",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.19",
-    "report_date": "2026.08.19, 13:53",
+    "report_date": "2026.08.19, 14:44",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,310.52 (▼3.91%)",
     "weekly_price_list": [
@@ -43,8 +44,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,172.00 (▲1.03%)",
       "라우릭 오일 : $1,930.00 (0.00%)"
     ],
-    "fx_usd": "1,399.58원 (▼15.15원)",
-    "fx_eur": "1,620.30원 (▼17.86원)",
+    "fx_usd": "1,397.18원 (▼17.55원)",
+    "fx_eur": "1,618.20원 (▼19.96원)",
     "news_category": "GDT 탈지분유",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -53,7 +54,7 @@ const FALLBACK_DATA = {
     "week_number": 34,
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.19",
-    "report_date": "2026.08.19, 13:53",
+    "report_date": "2026.08.19, 14:44",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,310.52 (▼3.91%)",
     "weekly_price_list": [
@@ -74,14 +75,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,172.00 (▲1.03%)",
       "라우릭 오일 : $1,930.00 (0.00%)"
     ],
-    "fx_usd": "1,399.58원 (▼15.15원)",
-    "fx_eur": "1,620.30원 (▼17.86원)",
+    "fx_usd": "1,397.18원 (▼17.55원)",
+    "fx_eur": "1,618.20원 (▼19.96원)",
     "news_category": "GDT 탈지분유",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-19T13:53:48.038196+09:00",
-  "usdKrwRate": 1399.58,
-  "eurKrwRate": 1620.3,
+  "lastUpdated": "2026-08-19T14:44:24.903853+09:00",
+  "usdKrwRate": 1397.08,
+  "eurKrwRate": 1618.2,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -118,7 +119,7 @@ const FALLBACK_DATA = {
         5648.0,
         5734.0,
         6044.0,
-        5905.0
+        5924.0
       ],
       "history": {
         "1D": [
@@ -135,7 +136,7 @@ const FALLBACK_DATA = {
             "price": 5912.15
           },
           {
-            "time": "13:53",
+            "time": "14:44",
             "price": 5924.0
           }
         ],
@@ -166,7 +167,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-18",
-            "price": 5905.0
+            "price": 5924.0
           }
         ],
         "1M": [
@@ -256,7 +257,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-18",
-            "price": 5905.0
+            "price": 5924.0
           }
         ],
         "1Y": [
@@ -308,8 +309,8 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Cocoa Prices Fall on Exceptional Growing Conditions in West Africa - barchart.com",
-          "source": "barchart.com",
+          "title": "Cocoa Prices Fall on Exceptional Growing Conditions in West Africa - Barchart.com",
+          "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUJ3bUpCc2lLMENtUEM0TzdEcXZvLVZjZlpUY2phM016aGowakpfNDZBWHJXaC1mOWh4ZC02ckdLMkdfeWc0a3B1R0JNdmt6QXI3d3R3bjJlT19RMWhOS3MweFNmQkRyLUVOT3pqUDlPdEZKbEhVd0pCNkVGcmFRVTFGdjFPRnpqa0plZFBMeXlOVVdOczVZamQ0Wko1NEtUTVBGQ1ptT0xlMktKMXhj?oc=5",
           "date": "08-19 03:24"
         },
@@ -381,9 +382,9 @@ const FALLBACK_DATA = {
       "low52w": 5350.61,
       "high24h": 7346.9,
       "low24h": 6945.66,
-      "high7d": 8011.59,
-      "low7d": 7325.95,
-      "high1m": 8011.59,
+      "high7d": 7608.14,
+      "low7d": 7310.52,
+      "high1m": 7608.14,
       "low1m": 6821.09,
       "volume": 0,
       "sparkline": [
@@ -393,7 +394,7 @@ const FALLBACK_DATA = {
         7343.59,
         7453.82,
         7608.14,
-        8011.59
+        7310.52
       ],
       "history": {
         "1D": [
@@ -410,7 +411,7 @@ const FALLBACK_DATA = {
             "price": 7295.9
           },
           {
-            "time": "13:53",
+            "time": "14:44",
             "price": 7310.52
           }
         ],
@@ -441,7 +442,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-18",
-            "price": 8011.59
+            "price": 7310.52
           }
         ],
         "1M": [
@@ -531,7 +532,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-18",
-            "price": 8011.59
+            "price": 7310.52
           }
         ],
         "1Y": [
@@ -583,8 +584,8 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
-          "source": "IndexBox",
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - indexbox.io",
+          "source": "indexbox.io",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
           "date": "08-18 13:10"
         },
@@ -601,10 +602,10 @@ const FALLBACK_DATA = {
           "date": "08-18 14:34"
         },
         {
-          "title": "Coffee Prices Surge on Supply Fears - barchart.com",
-          "source": "barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmNjNUdWNGNKWEFDVm5hMUFyd3IzY3VJSlhFZl9BRlV2dmU3SERlSGp0dnI0VlZqUUdWZDBQVEhlRmhVa1IxVlZZLURDMW5KQ0NTa0JRZU05UEJVdFQxRmc2aXAteWNkYTF6NFo4WDhRdS16LVNlZGdzZFVjaDFVNkdsQnBMZw?oc=5",
-          "date": "08-19 00:45"
+          "title": "Agricultural product prices today, August 17, 2026: Domestic coffee prices hit a low, export rice prices increased; EU imposes new tariffs, China loses millions of customers. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSWdtbXRQbjlzWGVndGtSNnNmd2pMQ3lNYk5DQklGQXg1bGMtR1ppcDhYMWRqd2dJTEZkNjI5Q1NicE1KMDBPN3M3UkdNSEFmNUh3Z2lSZEcyaTBUMmRjaG5vUXlfWEFTeXVGZm15NE9ReUJuNU1wZlgxLXJuNUNlazBjakd4QTlObXNIT1NfTEdIeFliWkZ6WXloQlFOWFk3TE1kWW44bWxrNWgtd1dIRC1YM19lYXdKUGtESUhPbEd3VVBPN1YzRkNLQzNtSEc3NXBYZW56S3ZRdVBIVE5vM014OGZhNXRRMjN2Z3NBVVZvQ3hGaEVKWjRlNXl3dw?oc=5",
+          "date": "08-17 16:16"
         }
       ],
       "newsKr": [
@@ -615,16 +616,16 @@ const FALLBACK_DATA = {
           "date": "08-19 08:23"
         },
         {
+          "title": "2026년 8월 19일 현재 커피 가격: 아라비카 가격이 5.3% 상승하여 국내 가격이 kg당 10만 VND에 근접하고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDU4SElFTjhlMVFCbkJQdTF3eW1nMHlhZXhlNEhPUXZlTnpvYjhtM0I4Tm9KSlMxVENPQl85Q0I5cUpPRlFxRDdlbVBaYWVOckwyM2dLcVJEZEppaWh5aElHNXFGakhKd3FhMzlCTFJyRVEwWDRUNEN1d2ZoZE1fNGl5b2doT2FpOW8zYjN5OGs5TUJoMXNQNGFaR01fTnZscnpwdk1uQUZWbTQ?oc=5",
+          "date": "08-19 14:28"
+        },
+        {
           "title": "오늘의 농업 뉴스(8월 19일): 커피 가격 급등, 후추 가격은 안정세 유지. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUNGSlVyVkZoaEFHajZ3SlNBcGZRc1M1TVMwTi1BRGxTbmdwTWpKMFdndnRVYW9rd1BWcG5IZTJyLWFqNHJacm52QzA4QlNXQ29DalktVllkNko5Y0ZZOVFzN3ZQVlZEcjQ2ZzViMWZxeXJDU0Q5MG1nczhNV1ZRSGxKTG5vMndsNV9meV9aakN4QmNialRoc3gtaHY?oc=5",
           "date": "08-19 10:52"
-        },
-        {
-          "title": "커피 가격 급등, 전 세계 공급 압박 심화. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM2tDXzQ4V2lBdE1mRmk2UzZPN0kyd2t4VXZaSFJZNUNMVkY2Q3g3MVJwTkhaNHZtWm9JSUxqVUxLS1JvZFc5dFM3U0xMdThpNXp3aGZhY3RUcEc2ZktWM1pUWmdiVG9aX0paVlJjWjROMF9nWG1XV2VpVVhHOUhKSy0xZ2ZFREpsMUdySXJOWQ?oc=5",
-          "date": "08-18 16:30"
         },
         {
           "title": "오늘 8월 18일 커피 가격: kg당 1,800동 급등 - Laodong.vn",
@@ -806,7 +807,7 @@ const FALLBACK_DATA = {
             "price": 3731.52
           },
           {
-            "time": "13:53",
+            "time": "14:44",
             "price": 3739.0
           }
         ],
@@ -879,8 +880,8 @@ const FALLBACK_DATA = {
           "date": "08-18 18:00"
         },
         {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
-          "source": "IndexBox",
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - indexbox.io",
+          "source": "indexbox.io",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
           "date": "08-18 13:10"
         },
@@ -1126,14 +1127,14 @@ const FALLBACK_DATA = {
           "date": "08-19 01:39"
         },
         {
-          "title": "GDT index up 2.3% after latest trading event - Agriland",
-          "source": "Agriland",
+          "title": "GDT index up 2.3% after latest trading event - agriland.ie",
+          "source": "agriland.ie",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
         },
         {
-          "title": "Global dairy prices lift 2.3% - businessdesk.co.nz",
-          "source": "businessdesk.co.nz",
+          "title": "Global dairy prices lift 2.3% - BusinessDesk | NZ",
+          "source": "BusinessDesk | NZ",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUEhtb2UySTZ1VndmT1BXUVVES193Ri1YRnN2TTdkMXRNOXg2OXNoQ3lWX0loLWdZcFF4X3hLYmhvZm16LXhIR00yd2U2TXZlSllyMTZ1aHVCdllQTW9Yc2JGbVRoVmVZaE14Vzl5WDlMS2poUUlmU1VpeXpWZ3hWdGlDWQ?oc=5",
           "date": "08-19 05:10"
         }
@@ -1379,8 +1380,8 @@ const FALLBACK_DATA = {
           "date": "08-18 23:39"
         },
         {
-          "title": "Global dairy prices lift 2.3% - businessdesk.co.nz",
-          "source": "businessdesk.co.nz",
+          "title": "Global dairy prices lift 2.3% - BusinessDesk | NZ",
+          "source": "BusinessDesk | NZ",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUEhtb2UySTZ1VndmT1BXUVVES193Ri1YRnN2TTdkMXRNOXg2OXNoQ3lWX0loLWdZcFF4X3hLYmhvZm16LXhIR00yd2U2TXZlSllyMTZ1aHVCdllQTW9Yc2JGbVRoVmVZaE14Vzl5WDlMS2poUUlmU1VpeXpWZ3hWdGlDWQ?oc=5",
           "date": "08-19 05:10"
         }
@@ -1608,10 +1609,10 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Global Dairy Trade: powders on the rise as butter continues to fall - Irish Farmers Journal",
+          "title": "Global Dairy Trade: powders on the rise as butter continues to fall 18 August 2026 Free - Irish Farmers Journal",
           "source": "Irish Farmers Journal",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHNQMnBxdWhhT1ZtTXg3Q2FCZFNLemZ6U2ZpaC1TdkZnV1N3UHBTckdSVzZlTXJ2ZW9fMFRueHNJOVZiWmlXOTJiOEdIeEFCcFVxMGVYRVFfdzB0UTBHQXdJM0hqTGpub19ZcFFLU2hvUWZyMjdSSXJpUXY4M0RiakJJX3lwNExKVzloMEJaUWx5WDJDMEhwQktYbXpCdlRDMlJvdzRqX3JfVFZyc2oxQW1ld1JsRk96?oc=5",
-          "date": "08-19 01:23"
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0FfcHNPNTJpV0lxWlhyb0JKNjN0MWZlN1ByWHJwNVk3NEZLdmx6dEYtVFNCM0tISVEtX3paV1FjeEloU0RYcVBaVGRfdGs0UDhRVDVNMjU2RFFkN25tVUhJdnU5NUUwLXZTYmczTnJwUW5GRV9nVkUzQUgyd2E4NUNMQ0FBYV9HcXNnLVg4akthTDhYbGNibXlMU3V1N3VETHcwY0sxSW5CRWZBVzg3dUhwVnhpa0FnTDJuTTVR?oc=5",
+          "date": "08-19 01:59"
         },
         {
           "title": "Dairy prices rally at latest auction as El Niño looms - NZ Herald",
@@ -1626,8 +1627,8 @@ const FALLBACK_DATA = {
           "date": "08-19 07:55"
         },
         {
-          "title": "GDT index up 2.3% after latest trading event - Agriland",
-          "source": "Agriland",
+          "title": "GDT index up 2.3% after latest trading event - agriland.ie",
+          "source": "agriland.ie",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
         }
@@ -2077,7 +2078,7 @@ const FALLBACK_DATA = {
             "price": 1169.66
           },
           {
-            "time": "13:53",
+            "time": "14:44",
             "price": 1172.0
           }
         ],
@@ -2152,13 +2153,19 @@ const FALLBACK_DATA = {
           "date": "08-18 23:14"
         },
         {
-          "title": "Malaysian Palm Oil Futures Rise 2% to MYR 4,820 on Demand Hopes - News and Statistics - IndexBox",
-          "source": "IndexBox",
+          "title": "Malaysian Palm Oil Futures Rise 2% to MYR 4,820 on Demand Hopes - News and Statistics - indexbox.io",
+          "source": "indexbox.io",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM2JNSHV5WGRrdFF3bzlBcnctMXlYeDFqbWVLWnR0cE9GNzAwblVZZ3ZnWVpncDQ3ZzZPS25OUHdyWldpRHdUS1c3RFRKNXhHbUQzRU10S2w2Z0pCNzJEWUM1ei1YTkNDaWUyS3V0a1VzUlhiS2thczh6ckxJRDVwZUN4aXV6YWY1?oc=5",
           "date": "08-17 19:11"
         }
       ],
       "newsKr": [
+        {
+          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
+          "date": "08-19 14:13"
+        },
         {
           "title": "해바라기유도 ‘껑충’…유지류 가격 초비상 [푸드360] - 헤럴드경제",
           "source": "헤럴드경제",
@@ -2172,14 +2179,8 @@ const FALLBACK_DATA = {
           "date": "05-11 16:00"
         },
         {
-          "title": "세계식량가격 석달째 상승…원유 상승에 유지류 5.9%↑ - 뉴시스",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15M3pXZzRwZlNoZFUxUHVhS09XRHVZUkpzOUI3b3k2cXFuRkJzY2J6QmRmSTdkZUVxUDVscWdWYUdEbm1EZ3dIUlhtN0dJSVJJODJBcjVvczk5YnZNYnRXTdIBeEFVX3lxTE1zR0FXeGtiSUlmMDR2UC0xdjZmb0hsR1ZXUmdnZ1d6YXpLd1FQRmhTMWRHdEw1ZDVpbnEzRjQ4S2JCX1cyLUdXX0JtMzVPMGNuV3pRWnU1VUZnS3VQaVliUW9XcEF5TDNZa3pOTEVtbGpOS1NMUnhBNw?oc=5",
-          "date": "05-09 16:00"
-        },
-        {
-          "title": "국제 유지류ㆍ육류ㆍ곡물 가격 상승, 설탕ㆍ유제품은 내려 - foodnews.co.kr",
-          "source": "foodnews.co.kr",
+          "title": "국제 유지류ㆍ육류ㆍ곡물 가격 상승, 설탕ㆍ유제품은 내려 - 식품저널 foodnews",
+          "source": "식품저널 foodnews",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcXZBb2ozWEJiWmotWS1lWHVCQWE1VTZSaFpqdHVfVVpjUVpsNF9WNmdEcVgyenV0TG9uTU5vbFdpZFlSbFhLXzl4UVNPeFhCVVFWQVZ5anRsbDJYaHVkZUxFeThZampPdXJjTWxR?oc=5",
           "date": "05-11 16:00"
         }
@@ -2442,15 +2443,21 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "13:53",
+            "time": "14:44",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Vegetable Oils in Beauty and Personal Care Market Size, Share, Growth Drivers, Latest Trends, Leading Companies, and Forecast – 2031 - barchart.com",
-          "source": "barchart.com",
+          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - indexbox.io",
+          "source": "indexbox.io",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDN1WmxSMEowT3FsRmlkUGVTcngwbkNHVFJVUWQ1VnNidVRtYXpzdWdURjZtLVZFYks3cmdiTWM4S2VqNDFnVEJRRDJVNDgzWFBmMUYzWDdKT2dCNUJzdnZhTUlnbXkwQjdYMG9KOU9uWWtvWGlsNUl0RnFMcjN3RkZuX0xNZE5RX3ROLXEwYnNqcDd4eUxqZUtPRFFsbHc3UHhkT3RzY1VvckJJWUk0Vw?oc=5",
+          "date": "08-19 14:04"
+        },
+        {
+          "title": "Vegetable Oils in Beauty and Personal Care Market Size, Share, Growth Drivers, Latest Trends, Leading Companies, and Forecast – 2031 - Barchart.com",
+          "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQX3ZGS2RtcVhVa0tQMHFUcVhTdEktODRvdVJ6UWNrdlhQenkwY2F3SmdSNDMwVmRFN2hRUkVybXliQXI4U3FXVEh5OHB0Yml2ZzVGMnVobEJnMEM5NWY1anM3XzA0WVBKTXllR2RrSDVHVTR6UkhLR3A3ZWQyQm4ySDRTMWw5QWhTM2xvdlMzZWdPNWg3U2NGSU1oQnpqMkdWd2ItdlBxTFo1eFdobTBMUXdHbG1Jdkp4RWpmMndESWduM0h1MS1xbTFLdXFUbXM1djB2cUUyQU9BQjdKMVpFUnRrU1pVT1BtRTFWTFE1REhBQkptWjB0d3Y2MXJLdw?oc=5",
           "date": "08-18 03:40"
         },
@@ -2465,12 +2472,6 @@ const FALLBACK_DATA = {
           "source": "chemanalyst.com",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVc3NHZkeGppZ3RTUVRXRGU2Y1BORWdSaEVrdV9qQXd4Q1pia0VjbzVISFJPQXlNdWxySHBtN0QxRjR5YjBvWi10VkxKYWgtV1BBd3liS2taSVF0VDlqcDk1V1EtazhMUERyZVdWSi1NVjNoOFdNc0hadFdOaUxuaWplZEE0Z1NVZ3djRGNfTWZtQ1FMNDlhM1czU25tWXBQMmdmWXJ1SGlPcUl1WWZIRVpJUlBpbzNmMW9STHdR?oc=5",
           "date": "08-17 20:14"
-        },
-        {
-          "title": "From oil palm to soap bar: Cinderella at the sink - thestar.com.my",
-          "source": "thestar.com.my",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUQ4NFYwSWJtYnBmVWEzZ1V6S2JqNDU1VW5yOGdyMjdpbFhDaEtwOExMSmR6ZHFEbVc3QjhfbFJfblEzLVAybnBLdkVuSXRjdWswN2FhUTBOV04tNFVmejR3c1NpUTVLOXZMMXd2czJaOVFHdHgwRjFmYVhjbEpUSGppVW9SbjNmNmFFbVRLcGxuVTNPY2JDam95Ny1faERocWZNUUk3d3dUTGdDWmc?oc=5",
-          "date": "08-18 08:51"
         }
       ],
       "newsKr": [
@@ -2515,17 +2516,17 @@ const FALLBACK_DATA = {
       "description": "실시간 원/달러 환율 추이 및 일일 매매기준율",
       "newsKeywords": "US Dollar Korean Won USD KRW exchange rate news",
       "naverQuery": "원달러 환율 전망",
-      "price": 1399.58,
-      "change": -15.15,
-      "changePercent": -1.07,
+      "price": 1397.18,
+      "change": -17.55,
+      "changePercent": -1.24,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1413.12,
-      "low24h": 1398.58,
+      "low24h": 1396.48,
       "high7d": 1417.31,
-      "low7d": 1399.58,
+      "low7d": 1397.18,
       "high1m": 1487.39,
-      "low1m": 1399.58,
+      "low1m": 1397.18,
       "volume": 0,
       "sparkline": [
         1417.31,
@@ -2534,7 +2535,7 @@ const FALLBACK_DATA = {
         1416.85,
         1415.37,
         1414.73,
-        1399.58
+        1397.18
       ],
       "history": {
         "7D": [
@@ -2564,7 +2565,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-19",
-            "price": 1399.58
+            "price": 1397.18
           }
         ],
         "1M": [
@@ -2658,25 +2659,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-19",
-            "price": 1399.58
+            "price": 1397.18
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1391.18
+            "price": 1388.8
           },
           {
             "time": "11:00",
-            "price": 1393.98
+            "price": 1391.59
           },
           {
             "time": "13:00",
-            "price": 1396.78
+            "price": 1394.39
           },
           {
-            "time": "13:53",
-            "price": 1399.58
+            "time": "14:44",
+            "price": 1397.18
           }
         ],
         "1Y": [
@@ -2730,7 +2731,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1399.58
+            "price": 1397.28
           }
         ]
       },
@@ -2751,12 +2752,12 @@ const FALLBACK_DATA = {
           "title": "Asia FX rises as Treasury yields ease; S. Korean won hits 1-yr high - Investing.com",
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY4dFd1VHc1SnY5WHAzQmlvdG92NnVhV0JrNEFFWDhrUnZsQU4xQ3ZkZ0d5c2lFelU4dXAxZEs5QXlwY1RxVVNIYWJpQkoyWUFMdFNxVzlzd0ZqTExfUFZpakpkRnIwWTk1ZDlhSjNKUFVGM2lZY2pxN2lUWlBqYURtbkdQYmtOcExCb05rQXpITEIyVEJ2NHVhUzFCeEd3VmRrYXlyZ1hBZkgxVld0dXowcmw?oc=5",
-          "date": "08-19 13:49"
+          "date": "08-19 13:51"
         },
         {
-          "title": "KRW/USD Exchange Rate Falls to the 1,300-Won Range Intraday for the First Time in 10 and a Half Months - asiae.co.kr",
-          "source": "asiae.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXZMYmVEbndvZVpBZVZkZlUyakJtUHNqVkE2U29VaFhKVlgya3dlQjRGSVNTNDZvZFhNb3RQTUxkVmF1ejdQcFp2OWk0QXBrQkU5a2NCU3RrcGREM3Y3MlRnXzRfMXNpblZ0VE5Pdy1ZYWdScHRFcllGb3pmMDJPeTdlRElGeUUtZXFtWmw5QQ?oc=5",
+          "title": "KRW/USD Exchange Rate Falls to the 1,300-Won Range Intraday for the First Time in 10 and a Half Months - 아시아경제",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KajdJWEJob0JkQmVsZ3ZLWjM2WEpyUFpWVmZickJBYk9GNXhQNUxEOC1PT0pvN0lNOVZsU0I3NEwxZnRKNXlNU0ZrR1FNZFZmWnVsMTc0UjE3TUROS0J1ZXhBVTc?oc=5",
           "date": "08-19 13:41"
         }
       ],
@@ -2765,7 +2766,7 @@ const FALLBACK_DATA = {
           "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5",
-          "date": "08-19 10:12"
+          "date": "08-19 07:58"
         },
         {
           "title": "반도체주 위험 회피가 환율 흔든다⋯\"1410원 중후반서 등락\" [환율전망] - 이투데이",
@@ -2774,10 +2775,10 @@ const FALLBACK_DATA = {
           "date": "08-19 08:10"
         },
         {
-          "title": "원·달러 환율, 10개월 반만에 1300원대로 하락 - 서울경제",
-          "source": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tV3NrcDY0andSckFBWDNKZ2lOWEdsdE9MUnhQSFpfWUxJUHJPWGQzUS1yWE5rV1J5eUlyVHFWclV3M3hBV1dDYzQ0aXFxNDRPamc?oc=5",
-          "date": "08-19 13:35"
+          "title": "원·달러 환율, 1412.94원…보합권에서 등락 전망 - 조세일보",
+          "source": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11YU9zcTExNGpBZlU2QW5VY0NEXzVCLU40NncwQTFUWXVidHViaW1JR05KU2RKem9DcV9UTHJqNExxUGk5WUwydTNGNjQxV3V0X0V0U1hacEowQnI5V2Fn?oc=5",
+          "date": "08-19 07:43"
         },
         {
           "title": "반도체주 폭락 여파에 달러·원 환율 1411원대 상승 출발 - 2news.co.kr",
@@ -2802,13 +2803,13 @@ const FALLBACK_DATA = {
       "description": "실시간 원/유로 환율 추이 및 일일 매매기준율",
       "newsKeywords": "Euro Korean Won EUR KRW exchange rate news",
       "naverQuery": "원유로 환율 전망",
-      "price": 1620.3,
-      "change": -17.86,
-      "changePercent": -1.09,
+      "price": 1618.2,
+      "change": -19.96,
+      "changePercent": -1.22,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1634.5,
-      "low24h": 1619.7,
+      "low24h": 1617.5,
       "high7d": 1638.16,
       "low7d": 1582.09,
       "high1m": 1700.58,
@@ -2821,7 +2822,7 @@ const FALLBACK_DATA = {
         1634.19,
         1582.09,
         1638.16,
-        1620.3
+        1618.2
       ],
       "history": {
         "7D": [
@@ -2851,7 +2852,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-19",
-            "price": 1620.3
+            "price": 1618.2
           }
         ],
         "1M": [
@@ -2945,25 +2946,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-19",
-            "price": 1620.3
+            "price": 1618.2
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1610.58
+            "price": 1608.49
           },
           {
             "time": "11:00",
-            "price": 1613.82
+            "price": 1611.73
           },
           {
             "time": "13:00",
-            "price": 1617.06
+            "price": 1614.96
           },
           {
-            "time": "13:53",
-            "price": 1620.3
+            "time": "14:44",
+            "price": 1618.2
           }
         ],
         "1Y": [
@@ -3017,7 +3018,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1620.3
+            "price": 1618.2
           }
         ]
       },
@@ -3029,8 +3030,8 @@ const FALLBACK_DATA = {
           "date": "08-19 09:30"
         },
         {
-          "title": "CBA currency exchange rates (18.08.2026) - report.az",
-          "source": "report.az",
+          "title": "CBA currency exchange rates (18.08.2026) - Report.az",
+          "source": "Report.az",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00cU0wai00bUtfQUZNYk54dXZBaXFPc0NKQ3hhSmVhVEkwenFFQkF5YU1hOWFsOFpqdDRGOVpqNndPdkcxdlhMaWNkTUhCS29yYVczTjhEeDZDb0dmSlRQN2pHaEV1V3otV2lXYm5QYkgxUG1JQnJxQlh4b9IBe0FVX3lxTE00cU0wai00bUtfQUZNYk54dXZBaXFPc0NKQ3hhSmVhVEkwenFFQkF5YU1hOWFsOFpqdDRGOVpqNndPdkcxdlhMaWNkTUhCS29yYVczTjhEeDZDb0dmSlRQN2pHaEV1V3otV2lXYm5QYkgxUG1JQnJxQlh4bw?oc=5",
           "date": "08-18 14:32"
         },
@@ -3055,6 +3056,12 @@ const FALLBACK_DATA = {
           "date": "08-19 13:15"
         },
         {
+          "title": "KDI \"올해 성장률 전망치 3.2%, 0.7%p↑…체감경기 확산은 미진\"(종합) - yna.co.kr",
+          "source": "yna.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wMi1TazRXaDlQeFVfTGIxdU9MdXo0aHRDZmJxejFoR0J0cGNQclQxanlNVDhOS1Vmb2hoN2tWTzY3THd2MGF6ZDAwRU9sbEhvVXdqY09ma3FFQVXSAWBBVV95cUxPTW5RYmo1UmFoY0Y0VmQyVUk1Q1gtWWVCeVoxRnJ0TDBIamdOQTMteF9SbVJ0LUZDczFReE5JQ3pYOXpwNWtrbnF4bENtaXVqU1duM3ZrUFhaRGFLTGRZQk8?oc=5",
+          "date": "08-19 14:32"
+        },
+        {
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
           "source": "LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
@@ -3065,12 +3072,6 @@ const FALLBACK_DATA = {
           "source": "자본시장뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VeGtUQ1RxdEozdmw5UGpZR3VoYmtUUFVXS0FZeVlfZGU5bkJ5WXc0Mlc5Q25XT0s2TmlLeUgxaE9BdUlYcjd2Y0RKVFN2bTJFM0hPX1MxRjZmUlVMMWdQVllKT0xYWHM?oc=5",
           "date": "08-17 07:30"
-        },
-        {
-          "title": "[주간환율전망] 이벤트 부재 속 1410원대 박스권···중동·엔화 '변수' - 서울파이낸스",
-          "source": "서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdmM5dlVIQ3FMdG5zSXVVcVMwMFRlcHhubUMtb0J3ZUQ5RGpqX2tldGJHVFBTeEdiblJNSUp2cnJVYWxXRGNkMDlkZzdYanJHeklXR29qbWlBRDZQTXpJd2Nna3ROZ0h2UGc?oc=5",
-          "date": "08-16 18:00"
         }
       ]
     }
@@ -3675,20 +3676,65 @@ function setCurrency(curr) {
   renderApp();
 }
 
+function getFormattedKstTimestamp() {
+  let updatedDate = new Date();
+  if (appState.data && appState.data.last_updated) {
+    const parsed = new Date(appState.data.last_updated.replace(' ', 'T') + '+09:00');
+    if (!isNaN(parsed.getTime())) updatedDate = parsed;
+    else updatedDate = new Date(appState.data.lastUpdated || Date.now());
+  } else if (appState.data && appState.data.lastUpdated) {
+    updatedDate = new Date(appState.data.lastUpdated);
+  }
+  const year = updatedDate.getFullYear();
+  const month = String(updatedDate.getMonth() + 1).padStart(2, '0');
+  const day = String(updatedDate.getDate()).padStart(2, '0');
+  const hours = String(updatedDate.getHours()).padStart(2, '0');
+  const minutes = String(updatedDate.getMinutes()).padStart(2, '0');
+  return `${year}-${month}-${day} ${hours}:${minutes} KST`;
+}
+
+let toastTimer = null;
+
+function showStatusToast(message, isError = false) {
+  let toast = document.getElementById('statusToast');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'statusToast';
+    toast.className = 'status-toast';
+    document.body.appendChild(toast);
+  }
+  
+  toast.className = `status-toast ${isError ? 'error' : 'success'} show`;
+  toast.innerHTML = isError 
+    ? `<span>🔴 ${message}</span>` 
+    : `<span>🟢 ${message}</span>`;
+
+  if (toastTimer) clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => {
+    toast.classList.remove('show');
+  }, 3500);
+}
+
 function renderSystemStatus() {
   const indicator = document.getElementById('systemStatusIndicator');
   if (!indicator) return;
 
   const status = (appState.data && appState.data.fetch_status) || 'success';
-  if (status === 'success') {
-    indicator.className = 'system-status-indicator success';
-    indicator.setAttribute('title', '최신 데이터 업데이트');
-    indicator.setAttribute('aria-label', '최신 데이터 업데이트');
-  } else {
-    indicator.className = 'system-status-indicator error';
-    indicator.setAttribute('title', '최신 데이터 업데이트 오류 ');
-    indicator.setAttribute('aria-label', '최신 데이터 업데이트 오류 ');
-  }
+  const isSuccess = status === 'success';
+  const timeStr = getFormattedKstTimestamp();
+
+  indicator.className = `system-status-indicator ${isSuccess ? 'success' : 'error'}`;
+  indicator.setAttribute('title', isSuccess ? `Last Updated: ${timeStr} (클릭하여 확인)` : `Last Updated: ${timeStr} / 데이터 수집 오류 (클릭하여 확인)`);
+  indicator.setAttribute('aria-label', isSuccess ? `Last Updated: ${timeStr}` : `Last Updated: ${timeStr} / 데이터 수집 오류`);
+
+  indicator.onclick = (e) => {
+    e.stopPropagation();
+    if (isSuccess) {
+      showStatusToast(`Last Updated: ${timeStr}`);
+    } else {
+      showStatusToast(`Last Updated: ${timeStr} / 데이터 수집 오류`, true);
+    }
+  };
 }
 
 function renderApp() {
@@ -3788,13 +3834,24 @@ function startTickerInterval() {
 
 function renderHeaderStatus() {
   if (!appState.data) return;
-  const updatedDate = new Date(appState.data.lastForexUpdated || appState.data.lastUpdated || Date.now());
-  const hours = String(updatedDate.getHours()).padStart(2, '0');
-  const minutes = String(updatedDate.getMinutes()).padStart(2, '0');
-  const timeFormatted = `${hours}:${minutes}`;
   const usdRate = appState.data.usdKrwRate ? `₩${appState.data.usdKrwRate.toLocaleString('ko-KR')}` : '-';
   const eurRate = appState.data.eurKrwRate ? `₩${appState.data.eurKrwRate.toLocaleString('ko-KR')}` : '-';
-  document.getElementById('lastUpdatedText').textContent = `USD/KRW ${usdRate} · EUR/KRW ${eurRate} (${timeFormatted})`;
+  const textEl = document.getElementById('lastUpdatedText');
+  if (textEl) {
+    textEl.textContent = `USD/KRW ${usdRate} · EUR/KRW ${eurRate}`;
+  }
+
+  const timeStr = getFormattedKstTimestamp();
+  const timeEl = document.getElementById('lastUpdatedTime');
+  if (timeEl) {
+    timeEl.textContent = `Update : ${timeStr}`;
+  }
+
+  const badge = document.getElementById('lastUpdatedBadge');
+  if (badge) {
+    badge.setAttribute('title', `마지막 업데이트: ${timeStr}`);
+    badge.setAttribute('aria-label', `마지막 업데이트: ${timeStr}`);
+  }
 }
 
 function formatPrice(val, originalCurrency) {
@@ -4244,8 +4301,24 @@ function openDetailModal(itemId) {
   const exchangeUrl = item.exchangeUrl || 'https://finance.yahoo.com';
   const exchangeName = item.exchange || '공식 거래소';
 
+  // Compute 7D (or 1M for dairy) history points
+  const isGdt = item.id.startsWith('gdt') || item.category === 'dairy';
+  const rangeKey = isGdt ? '1M' : '7D';
+  const rangeLabel = isGdt ? '최근 1개월' : '최근 7일';
+  
+  const historyData = (item.history && item.history[rangeKey] && item.history[rangeKey].length > 0)
+    ? item.history[rangeKey]
+    : ((item.history && item.history['7D'] && item.history['7D'].length > 0)
+        ? item.history['7D']
+        : (item.sparkline ? item.sparkline.map((p, idx) => ({ date: `D-${idx}`, price: p })) : [{ date: '현재', price: item.price }]));
+        
+  const prices = historyData.map(h => h.price);
+  const rangeHigh = prices.length ? Math.max(...prices) : item.price;
+  const rangeLow = prices.length ? Math.min(...prices) : item.price;
+
   document.getElementById('detailBody').innerHTML = `
-    <div style="display:flex; justify-content:space-between; align-items:center; background:rgba(255,255,255,0.03); padding:20px; border-radius:12px; margin-bottom:20px;">
+    <!-- Top Price Summary Box -->
+    <div style="display:flex; justify-content:space-between; align-items:center; background:rgba(255,255,255,0.03); padding:20px; border-radius:12px; margin-bottom:18px;">
       <div>
         <div style="font-size:13px; color:#94A3B8;">현재 시세</div>
         <div style="font-size:32px; font-family:'Outfit'; font-weight:800; color:#FFF;">${formatPrice(item.price, item.currency)}</div>
@@ -4259,21 +4332,37 @@ function openDetailModal(itemId) {
       </div>
     </div>
 
-    <h4 style="font-size:16px; font-weight:700; margin-bottom:8px; color:#F8FAFC;">품목 개요</h4>
-    <p style="font-size:14px; color:#94A3B8; line-height:1.6; margin-bottom:24px;">${item.description}</p>
-
-    <div style="display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:24px;">
-      <div style="background:rgba(0,0,0,0.3); padding:16px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">
-        <div style="font-size:12px; color:#64748B;">52주 최고가</div>
-        <div style="font-size:18px; font-weight:700; color:#F8FAFC; margin-top:4px;">${formatPrice(item.high52w, item.currency)}</div>
+    <!-- Mini Trend Chart Section -->
+    <div style="background:rgba(0,0,0,0.3); padding:16px; border-radius:12px; border:1px solid rgba(255,255,255,0.06); margin-bottom:18px;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+        <span style="font-size:13px; font-weight:700; color:#E2E8F0;">📈 ${rangeLabel} 시세 추이</span>
+        <span style="font-size:12px; color:#94A3B8;">
+          최고 <span style="color:#10B981; font-weight:600;">${formatPrice(rangeHigh, item.currency)}</span> / 최저 <span style="color:#F43F5E; font-weight:600;">${formatPrice(rangeLow, item.currency)}</span>
+        </span>
       </div>
-      <div style="background:rgba(0,0,0,0.3); padding:16px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">
-        <div style="font-size:12px; color:#64748B;">52주 최저가</div>
-        <div style="font-size:18px; font-weight:700; color:#F8FAFC; margin-top:4px;">${formatPrice(item.low52w, item.currency)}</div>
+      <div style="height:120px; width:100%; position:relative;">
+        <canvas id="detailMiniChart"></canvas>
       </div>
     </div>
 
-    <div style="margin-top:20px; padding-top:16px; border-top:1px solid rgba(255,255,255,0.08);">
+    <!-- Overview Text -->
+    <h4 style="font-size:15px; font-weight:700; margin-bottom:6px; color:#F8FAFC;">품목 개요</h4>
+    <p style="font-size:13.5px; color:#94A3B8; line-height:1.6; margin-bottom:18px;">${item.description}</p>
+
+    <!-- 52-Week High/Low Grid -->
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:20px;">
+      <div style="background:rgba(0,0,0,0.3); padding:14px 16px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">
+        <div style="font-size:12px; color:#64748B;">52주 최고가</div>
+        <div style="font-size:17px; font-weight:700; color:#F8FAFC; margin-top:4px;">${formatPrice(item.high52w, item.currency)}</div>
+      </div>
+      <div style="background:rgba(0,0,0,0.3); padding:14px 16px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">
+        <div style="font-size:12px; color:#64748B;">52주 최저가</div>
+        <div style="font-size:17px; font-weight:700; color:#F8FAFC; margin-top:4px;">${formatPrice(item.low52w, item.currency)}</div>
+      </div>
+    </div>
+
+    <!-- Official Source Button -->
+    <div style="border-top:1px solid rgba(255,255,255,0.08); padding-top:16px;">
       <a href="${exchangeUrl}" target="_blank" rel="noopener noreferrer" class="btn-primary" style="display:flex; align-items:center; justify-content:center; gap:8px; text-decoration:none; width:100%; padding:12px 18px; font-size:14px; font-weight:700; background:linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%); border-radius:10px; box-shadow:0 4px 14px rgba(37,99,235,0.35); box-sizing:border-box;">
         🔗 공식 데이터 출처 바로가기 (${exchangeName})
       </a>
@@ -4281,6 +4370,71 @@ function openDetailModal(itemId) {
   `;
 
   document.getElementById('detailModal').classList.add('open');
+
+  // Render Mini Chart
+  setTimeout(() => {
+    const canvas = document.getElementById('detailMiniChart');
+    if (canvas) {
+      if (window.detailMiniChartInstance) {
+        window.detailMiniChartInstance.destroy();
+      }
+      const ctx = canvas.getContext('2d');
+      const strokeColor = isGain ? '#10B981' : '#F43F5E';
+      const grad = ctx.createLinearGradient(0, 0, 0, 120);
+      grad.addColorStop(0, isGain ? 'rgba(16, 185, 129, 0.28)' : 'rgba(244, 63, 94, 0.28)');
+      grad.addColorStop(1, 'rgba(0, 0, 0, 0)');
+
+      window.detailMiniChartInstance = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: historyData.map(h => h.date || h.time || ''),
+          datasets: [{
+            data: prices,
+            borderColor: strokeColor,
+            borderWidth: 2.2,
+            backgroundColor: grad,
+            fill: true,
+            tension: 0.35,
+            pointRadius: 3,
+            pointBackgroundColor: strokeColor,
+            pointHoverRadius: 5
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              backgroundColor: 'rgba(15, 23, 42, 0.95)',
+              borderColor: 'rgba(255, 255, 255, 0.1)',
+              borderWidth: 1,
+              titleColor: '#E2E8F0',
+              bodyColor: '#FFFFFF',
+              padding: 8,
+              callbacks: {
+                label: (c) => ` 시세: ${formatPrice(c.raw, item.currency)}`
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { display: false },
+              ticks: { color: '#64748B', font: { size: 11 } }
+            },
+            y: {
+              grid: { color: 'rgba(255, 255, 255, 0.04)' },
+              ticks: {
+                color: '#64748B',
+                font: { size: 10 },
+                callback: (v) => formatPrice(v, item.currency)
+              }
+            }
+          }
+        }
+      });
+    }
+  }, 40);
 }
 
 function selectAndCloseModal(itemId) {
