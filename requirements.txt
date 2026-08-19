@@ -1,0 +1,2 @@
+# Built-in Python modules used: json, urllib.request, xml.etree.ElementTree, concurrent.futures
+certifi>=2024.2.2
