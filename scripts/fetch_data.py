@@ -37,7 +37,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "서아프리카(가나, 코트디부아르) 기후 변화 및 질병 영향으로 유례없는 변동성을 보이는 핵심 원자재",
         "newsKeywords": "Cocoa price market news",
-        "naverQuery": "코코아 가격"
+        "naverQuery": "코코아 가격",
+        "guide": {
+            "definition": "코트디부아르·가나 등 서아프리카산 카카오두 기준, 미국 ICE 거래소 선물 가격.",
+            "correlation": "글로벌 가공사·제과업체의 원료 매입 단가 기준. 선물 급등 시 약 6개월~1년 시차를 두고 실제 수입 현물가 및 제품가에 직접 반영됨.",
+            "factors": [
+                "서아프리카 가뭄 및 병충해(CSSVD) 발생 여부",
+                "코트디부아르·가나 정부의 수매가(LID) 정책",
+                "글로벌 가공업체 분쇄량(Grindings) 지표 및 완제품 소비 수요"
+            ]
+        }
     },
     {
         "id": "arabica",
@@ -53,7 +62,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "브라질 가뭄 및 한파 우려와 글로벌 수프라 서플라이 체인 수급 동향에 민감하게 반응하는 프리미엄 원두",
         "newsKeywords": "Arabica coffee price market news",
-        "naverQuery": "아라비카 커피 가격"
+        "naverQuery": "아라비카 커피 가격",
+        "guide": {
+            "definition": "브라질·콜롬비아 등 고지대에서 생산되는 스페셜티·원두커피용 품종, 미국 ICE 거래소 선물 가격.",
+            "correlation": "국제 원두 거래의 핵심 벤치마크. 실제 수입 현물가는 본 선물 가격에 산지 프리미엄(Diff)을 합산하여 결정됨.",
+            "factors": [
+                "브라질 개화기 가뭄 및 결빙(서리) 피해",
+                "브라질 헤알화 환율 변동에 따른 농가 출하량 조절",
+                "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
+            ]
+        }
     },
     {
         "id": "robusta",
@@ -69,7 +87,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "인스턴트 커피 및 에스프레소 블렌드 핵심 원료로 베트남 건기 이상 기후로 가격 급등세 유지",
         "newsKeywords": "Robusta coffee market news",
-        "naverQuery": "로부스타 커피 가격"
+        "naverQuery": "로부스타 커피 가격",
+        "guide": {
+            "definition": "베트남·인도네시아 등 저지대에서 생산되는 인스턴트·에스프레소 블렌딩용 품종, 런던 ICE Europe 선물 가격.",
+            "correlation": "글로벌 인스턴트 커피 및 캔커피 제조사의 원가 기준. 아라비카 가격 급등 시 대체재 수요 증가로 연동성 강화됨.",
+            "factors": [
+                "최대 생산국 베트남의 기후(가뭄 및 우기 강우량)",
+                "산지 농가의 재고 비축 및 출하 속도",
+                "수에즈 운하 등 주요 해상 항로 물류 차질"
+            ]
+        }
     },
     {
         "id": "gdt-index",
@@ -85,7 +112,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러 (평균)",
         "description": "글로벌 유제품 경매 종합 가중평균 거래가격 및 지수 (GDT Event Weighted Average Price & Index)",
         "newsKeywords": "Global Dairy Trade auction index news",
-        "naverQuery": "GDT 지수 유제품"
+        "naverQuery": "GDT 지수 유제품",
+        "guide": {
+            "definition": "뉴질랜드 폰테라(Fonterra) 중심의 글로벌 유제품 경매 플랫폼(GDT) 전 품목 가중평균 가격 지표.",
+            "correlation": "2주 단위 경매 체결 결과가 전 세계 유제품 실거래가의 기준 방향성을 결정함.",
+            "factors": [
+                "중국 내수 원유 재고 수준 및 수입 수요",
+                "뉴질랜드·EU 주요 산지의 산유량 증감",
+                "국제 유가 변동에 따른 글로벌 해상 운임"
+            ]
+        }
     },
     {
         "id": "gdt-milk",
@@ -101,7 +137,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "글로벌 유제품 가격 벤치마크(뉴질랜드 Fonterra 중심 경매 지수). 격주 화요일 경매 데이터 자동 실시간 연동",
         "newsKeywords": "Global Dairy Trade Whole Milk Powder news",
-        "naverQuery": "GDT 전지분유 가격"
+        "naverQuery": "GDT 전지분유 가격",
+        "guide": {
+            "definition": "원유에서 수분만 제거한 유지방 함유 분말, GDT 경매 거래 가격.",
+            "correlation": "제과·제빵 및 조제분유 수입 현물 계약의 직접적인 기준 가격으로 작용함.",
+            "factors": [
+                "중국의 전지분유 수입 재개 및 수입량 추이",
+                "뉴질랜드 목초지 기후 조건 및 원유 공급량",
+                "글로벌 유제품 소비 트렌드"
+            ]
+        }
     },
     {
         "id": "gdt-smp",
@@ -117,7 +162,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "제과/제빵 및 단백질 식품 원료로 활용되는 글로벌 탈지분유 벤치마크 경매 가격",
         "newsKeywords": "GDT Skim Milk Powder market news",
-        "naverQuery": "GDT 탈지분유 가격"
+        "naverQuery": "GDT 탈지분유 가격",
+        "guide": {
+            "definition": "원유에서 지방을 분리 제거 후 건조한 분말, GDT 경매 거래 가격.",
+            "correlation": "음료, 제과, 빙과류 제조 원가 지표. 버터 제조 시 함께 생산되는 부산물이므로 버터 생산량과 밀접하게 연동됨.",
+            "factors": [
+                "유럽 및 오세아니아 유가공 공장 가동률",
+                "버터박(Buttermilk) 가공 비율 및 유청 단백질 수요",
+                "식물성 대체 단백질 시장의 가격 동향"
+            ]
+        }
     },
     {
         "id": "gdt-butter",
@@ -133,7 +187,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "유지방 가공식품 및 베이커리 핵심 소재인 글로벌 버터 국제 경매 가격",
         "newsKeywords": "Global Dairy Trade Butter price news",
-        "naverQuery": "GDT 버터 가격"
+        "naverQuery": "GDT 버터 가격",
+        "guide": {
+            "definition": "유지방 80% 이상 유제품, GDT 경매 거래 가격.",
+            "correlation": "베이커리·유가공 업체의 직수입 단가 벤치마크. 유지방 수급 불균형 발생 시 단기 변동폭 확대됨.",
+            "factors": [
+                "베이커리 성수기(연말 및 명절) 수요 집중",
+                "계절별 원유 내 유지방(Fat) 함유율 변화",
+                "식물성 대체 유지(팜유, 마가린 등)와의 가격차"
+            ]
+        }
     },
     {
         "id": "palm",
@@ -149,7 +212,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "세계 최대 소비 식용유 원자재로 인도네시아·말레이시아 기후 및 바이오디젤 수요 직결",
         "newsKeywords": "Crude Palm Oil price market news",
-        "naverQuery": "팜유 가격 시세"
+        "naverQuery": "팜유 가격 시세",
+        "guide": {
+            "definition": "인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격.",
+            "correlation": "가공식품·제과·바이오디젤의 핵심 원가 지표. 실제 수입 시 FOB/CIF 현물 가격과 즉각 연동됨.",
+            "factors": [
+                "인도네시아의 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제",
+                "동남아 엘니뇨 가뭄에 따른 수확량 감소",
+                "대체 식물성 유지인 대두유(Soybean Oil) 가격 추이"
+            ]
+        }
     },
     {
         "id": "lauric-oil",
@@ -165,7 +237,16 @@ COMMODITY_CONFIG = [
         "unitKr": "톤당 달러",
         "description": "야자유(코코넛유) 및 팜핵유(PKO) 등 라우르산 계열 고급 식물성 유지 원자재",
         "newsKeywords": "Lauric oil Coconut oil market news",
-        "naverQuery": "라우릭 오일 야자유 가격"
+        "naverQuery": "라우릭 오일 야자유 가격",
+        "guide": {
+            "definition": "팜핵유(CPKO) 및 야자유(코코넛오일) 등 라우르산 함량이 높은 특수 식물성 유지의 로테르담/아시아 현물 유통 가격.",
+            "correlation": "선물 시장 부재로 로테르담 공시 현물가 자체가 글로벌 수입 계약의 기준이 됨.",
+            "factors": [
+                "필리핀·인도네시아의 코코넛 수확량 및 태풍 피해",
+                "초콜릿 코팅용 대용유지(CBR/CBS) 수요",
+                "화장품·계면활성제 등 비식품 화학 산업 수요"
+            ]
+        }
     },
     {
         "id": "usd-krw",
@@ -181,7 +262,16 @@ COMMODITY_CONFIG = [
         "unitKr": "원화/달러",
         "description": "실시간 원/달러 환율 추이 및 일일 매매기준율",
         "newsKeywords": "US Dollar Korean Won USD KRW exchange rate news",
-        "naverQuery": "원달러 환율 전망"
+        "naverQuery": "원달러 환율 전망",
+        "guide": {
+            "definition": "서울 외환시장 기준 미국 달러 대비 대한민국 원화 교환 비율.",
+            "correlation": "모든 달러 결제 수입 원자재(커피, 코코아, 유제품 등)의 원화 환산 매입 원가를 최종 결정함.",
+            "factors": [
+                "미국 연방준비제도(Fed) 기준금리 정책 방향",
+                "국내 수출입 무역수지 및 외국인 자본 유출입",
+                "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
+            ]
+        }
     },
     {
         "id": "eur-krw",
@@ -197,7 +287,16 @@ COMMODITY_CONFIG = [
         "unitKr": "원화/유로",
         "description": "실시간 원/유로 환율 추이 및 일일 매매기준율",
         "newsKeywords": "Euro Korean Won EUR KRW exchange rate news",
-        "naverQuery": "원유로 환율 전망"
+        "naverQuery": "원유로 환율 전망",
+        "guide": {
+            "definition": "유럽연합 유로화 대비 대한민국 원화 교환 비율.",
+            "correlation": "유럽산 유제품(버터, 치즈), 완제품 초콜릿, 제조 가공설비 수입 시 직접 원가로 연동됨.",
+            "factors": [
+                "유럽중앙은행(ECB) 통화 정책 및 금리차",
+                "유로존 주요국(독일·프랑스) 경제 성장률 지표",
+                "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
+            ]
+        }
     }
 ]
 
