@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-20 14:23:30",
+  "last_updated": "2026-08-20 15:33:14",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 14:23",
+    "report_date": "2026.08.20, 15:33",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,393.48원 (▼20.10원)",
-    "fx_eur": "1,626.00원 (▼8.92원)",
+    "fx_usd": "1,392.08원 (▼21.50원)",
+    "fx_eur": "1,625.00원 (▼9.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 14:23",
+    "report_date": "2026.08.20, 15:33",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,393.48원 (▼20.10원)",
-    "fx_eur": "1,626.00원 (▼8.92원)",
+    "fx_usd": "1,392.08원 (▼21.50원)",
+    "fx_eur": "1,625.00원 (▼9.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-20T14:23:30.682662+09:00",
-  "usdKrwRate": 1393.48,
-  "eurKrwRate": 1626.0,
+  "lastUpdated": "2026-08-20T15:33:14.045085+09:00",
+  "usdKrwRate": 1392.28,
+  "eurKrwRate": 1625.0,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5922.13
           },
           {
-            "time": "14:23",
+            "time": "15:33",
             "price": 5934.0
           }
         ],
@@ -426,7 +426,7 @@
             "price": 7219.99
           },
           {
-            "time": "14:23",
+            "time": "15:33",
             "price": 7234.46
           }
         ],
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "14:23",
+            "time": "15:33",
             "price": 3728.0
           }
         ],
@@ -900,28 +900,28 @@
       },
       "newsEn": [
         {
-          "title": "Brazil Coffee Harvest Pressures Weigh on Coffee Prices - TradingView",
+          "title": "Coffee Prices Surge on Supply Fears - TradingView",
           "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVl5QTU4WTVpMHV6aEhYa0xnRTlES3hTck9fVG02OVJTSVZ3ZkNDenRIU1dwWHYtcF9yX3drZnJWRnV5WXM3eWR0dVhFdWlUY3dFNVJJVl9STE02OVFnVXg1WnhMUFdaNm50T3Zuc0hWVWJIX1RrZUY2S2hld1NXRmdvOGVhbi1oaXlhejdocEhDMUl0YUtxMzlmQkEzYmJZeWgyUXVQSWVOSmt4SDR4NGJ2MA?oc=5",
-          "date": "08-20 03:22"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmVmZXNVM0wyUXVFaUVtTjJuQmQ4RHpKZTVyNEJURHZKdUF2MWdLZE5MblZKY0ZPcFZxOXRDV2JYRWIzSERXOVpaZWdQWHFQN2tyVXZoRVlUZFNlYjJpZDMzSmdsLVh4WndiVzY5WFBWR1F0WGxIX19MZ1hpU1JzVjlndXVmZXhzZHY5NWg2UmtOc2dNdWFHTWNB?oc=5",
+          "date": "08-19 00:45"
         },
         {
           "title": "Agric. & Environment: Coffee farmers optimistic despite unst - NewVision.co.ug",
           "source": "NewVision.co.ug",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVpVLTB1TnQwdXIwdzFCSks5Z2p1NExNR1VBVVo2WDJ0Yk9qYlY5bHNXdk15TDllR01KN1hWUllRckU3SlRHbDVJdlFOanlTMGpyQTVGSU1TUTdSdERTc1VNQWdMM0pLX19xSTEyUk9ra0dzQjctNzZlRHR5YzZhbFEwRUtkNk5Mb05IMm1wU0VqN3VQR0duQmxpZjJlaGpXaklNdWRVWDFWTWl3M1phXw?oc=5",
-          "date": "08-20 03:00"
+          "date": "08-19 23:00"
+        },
+        {
+          "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOakhCR1hCS0o5Tnplbi13dVUtSGIyM3hldm9CWVpsNmZDZW1NV2xNODc3djIzQ0RGeW1mZV9Lajc4RW8zT20wa1loVzdVZklmLWJCTThYZUlkNm53X3BMZDV4VkxwNHEyN0pDX2piNWxRODRxbDJsUTZrZjBJN2NMenpsZktqX0R5WlhBVFE5WlB4MV9vczlmelpDLWFvRGltb0VBbFA3OS00NkNFdUt4NjE3eEdNbHR4a2VXYjRKZE5nVzkxcjhHT1VWYjRYSTM5dGZKZFJ0MnBLa0EtR0kyZnlkajduQ1VpeUhRWk9XeFJyRGItWlMtenFYUW1RZmQx?oc=5",
+          "date": "08-18 14:34"
         },
         {
           "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW5mRlpadnhHaEFiak11NHFOUjVNRklTbENMRjB3RjQ0U2lwUjMyWjM2VF9FbjJ4MGNmR3RVQTY0eTkwYmFYUHJELVVYQ3BnUGdUaFdsUDY1eUxuVWswN2xjMXBtWms4N1hmNFVFVWRwMWNNaUx3MlNHQXFDSUgxVlV6UUR0SFRtZ1FELTNGdktpUmpqQUtqeXNWbTlzTV8zMEpIcm9uZURCRzZPTmdkeTc2akh0TFdsZ3pPM2tFWk1yanNhNDVLaGIxTG9MM2ExSVAtaERleXBOdjB2RXhOVHJQaFZoQQ?oc=5",
           "date": "08-19 15:06"
-        },
-        {
-          "title": "Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVENkV3ZYdU0xWXFOcW1SallUbFd6U3p2YWZFYkRlS0wyaWppR2VvY1Y4azhYQ0V2WGVxMkw3a3ZwQVVtbEVvYUZPWkhPZ2VoSE1DNUlncFJkYXlDRlNKNVVTajhhcVJDZm1PWExNOU9QS0lkMDRXSjBHYzd0SDVrSUJ2TDVnUWNRWUF6NnZJamVzYzFHZDhNZE4tXy1QVFpXc01rQQ?oc=5",
-          "date": "08-20 00:52"
         }
       ],
       "newsKr": [
@@ -944,8 +944,8 @@
           "date": "08-18 17:30"
         },
         {
-          "title": "오늘 8월 19일 커피 가격: kg당 1,500동 급등 - ko.laodong.vn",
-          "source": "ko.laodong.vn",
+          "title": "오늘 8월 19일 커피 가격: kg당 1,500동 급등 - Laodong.vn",
+          "source": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmlHQmpTSm5IaG1fLXg2WEo4ME5PT21jR0R1eEZaa2JwVzNxLW92NlBpTDh1VDNzcE93VEdRVk1GUjJEOF9QYnFLanQtOFFsaFp6TUstUC1ySGxweUtuaVRFa2wxZHZiRHFqNTBxdE1lRGJNU2Zuazg4RHFUZEpXQ1h4Qy1zNVlrY2FraUxhUTdjQQ?oc=5",
           "date": "08-19 15:30"
         }
@@ -2159,7 +2159,7 @@
             "price": 1171.15
           },
           {
-            "time": "14:23",
+            "time": "15:33",
             "price": 1173.5
           }
         ],
@@ -2234,10 +2234,10 @@
           "date": "08-19 10:20"
         },
         {
-          "title": "CPO Prices To Remain Above RM4,600 In September On Tightening Supply, Geopolitical Disruptions -- MPOC - bernama.com",
-          "source": "bernama.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrczVTVC1JVldTSVpSdmJPVG1JZFNMSXpZclpRd05GZDJoMUt3TDlkQ29pbGVFYUdwdFFIX3dvOTRHemhZYklvLS04NTJsclJjWXJkaVF6cFo3OGFySnRIMHF1RlJKZw?oc=5",
-          "date": "08-20 00:12"
+          "title": "BMI raises 2026 average CPO price forecast to RM4,453 on tight supply - The Edge Malaysia",
+          "source": "The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PREtuVUtST2c0b2VPZ1ZzNFlGYndCM29kN1dXQUFrRGZ1ZDVnMEJsb1A5cDcyQUhUaVdTUkhyTWJ5VGJxSExLVnhKeDEyX3RUajBV?oc=5",
+          "date": "08-20 12:34"
         }
       ],
       "newsKr": [
@@ -2533,7 +2533,7 @@
             "price": 1926.14
           },
           {
-            "time": "14:23",
+            "time": "15:33",
             "price": 1930.0
           }
         ]
@@ -2615,17 +2615,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1393.48,
-      "change": -20.1,
-      "changePercent": -1.42,
+      "price": 1392.08,
+      "change": -21.5,
+      "changePercent": -1.52,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1395.08,
+      "high24h": 1396.6,
       "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1393.48,
+      "low7d": 1392.08,
       "high1m": 1487.39,
-      "low1m": 1393.48,
+      "low1m": 1392.08,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2634,7 +2634,7 @@
         1415.37,
         1414.73,
         1413.58,
-        1393.48
+        1392.08
       ],
       "history": {
         "7D": [
@@ -2664,7 +2664,7 @@
           },
           {
             "date": "08-20",
-            "price": 1393.48
+            "price": 1392.08
           }
         ],
         "1M": [
@@ -2762,25 +2762,25 @@
           },
           {
             "date": "08-20",
-            "price": 1393.48
+            "price": 1392.08
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1385.12
+            "price": 1383.73
           },
           {
             "time": "11:00",
-            "price": 1387.91
+            "price": 1386.51
           },
           {
             "time": "13:00",
-            "price": 1390.69
+            "price": 1389.3
           },
           {
-            "time": "14:23",
-            "price": 1393.48
+            "time": "15:33",
+            "price": 1392.08
           }
         ],
         "1Y": [
@@ -2834,11 +2834,17 @@
           },
           {
             "date": "2026-08",
-            "price": 1393.48
+            "price": 1392.08
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "Dollar-Won Exchange Rate Drops Below 1,400 Won for First Time in 11 Months - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzJIbGRQcEM4VHh0Z21HcDY5dmZOUTlpRlFkM1g3LV9kZ1B4bEhkUUVfSXAybk8xQ01YeXVHNGZKX1gweE5pNmQtbWtWV1JLTUlIMkppX2NaSEZabkhsbVFJbjk0bFhMQnNERzlMRWF2a3g0V1c1MFBPalhTMHdyb3V6T2ZoRFBtcW1v?oc=5",
+          "date": "08-20 15:28"
+        },
         {
           "title": "USD-KRW Exchange Rate Drops to 1,300s for First Time in 11 Months...Can It Stabilize? - 아시아경제",
           "source": "아시아경제",
@@ -2846,22 +2852,16 @@
           "date": "08-20 11:25"
         },
         {
-          "title": "Dollar hits three-month low as Treasury buybacks sink yields; Fed flags inflation - Investing.com",
+          "title": "Asia FX steadies after sharp gains, dollar near 3-mth low as bond selloff cools - Investing.com",
           "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY4dFd1VHc1SnY5WHAzQmlvdG92NnVhV0JrNEFFWDhrUnZsQU4xQ3ZkZ0d5c2lFelU4dXAxZEs5QXlwY1RxVVNIYWJpQkoyWUFMdFNxVzlzd0ZqTExfUFZpakpkRnIwWTk1ZDlhSjNKUFVGM2lZY2pxN2lUWlBqYURtbkdQYmtOcExCb05rQXpITEIyVEJ2NHVhUzFCeEd3VmRrYXlyZ1hBZkgxVld0dXowcmw?oc=5",
-          "date": "08-20 05:44"
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYUZtQUxSZ3o2cncwSmt3OUdZY1g1Ym9Cd3h0YTNna2RXZnN4d3BrMzhvMU9UcTBqM0JGLUdieVJRRm90UDIya3cyVW82QzZ2NVFLZnZJdHA1SnlKaDJNRi14Mllqc3lUdmxnX1VnRjVQUS00ZENsYVk5dWZxa1h5R21hVkVQMjE0dkZEYzNyNV9sd1luRG5sX3AtQmdyU3QxVkY3cGJDaGVOMkdoUlc3LVBmUHJBeWV1SG96OFFYY1pidW42OEk5QzhqbGYzb01Q?oc=5",
+          "date": "08-20 13:30"
         },
         {
-          "title": "South Korean Won Hits Over 10-Month High - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNJUFZaeWtiRmM1eXNSWEVGR3BXR3ZsRUdrWGp0cWJMMU80Yi1LQ3pFbUNTTDhaQ2NwOGNiWjRjSURIVF9ySzg1RERTdU5wRHdwYW5YNjZOU2RHVHBWc1BOQnJLLXQ0ZHhiVjZoMUpXVWtqV0hkTUtGMjJ1VXZmY0R1ZGEtcUwtQmNFTjdHQjhtUEtSd0E?oc=5",
-          "date": "08-19 12:28"
-        },
-        {
-          "title": "Won and yen: 2 currencies, 2 very different problems - Nikkei Asia",
-          "source": "Nikkei Asia",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkdFNDZTUWlfSDNleFlMcTVaX3pGWHY4aHdiYmV0RmVCNDEwOEY2dkFpd3RsMXkyWDdNeF9aWTJuMDBzYno5QXJyUFJOajdnaE9MM3lueFoySWNTUXVzSzFKN1dHdW1HVlZSQnh3M3l5M1VGclF5MU9udGZWQlIxTGxUYWYza2hGQ1E?oc=5",
-          "date": "08-18 05:05"
+          "title": "Treasury Buybacks Put Bond Market Liquidity Front and Center - mottcapitalmanagement.com",
+          "source": "mottcapitalmanagement.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VcFhzUG9CS1B2RWlCSzRKZmJFNkhYYVU2alpwWUZPWW5TbmZSME91T05LN19STkN5VmE5U0xIeXZHMjgwRlRNd1VTQ3p6UWpDWmo3Z3NQWG1WRFJIRlJPSHNPSU1rRlRVZ0pJTFJ5YmVEWkIwVGI2WV9TOWRMQQ?oc=5",
+          "date": "08-20 07:26"
         }
       ],
       "newsKr": [
@@ -2878,10 +2878,10 @@
           "date": "08-20 08:13"
         },
         {
-          "title": "한투證, 하반기 달러-원 전망 50원 낮춰…연말 레인지 1,340~1,520원 - 연합인포맥스",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BMHMzWl9BX1czSWkzWmdNTS03NmdPUUJUa3VUbFAxVklYSWRyZnJ0aXRWOHIyaWdMS1hNb3VOMWdsbHIxN1o4UG5MR1ZmNTlhdkxJN3dINjE1T2o1RUJxQnFlQ0FZTUdkd3ZPSFJ5cmVGd2Vr0gF0QVVfeXFMT0EwczNaX0FfVzNJaTNaZ01NLTc2Z09RQlRrdVRsUDFWSVhJZHJmcnRpdFY4cjJpZ0xLWE1vdU4xZ2xscjE3WjhQbkxHVmY1OWF2TEk3d0g2MTVPajVFQnFCcWVDQVlNR2R3dk9IUnlyZUZ3ZWs?oc=5",
-          "date": "08-20 10:57"
+          "title": "원·달러, 미 금리 동결 가능성에 1300원대로 하락…10개월여만 - JTBC",
+          "source": "JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NY3EwXzd6OW9UOWxZWkZ3ODJLc2xTc0ZFdDhTZWs3LVdHM3RzWEVybC1Ka0tiQmU4UXdkbkxLWjBlM1lBTmVvTkk2LUVFNGtTSWdUNQ?oc=5",
+          "date": "08-19 12:06"
         },
         {
           "title": "\"환율 더 떨어진다\" 한투, 하반기 달러·원 전망 1470→1420원 - v.daum.net",
@@ -2915,12 +2915,12 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1626.0,
-      "change": -8.92,
-      "changePercent": -0.55,
+      "price": 1625.0,
+      "change": -9.92,
+      "changePercent": -0.61,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1628.4,
+      "high24h": 1628.8,
       "low24h": 1616.4,
       "high7d": 1638.16,
       "low7d": 1582.09,
@@ -2934,7 +2934,7 @@
         1582.09,
         1638.16,
         1634.92,
-        1626.0
+        1625.0
       ],
       "history": {
         "7D": [
@@ -2964,7 +2964,7 @@
           },
           {
             "date": "08-20",
-            "price": 1626.0
+            "price": 1625.0
           }
         ],
         "1M": [
@@ -3062,25 +3062,25 @@
           },
           {
             "date": "08-20",
-            "price": 1626.0
+            "price": 1625.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1616.24
+            "price": 1615.25
           },
           {
             "time": "11:00",
-            "price": 1619.5
+            "price": 1618.5
           },
           {
             "time": "13:00",
-            "price": 1622.75
+            "price": 1621.75
           },
           {
-            "time": "14:23",
-            "price": 1626.0
+            "time": "15:33",
+            "price": 1625.0
           }
         ],
         "1Y": [
@@ -3134,7 +3134,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1626.0
+            "price": 1625.0
           }
         ]
       },
@@ -3144,6 +3144,12 @@
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY4dFd1VHc1SnY5WHAzQmlvdG92NnVhV0JrNEFFWDhrUnZsQU4xQ3ZkZ0d5c2lFelU4dXAxZEs5QXlwY1RxVVNIYWJpQkoyWUFMdFNxVzlzd0ZqTExfUFZpakpkRnIwWTk1ZDlhSjNKUFVGM2lZY2pxN2lUWlBqYURtbkdQYmtOcExCb05rQXpITEIyVEJ2NHVhUzFCeEd3VmRrYXlyZ1hBZkgxVld0dXowcmw?oc=5",
           "date": "08-20 05:44"
+        },
+        {
+          "title": "Nepal Rastra Bank Sets Foreign Exchange Rates for Thursday - Ratopati",
+          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVRoQS0wMVBlUzdkMktpQWpGWGhaQUxXSnBDUjJIajhLOWhLS1BCeFhTWXVxMnZ1LWxMREhTaWVJa0pXbFdjTUU3WFBpQWZXaUowQ29aYk5zTTNORUlJZlNTZWM2Uy1fdnlQb2dMQXhwOWNZd3J0dHNDd2FDV29jMjNpbXpVeEdiMkFtSQ?oc=5",
+          "date": "08-20 08:50"
         },
         {
           "title": "Euro and pound probe multi-month highs while Yen hovers near 160 zone - Investing.com UK",
@@ -3156,12 +3162,6 @@
           "source": "trend.az",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtUkFRZ3A5RVRWbDExQk9zQy1WeWdxM1IyY0VWazdPUVNsSkVzSHJaVW1LRXlDWG9hdUdJT1QxMTBzNHdxdk1zRTZ6SUdyWmw4Y21XZg?oc=5",
           "date": "08-19 14:34"
-        },
-        {
-          "title": "CBA currency exchange rates (19.08.2026) - Report.az",
-          "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZTVSMWE0R2VlZmtwOVlkdUxmeGJxU3Z3bEdtR3FQeVdFMm5vV3hkZU1hSklrY0ZsemhDaTVkZVM5clBLcnp2SS02T25HbDJQVHhhRTlaZGFibjBNSDBRaTFxNnpRUW9ETXYtRk1MT1FmUjdxSHlvQ3NBQdIBe0FVX3lxTFB0ZTVSMWE0R2VlZmtwOVlkdUxmeGJxU3Z3bEdtR3FQeVdFMm5vV3hkZU1hSklrY0ZsemhDaTVkZVM5clBLcnp2SS02T25HbDJQVHhhRTlaZGFibjBNSDBRaTFxNnpRUW9ETXYtRk1MT1FmUjdxSHlvQ3NBQQ?oc=5",
-          "date": "08-19 15:00"
         }
       ],
       "newsKr": [
