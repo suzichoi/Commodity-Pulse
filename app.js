@@ -16,73 +16,83 @@ let appState = {
 
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
-  "fetch_status": "error",
-  "last_updated": "2026-08-20 12:40:05",
+  "fetch_status": "success",
+  "last_updated": "2026-08-20 12:06:30",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
+    "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 12:40",
+    "report_date": "2026.08.20, 12:06",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
-      "코코아 : $5,934.00 (▲7.05%)",
-      "로부스타 커피 : $3,728.00 (▼1.30%)",
-      "GDT 지수 : $3,873.00 (▲1.52%)",
-      "GDT 전지분유 : $3,591.00 (▲3.01%)",
-      "GDT 버터 : $5,090.00 (▼4.02%)",
-      "팜유 : $1,172.00 (▲1.03%)",
-      "라우릭 오일 : $1,930.00 (0.00%)"
+      "코코아 : $5,934.00 (▲3.83%)",
+      "아라비카 커피 : $7,234.46 (▲3.85%)",
+      "로부스타 커피 : $3,728.00 (▼3.98%)",
+      "GDT 지수 : $3,873.00 (▲2.51%)",
+      "GDT 전지분유 : $3,591.00 (▲3.10%)",
+      "GDT 탈지분유 : $3,502.00 (▲7.39%)",
+      "GDT 버터 : $5,090.00 (▼2.58%)",
+      "팜유 : $1,172.00 (▲0.39%)",
+      "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,934.00 (▲7.05%)",
-      "로부스타 커피 : $3,728.00 (▼1.30%)",
-      "GDT 지수 : $3,873.00 (▲1.52%)",
-      "GDT 전지분유 : $3,591.00 (▲3.01%)",
-      "GDT 버터 : $5,090.00 (▼4.02%)",
-      "팜유 : $1,172.00 (▲1.03%)",
-      "라우릭 오일 : $1,930.00 (0.00%)"
+      "코코아 : $5,934.00 (▲3.83%)",
+      "아라비카 커피 : $7,234.46 (▲3.85%)",
+      "로부스타 커피 : $3,728.00 (▼3.98%)",
+      "GDT 지수 : $3,873.00 (▲2.51%)",
+      "GDT 전지분유 : $3,591.00 (▲3.10%)",
+      "GDT 탈지분유 : $3,502.00 (▲7.39%)",
+      "GDT 버터 : $5,090.00 (▼2.58%)",
+      "팜유 : $1,172.00 (▲0.39%)",
+      "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,394.86원 (▼18.72원)",
-    "fx_eur": "1,628.40원 (▼6.52원)",
-    "news_category": "GDT 탈지분유",
+    "fx_usd": "1,395.00원 (▼18.58원)",
+    "fx_eur": "1,627.70원 (▼7.22원)",
+    "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
   "daily_briefing": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
+    "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 12:40",
+    "report_date": "2026.08.20, 12:06",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
-      "코코아 : $5,934.00 (▲7.05%)",
-      "로부스타 커피 : $3,728.00 (▼1.30%)",
-      "GDT 지수 : $3,873.00 (▲1.52%)",
-      "GDT 전지분유 : $3,591.00 (▲3.01%)",
-      "GDT 버터 : $5,090.00 (▼4.02%)",
-      "팜유 : $1,172.00 (▲1.03%)",
-      "라우릭 오일 : $1,930.00 (0.00%)"
+      "코코아 : $5,934.00 (▲3.83%)",
+      "아라비카 커피 : $7,234.46 (▲3.85%)",
+      "로부스타 커피 : $3,728.00 (▼3.98%)",
+      "GDT 지수 : $3,873.00 (▲2.51%)",
+      "GDT 전지분유 : $3,591.00 (▲3.10%)",
+      "GDT 탈지분유 : $3,502.00 (▲7.39%)",
+      "GDT 버터 : $5,090.00 (▼2.58%)",
+      "팜유 : $1,172.00 (▲0.39%)",
+      "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,934.00 (▲7.05%)",
-      "로부스타 커피 : $3,728.00 (▼1.30%)",
-      "GDT 지수 : $3,873.00 (▲1.52%)",
-      "GDT 전지분유 : $3,591.00 (▲3.01%)",
-      "GDT 버터 : $5,090.00 (▼4.02%)",
-      "팜유 : $1,172.00 (▲1.03%)",
-      "라우릭 오일 : $1,930.00 (0.00%)"
+      "코코아 : $5,934.00 (▲3.83%)",
+      "아라비카 커피 : $7,234.46 (▲3.85%)",
+      "로부스타 커피 : $3,728.00 (▼3.98%)",
+      "GDT 지수 : $3,873.00 (▲2.51%)",
+      "GDT 전지분유 : $3,591.00 (▲3.10%)",
+      "GDT 탈지분유 : $3,502.00 (▲7.39%)",
+      "GDT 버터 : $5,090.00 (▼2.58%)",
+      "팜유 : $1,172.00 (▲0.39%)",
+      "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,394.86원 (▼18.72원)",
-    "fx_eur": "1,628.40원 (▼6.52원)",
-    "news_category": "GDT 탈지분유",
+    "fx_usd": "1,395.00원 (▼18.58원)",
+    "fx_eur": "1,627.70원 (▼7.22원)",
+    "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-20T12:40:05.663870+09:00",
-  "usdKrwRate": 1395.05,
-  "eurKrwRate": 1627.3,
+  "lastUpdated": "2026-08-20T12:06:30.379373+09:00",
+  "usdKrwRate": 1394.95,
+  "eurKrwRate": 1627.7,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -101,8 +111,8 @@ const FALLBACK_DATA = {
       "newsKeywords": "Cocoa price market news",
       "naverQuery": "코코아 가격",
       "guide": {
-        "definition": "코트디부아르·가나 등 서아프리카산 카카오두 기준, 미국 ICE 거래소 선물 가격.",
-        "correlation": "글로벌 가공사·제과업체의 원료 매입 단가 기준. 선물 급등 시 약 6개월~1년 시차를 두고 실제 수입 현물가 및 제품가에 직접 반영됨.",
+        "definition": "코트디부아르·가나 등 서아프리카산 카카오두 기준, 미국 ICE 거래소 선물 가격",
+        "correlation": "글로벌 가공사·제과업체의 원료 매입 단가 기준\n선물 급등 시 6개월~1년 시차를 두고 수입 현물가 및 제품가에 직접 반영",
         "factors": [
           "서아프리카 가뭄 및 병충해(CSSVD) 발생 여부",
           "코트디부아르·가나 정부의 수매가(LID) 정책",
@@ -145,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5922.13
           },
           {
-            "time": "12:39",
+            "time": "12:06",
             "price": 5934.0
           }
         ],
@@ -328,6 +338,12 @@ const FALLBACK_DATA = {
           "date": "08-20 03:23"
         },
         {
+          "title": "Cocoa Prices Climb on Dollar Weakness - tradingview.com",
+          "source": "tradingview.com",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlAxOUtnV0lyd2dMbUE3T2wxbEZXU2xnMlNiRTh1V3JrYlZnRExneDBlb2dNaU9FNHZOS2ZYUVNYTlpnaHgtMDQwUFR0QzFwOW81MURCekVEdnYwVDFYblhiVlZqMUotNHI5alQyUkliYS1uTUE4Qmc4WllHLTF0M05KZWw4NUE0NlJDN2pnODA2WXQzZzRmZDB0TFU?oc=5",
+          "date": "08-20 01:03"
+        },
+        {
           "title": "US Cocoa Futures (COCOA-F) Surges on Aug 19: Key Factors to Watch - TradingKey",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDl6SGtqcXJlVEpBdEVWbkdkLWNSU1VWekFkRXExcV9GU08yNk9vZ0hnR0I0LWk1UzJqRWdYcGY4b09UZDdEdVFNQUJnUEJZdXd6SVozS2RrNHhTRldwajhLajZfWmtMSmxkamIxOWRZS3c4YmxsYWtkMVAwR0dVd1NFbFFvVE1tZW9wM0VvVQ?oc=5",
@@ -338,12 +354,6 @@ const FALLBACK_DATA = {
           "source": "EUobserver",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3dOSHVqcGlwcFRDYTQ0MURxd29NYWF6X0dmZVgyUk5rT2kyeDFvMFpMZGRwcElfbUlFY2RLaUE0OC1pc2xDVERxMUZpSkpxTkZnSkxrd0tmbVNjajQtOWs3emtIS2R1OVBiX2pNd3pXbzc0Mkk4dmZka05mNmp2SVk5dGQ2OWVpN0tCV2VQTFF5MGFqNTNjX0tjbS0tVF9SRlpXdVE3d0hhOFp1eHpjdWdNMEU4eVdhMF93U0RMQUp5NWpWR3ZqTC1YM2w?oc=5",
           "date": "08-18 02:10"
-        },
-        {
-          "title": "Earnings call transcript: Ülker Bisküvi posts mixed Q2 2026 results as stock rises - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQTVyRDhSYUpWN0NxQS1BNDAyMzhSLW5SX1pBXzZvRlJ0RzdqakZmUjRmdWt2d1Y0UjA4WDllSUlHYWExdlg5aEhtSlFWU2xNbGw4dTlwcU55UzY0dmE4eUJtem15RVVGc3F3VHZqUkZiakJIUU5yVjYyWGN2RlVXcHdNVkdJZlROU3VRbE1mNGRuNHNFR21tWWc1RHo4QlZFM1JaVFZRYUU2VmhRZml0NW4zUFlWRVpraUVRdWMyRDhuQlRFSDdieDlPdjVKNGYzemlR?oc=5",
-          "date": "08-19 23:57"
         }
       ],
       "newsKr": [
@@ -389,8 +399,8 @@ const FALLBACK_DATA = {
       "newsKeywords": "Arabica coffee price market news",
       "naverQuery": "아라비카 커피 가격",
       "guide": {
-        "definition": "브라질·콜롬비아 등 고지대에서 생산되는 스페셜티·원두커피용 품종, 미국 ICE 거래소 선물 가격.",
-        "correlation": "국제 원두 거래의 핵심 벤치마크. 실제 수입 현물가는 본 선물 가격에 산지 프리미엄(Diff)을 합산하여 결정됨.",
+        "definition": "브라질·콜롬비아 등 고지대 생산 스페셜티·원두커피용 품종, 미국 ICE 거래소 선물 가격",
+        "correlation": "국제 원두 거래의 핵심 벤치마크\n수입 현물가는 선물 가격에 산지 프리미엄(Diff) 합산하여 결정",
         "factors": [
           "브라질 개화기 가뭄 및 결빙(서리) 피해",
           "브라질 헤알화 환율 변동에 따른 농가 출하량 조절",
@@ -433,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 7219.99
           },
           {
-            "time": "12:39",
+            "time": "12:06",
             "price": 7234.46
           }
         ],
@@ -610,8 +620,8 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - indexbox.io",
-          "source": "indexbox.io",
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
           "date": "08-18 13:10"
         },
@@ -642,12 +652,6 @@ const FALLBACK_DATA = {
           "date": "08-20 11:02"
         },
         {
-          "title": "8월 19일 농산물 가격: 커피 가격은 계속 상승하고, 생돈 가격은 급락했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhOaDZCbGpGTTJUcVhwZEtHUTRob3JpZHU1Y0ZDaTlqQkNvT2lSNWRsc1RuSkFySWdCamJtczZVSzdjam5hanlUbVlSaUowQjlodTY1aWowbW5rdy1hMFBobUkzRGpOOXpBaWl5NmN5U053NTRLSjlHLTZmZmRCZGRUTnhiRUtkY0E?oc=5",
-          "date": "08-20 12:14"
-        },
-        {
           "title": "오늘(8월 20일) 커피 가격: 브라질의 수확이 본격화됨에 따라 하락세로 전환하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG5VWkhtdnFxem9zb1FOY2dITFcxWU9xZzVoSWwtQ1k4MmFEeW1xRlNRVnNCQ1RJS3NXUm92eEFOQW5rejM2VEZnTWhFUzd2V1Vua3QxZFJsR2NnZ01OcmRDNmRJNkpNRFU1TURTdkVnTnJicUlLVHVFeHYxVHlNTEVvMkJ5MzFrWHNzUWZ3V3lfcERsdldvaA?oc=5",
@@ -658,6 +662,12 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVptUGhJMGpyMUo5bk9YaFRFMTgwVF9aVVpJd3FBdXBCRUw2eUNZOXppYU1BVkFkVEk3akFZdnJFeFFmZk13azdaTlU5VldmZkFuakM2Mllwc3NGTWFseG1oWEY0bHFKcWlwbHdyMWoyZ3h4NXRTdWFtV2MyOHNXWXRxWFpnSUlyX0hWTDZR?oc=5",
           "date": "08-20 11:20"
+        },
+        {
+          "title": "오늘(8월 19일) 커피 가격: 가격이 급격하게 상승하고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fZV9odkJfeThuNFFSVC1KQU0wWjdFdmYxVTY3UURLZHFsSG9xcG1SVFJyRGdrOHlYZUEycENPOEFNVEdfbUdxaTFneGtsMUtJVDM5M1BqLXhTRjdrTGNMYW11Y3VXdWRaQUtkNWVRXy1UTVF4dTdOQ19jTDk?oc=5",
+          "date": "08-19 17:54"
         }
       ],
       "original_price_lb": 328.15
@@ -678,10 +688,10 @@ const FALLBACK_DATA = {
       "newsKeywords": "Robusta coffee market news",
       "naverQuery": "로부스타 커피 가격",
       "guide": {
-        "definition": "베트남·인도네시아 등 저지대에서 생산되는 인스턴트·에스프레소 블렌딩용 품종, 런던 ICE Europe 선물 가격.",
-        "correlation": "글로벌 인스턴트 커피 및 캔커피 제조사의 원가 기준. 아라비카 가격 급등 시 대체재 수요 증가로 연동성 강화됨.",
+        "definition": "베트남·인도네시아 등 저지대 생산 인스턴트·에스프레소용 품종, 런던 ICE Europe 선물 가격",
+        "correlation": "글로벌 인스턴트 커피 및 캔커피 제조사의 원가 기준\n직관성 확보를 위해 아라비카(¢/lb)와 달리 톤당 달러($/MT)로 환산 표기\n아라비카 가격 급등 시 대체재 수요 증가로 연동성 강화",
         "factors": [
-          "최대 생산국 베트남의 기후(가뭄 및 우기 강우량)",
+          "최대 생산국 베트남 기후(가뭄 및 우기 강우량)",
           "산지 농가의 재고 비축 및 출하 속도",
           "수에즈 운하 등 주요 해상 항로 물류 차질"
         ]
@@ -846,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "12:39",
+            "time": "12:06",
             "price": 3728.0
           }
         ],
@@ -907,22 +917,22 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Brazil Coffee Harvest Pressures Weigh on Coffee Prices - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVl5QTU4WTVpMHV6aEhYa0xnRTlES3hTck9fVG02OVJTSVZ3ZkNDenRIU1dwWHYtcF9yX3drZnJWRnV5WXM3eWR0dVhFdWlUY3dFNVJJVl9STE02OVFnVXg1WnhMUFdaNm50T3Zuc0hWVWJIX1RrZUY2S2hld1NXRmdvOGVhbi1oaXlhejdocEhDMUl0YUtxMzlmQkEzYmJZeWgyUXVQSWVOSmt4SDR4NGJ2MA?oc=5",
-          "date": "08-20 03:22"
+          "title": "Coffee Prices Surge on Supply Fears - tradingview.com",
+          "source": "tradingview.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmVmZXNVM0wyUXVFaUVtTjJuQmQ4RHpKZTVyNEJURHZKdUF2MWdLZE5MblZKY0ZPcFZxOXRDV2JYRWIzSERXOVpaZWdQWHFQN2tyVXZoRVlUZFNlYjJpZDMzSmdsLVh4WndiVzY5WFBWR1F0WGxIX19MZ1hpU1JzVjlndXVmZXhzZHY5NWg2UmtOc2dNdWFHTWNB?oc=5",
+          "date": "08-19 00:45"
+        },
+        {
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
+          "date": "08-18 13:10"
         },
         {
           "title": "Agric. & Environment: Coffee farmers optimistic despite unst - NewVision.co.ug",
           "source": "NewVision.co.ug",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVpVLTB1TnQwdXIwdzFCSks5Z2p1NExNR1VBVVo2WDJ0Yk9qYlY5bHNXdk15TDllR01KN1hWUllRckU3SlRHbDVJdlFOanlTMGpyQTVGSU1TUTdSdERTc1VNQWdMM0pLX19xSTEyUk9ra0dzQjctNzZlRHR5YzZhbFEwRUtkNk5Mb05IMm1wU0VqN3VQR0duQmxpZjJlaGpXaklNdWRVWDFWTWl3M1phXw?oc=5",
           "date": "08-20 01:00"
-        },
-        {
-          "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOakhCR1hCS0o5Tnplbi13dVUtSGIyM3hldm9CWVpsNmZDZW1NV2xNODc3djIzQ0RGeW1mZV9Lajc4RW8zT20wa1loVzdVZklmLWJCTThYZUlkNm53X3BMZDV4VkxwNHEyN0pDX2piNWxRODRxbDJsUTZrZjBJN2NMenpsZktqX0R5WlhBVFE5WlB4MV9vczlmelpDLWFvRGltb0VBbFA3OS00NkNFdUt4NjE3eEdNbHR4a2VXYjRKZE5nVzkxcjhHT1VWYjRYSTM5dGZKZFJ0MnBLa0EtR0kyZnlkajduQ1VpeUhRWk9XeFJyRGItWlMtenFYUW1RZmQx?oc=5",
-          "date": "08-18 14:34"
         },
         {
           "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
@@ -933,16 +943,16 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "8월 19일 농산물 가격: 커피 가격은 계속 상승하고, 생돈 가격은 급락했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhOaDZCbGpGTTJUcVhwZEtHUTRob3JpZHU1Y0ZDaTlqQkNvT2lSNWRsc1RuSkFySWdCamJtczZVSzdjam5hanlUbVlSaUowQjlodTY1aWowbW5rdy1hMFBobUkzRGpOOXpBaWl5NmN5U053NTRLSjlHLTZmZmRCZGRUTnhiRUtkY0E?oc=5",
-          "date": "08-20 12:14"
-        },
-        {
           "title": "2026년 8월 20일 오늘 커피 가격이 급등하여 kg당 98,500 VND까지 치솟았습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR201RGg1aTRiT3pfbkpsa2xBbzF0VF8tUlFJSkVLLW9taDJTdXpYRDJJYlhmSWNGSXQ1OWxEVHBTS01SUElZUVFTWjlqYXk0b1BrLXpQYVZkZzZKWmZ4Q3gxVV9nZjRIUW01dEtRRlZTUEFWN0pNd2tWWWI5THl4R2E2R2hFZnYxV0NObFVuRVdqQQ?oc=5",
           "date": "08-20 08:46"
+        },
+        {
+          "title": "오늘 농산물 가격 (8월 20일): 커피, kg당 10만 VND 육박 - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVptUGhJMGpyMUo5bk9YaFRFMTgwVF9aVVpJd3FBdXBCRUw2eUNZOXppYU1BVkFkVEk3akFZdnJFeFFmZk13azdaTlU5VldmZkFuakM2Mllwc3NGTWFseG1oWEY0bHFKcWlwbHdyMWoyZ3h4NXRTdWFtV2MyOHNXWXRxWFpnSUlyX0hWTDZR?oc=5",
+          "date": "08-20 11:20"
         },
         {
           "title": "커피(COFFEE) 종목이 8월18일에 2.06% 하락한 이유를 확인해 보세요 - TradingKey",
@@ -974,8 +984,8 @@ const FALLBACK_DATA = {
       "newsKeywords": "Global Dairy Trade auction index news",
       "naverQuery": "GDT 지수 유제품",
       "guide": {
-        "definition": "뉴질랜드 폰테라(Fonterra) 중심의 글로벌 유제품 경매 플랫폼(GDT) 전 품목 가중평균 가격 지표.",
-        "correlation": "2주 단위 경매 체결 결과가 전 세계 유제품 실거래가의 기준 방향성을 결정함.",
+        "definition": "뉴질랜드 폰테라(Fonterra) 중심 글로벌 유제품 경매 플랫폼(GDT) 전 품목 가중평균 지표",
+        "correlation": "전 세계 유제품 실거래가의 기준 방향성 결정\n2주 단위 경매 체결 결과가 각국 수입 계약 단가에 즉각 반영",
         "factors": [
           "중국 내수 원유 재고 수준 및 수입 수요",
           "뉴질랜드·EU 주요 산지의 산유량 증감",
@@ -1169,8 +1179,8 @@ const FALLBACK_DATA = {
           "date": "08-20 06:14"
         },
         {
-          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - indexbox.io",
-          "source": "indexbox.io",
+          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
           "date": "08-20 02:52"
         },
@@ -1230,8 +1240,8 @@ const FALLBACK_DATA = {
       "newsKeywords": "Global Dairy Trade Whole Milk Powder news",
       "naverQuery": "GDT 전지분유 가격",
       "guide": {
-        "definition": "원유에서 수분만 제거한 유지방 함유 분말, GDT 경매 거래 가격.",
-        "correlation": "제과·제빵 및 조제분유 수입 현물 계약의 직접적인 기준 가격으로 작용함.",
+        "definition": "원유에서 수분만 제거한 유지방 함유 분말인 전지분유 - GDT 경매 거래 가격",
+        "correlation": "제과·제빵 및 조제분유 수입 현물 계약의 직접적 기준 가격\n국제 유제품 유통 시장 수급 상황 신속 반영",
         "factors": [
           "중국의 전지분유 수입 재개 및 수입량 추이",
           "뉴질랜드 목초지 기후 조건 및 원유 공급량",
@@ -1486,12 +1496,12 @@ const FALLBACK_DATA = {
       "newsKeywords": "GDT Skim Milk Powder market news",
       "naverQuery": "GDT 탈지분유 가격",
       "guide": {
-        "definition": "원유에서 지방을 분리 제거 후 건조한 분말, GDT 경매 거래 가격.",
-        "correlation": "음료, 제과, 빙과류 제조 원가 지표. 버터 제조 시 함께 생산되는 부산물이므로 버터 생산량과 밀접하게 연동됨.",
+        "definition": "원유에서 지방을 분리 제거 후 건조한 분말인 탈지분유 - GDT 경매 거래 가격",
+        "correlation": "음료, 제과, 빙과류 제조 원가 지표\n버터 부산물로 버터 생산량과 밀접하게 연동",
         "factors": [
           "유럽 및 오세아니아 유가공 공장 가동률",
           "버터박(Buttermilk) 가공 비율 및 유청 단백질 수요",
-          "식물성 대체 단백질 시장의 가격 동향"
+          "식물성 대체 단백질 시장 가격 동향"
         ]
       },
       "price": 3502.0,
@@ -1742,8 +1752,8 @@ const FALLBACK_DATA = {
       "newsKeywords": "Global Dairy Trade Butter price news",
       "naverQuery": "GDT 버터 가격",
       "guide": {
-        "definition": "유지방 80% 이상 유제품, GDT 경매 거래 가격.",
-        "correlation": "베이커리·유가공 업체의 직수입 단가 벤치마크. 유지방 수급 불균형 발생 시 단기 변동폭 확대됨.",
+        "definition": "유지방 80% 이상 유제품인 버터 - GDT 경매 거래 가격",
+        "correlation": "베이커리·유가공 업체의 직수입 단가 벤치마크\n유지방 수급 불균형 시 단기 변동폭 확대",
         "factors": [
           "베이커리 성수기(연말 및 명절) 수요 집중",
           "계절별 원유 내 유지방(Fat) 함유율 변화",
@@ -1998,10 +2008,10 @@ const FALLBACK_DATA = {
       "newsKeywords": "Crude Palm Oil price market news",
       "naverQuery": "팜유 가격 시세",
       "guide": {
-        "definition": "인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격.",
-        "correlation": "가공식품·제과·바이오디젤의 핵심 원가 지표. 실제 수입 시 FOB/CIF 현물 가격과 즉각 연동됨.",
+        "definition": "인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격",
+        "correlation": "가공식품·제과·바이오디젤의 핵심 원가 지표\n실제 수입 시 FOB/CIF 현물 가격과 즉각 연동",
         "factors": [
-          "인도네시아의 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제",
+          "인도네시아 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제",
           "동남아 엘니뇨 가뭄에 따른 수확량 감소",
           "대체 식물성 유지인 대두유(Soybean Oil) 가격 추이"
         ]
@@ -2162,7 +2172,7 @@ const FALLBACK_DATA = {
             "price": 1169.66
           },
           {
-            "time": "12:40",
+            "time": "12:06",
             "price": 1172.0
           }
         ],
@@ -2286,10 +2296,10 @@ const FALLBACK_DATA = {
       "newsKeywords": "Lauric oil Coconut oil market news",
       "naverQuery": "라우릭 오일 야자유 가격",
       "guide": {
-        "definition": "팜핵유(CPKO) 및 야자유(코코넛오일) 등 라우르산 함량이 높은 특수 식물성 유지의 로테르담/아시아 현물 유통 가격.",
-        "correlation": "선물 시장 부재로 로테르담 공시 현물가 자체가 글로벌 수입 계약의 기준이 됨.",
+        "definition": "팜핵유(CPKO) 및 야자유 등 라우르산 함유 특수 식물성 유지의 로테르담/아시아 현물가",
+        "correlation": "선물 시장 부재로 로테르담 공시 현물가가 글로벌 수입 계약 기준\n가공식품 및 화학 유지류 수입 시 단가 산정의 직접 지표",
         "factors": [
-          "필리핀·인도네시아의 코코넛 수확량 및 태풍 피해",
+          "필리핀·인도네시아 코코넛 수확량 및 태풍 피해",
           "초콜릿 코팅용 대용유지(CBR/CBS) 수요",
           "화장품·계면활성제 등 비식품 화학 산업 수요"
         ]
@@ -2536,15 +2546,15 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "12:40",
+            "time": "12:06",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - indexbox.io",
-          "source": "indexbox.io",
+          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDN1WmxSMEowT3FsRmlkUGVTcngwbkNHVFJVUWQ1VnNidVRtYXpzdWdURjZtLVZFYks3cmdiTWM4S2VqNDFnVEJRRDJVNDgzWFBmMUYzWDdKT2dCNUJzdnZhTUlnbXkwQjdYMG9KOU9uWWtvWGlsNUl0RnFMcjN3RkZuX0xNZE5RX3ROLXEwYnNqcDd4eUxqZUtPRFFsbHc3UHhkT3RzY1VvckJJWUk0Vw?oc=5",
           "date": "08-19 14:04"
         },
@@ -2610,25 +2620,25 @@ const FALLBACK_DATA = {
       "newsKeywords": "US Dollar Korean Won USD KRW exchange rate news",
       "naverQuery": "원달러 환율 전망",
       "guide": {
-        "definition": "서울 외환시장 기준 미국 달러 대비 대한민국 원화 교환 비율.",
-        "correlation": "모든 달러 결제 수입 원자재(커피, 코코아, 유제품 등)의 원화 환산 매입 원가를 최종 결정함.",
+        "definition": "서울 외환시장 기준 미국 달러 대비 대한민국 원화 교환 비율",
+        "correlation": "외환 선물/NDF 시장 흐름이 현물 환율에 실시간 반영\n달러 결제 수입 원자재의 원화 환산 매입 원가 최종 결정",
         "factors": [
           "미국 연방준비제도(Fed) 기준금리 정책 방향",
           "국내 수출입 무역수지 및 외국인 자본 유출입",
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1394.86,
-      "change": -18.72,
-      "changePercent": -1.32,
+      "price": 1395.0,
+      "change": -18.58,
+      "changePercent": -1.31,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1395.08,
       "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1394.86,
+      "low7d": 1395.0,
       "high1m": 1487.39,
-      "low1m": 1394.86,
+      "low1m": 1395.0,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2637,162 +2647,162 @@ const FALLBACK_DATA = {
         1415.37,
         1414.73,
         1413.58,
-        1394.86
+        1395.0
       ],
       "history": {
         "7D": [
           {
-            "date": "08-11",
+            "date": "08-12",
             "price": 1412.18
           },
           {
-            "date": "08-12",
+            "date": "08-13",
             "price": 1416.46
           },
           {
-            "date": "08-13",
+            "date": "08-14",
             "price": 1416.85
           },
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1415.37
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1414.73
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1413.58
           },
           {
             "date": "08-20",
-            "price": 1394.86
+            "price": 1395.0
           }
         ],
         "1M": [
           {
-            "date": "07-19",
+            "date": "07-20",
             "price": 1487.39
           },
           {
-            "date": "07-20",
+            "date": "07-21",
             "price": 1475.01
           },
           {
-            "date": "07-21",
+            "date": "07-22",
             "price": 1479.72
           },
           {
-            "date": "07-22",
+            "date": "07-23",
             "price": 1475.63
           },
           {
-            "date": "07-23",
+            "date": "07-24",
             "price": 1474.04
           },
           {
-            "date": "07-26",
+            "date": "07-27",
             "price": 1458.01
           },
           {
-            "date": "07-27",
+            "date": "07-28",
             "price": 1464.44
           },
           {
-            "date": "07-28",
+            "date": "07-29",
             "price": 1453.16
           },
           {
-            "date": "07-29",
+            "date": "07-30",
             "price": 1442.28
           },
           {
-            "date": "07-30",
+            "date": "07-31",
             "price": 1420.6
           },
           {
-            "date": "08-02",
+            "date": "08-03",
             "price": 1435.7
           },
           {
-            "date": "08-03",
+            "date": "08-04",
             "price": 1428.5
           },
           {
-            "date": "08-04",
+            "date": "08-05",
             "price": 1428.43
           },
           {
-            "date": "08-05",
+            "date": "08-06",
             "price": 1421.16
           },
           {
-            "date": "08-06",
+            "date": "08-07",
             "price": 1422.3
           },
           {
-            "date": "08-09",
+            "date": "08-10",
             "price": 1407.0
           },
           {
-            "date": "08-10",
+            "date": "08-11",
             "price": 1417.31
           },
           {
-            "date": "08-11",
+            "date": "08-12",
             "price": 1412.18
           },
           {
-            "date": "08-12",
+            "date": "08-13",
             "price": 1416.46
           },
           {
-            "date": "08-13",
+            "date": "08-14",
             "price": 1416.85
           },
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1415.37
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1414.73
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1413.58
           },
           {
             "date": "08-20",
-            "price": 1394.86
+            "price": 1395.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1386.49
+            "price": 1386.63
           },
           {
             "time": "11:00",
-            "price": 1389.28
+            "price": 1389.42
           },
           {
             "time": "13:00",
-            "price": 1392.07
+            "price": 1392.21
           },
           {
-            "time": "12:40",
-            "price": 1394.86
+            "time": "12:06",
+            "price": 1395.0
           }
         ],
         "1Y": [
           {
-            "date": "2025-08",
+            "date": "2025-09",
             "price": 1399.33
           },
           {
-            "date": "2025-09",
+            "date": "2025-10",
             "price": 1424.02
           },
           {
@@ -2816,38 +2826,32 @@ const FALLBACK_DATA = {
             "price": 1516.13
           },
           {
-            "date": "2026-03",
+            "date": "2026-04",
             "price": 1487.38
           },
           {
-            "date": "2026-04",
+            "date": "2026-05",
             "price": 1505.96
           },
           {
-            "date": "2026-05",
+            "date": "2026-06",
             "price": 1541.73
           },
           {
-            "date": "2026-06",
+            "date": "2026-07",
             "price": 1420.6
           },
           {
-            "date": "2026-07",
+            "date": "2026-08",
             "price": 1413.58
           },
           {
             "date": "2026-08",
-            "price": 1394.86
+            "price": 1395.0
           }
         ]
       },
       "newsEn": [
-        {
-          "title": "USD-KRW Exchange Rate Drops to 1,300s for First Time in 11 Months...Can It Stabilize? - 아시아경제",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEpiajdhUmZJSUotenJzcWFkejVVZEg1bHRaQUtVemh4Z3g5V3JTY1NkX1pBX3JDQk03aEYzMmxlZ2swMEM0Zl82NlMxbmIzbmpNYnF1ZTExSW9UTXdnandkeVN6aUUxWndIME01WG03NXpnNVdOREJNaW1xQS1fZWRFQ25XZ3NTQXVqVW9PQQ?oc=5",
-          "date": "08-20 11:25"
-        },
         {
           "title": "Dollar hits three-month low as Treasury buybacks sink yields; Fed flags inflation - Investing.com",
           "source": "Investing.com",
@@ -2855,16 +2859,22 @@ const FALLBACK_DATA = {
           "date": "08-20 05:44"
         },
         {
-          "title": "Treasury Buybacks Put Bond Market Liquidity Front and Center - mottcapitalmanagement.com",
-          "source": "mottcapitalmanagement.com",
+          "title": "Treasury Buybacks Put Bond Market Liquidity Front and Center - Mott Capital Management",
+          "source": "Mott Capital Management",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VcFhzUG9CS1B2RWlCSzRKZmJFNkhYYVU2alpwWUZPWW5TbmZSME91T05LN19STkN5VmE5U0xIeXZHMjgwRlRNd1VTQ3p6UWpDWmo3Z3NQWG1WRFJIRlJPSHNPSU1rRlRVZ0pJTFJ5YmVEWkIwVGI2WV9TOWRMQQ?oc=5",
           "date": "08-20 07:26"
         },
         {
-          "title": "South Korean Won Hits Over 10-Month High - TradingView",
-          "source": "TradingView",
+          "title": "South Korean Won Hits Over 10-Month High - tradingview.com",
+          "source": "tradingview.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNJUFZaeWtiRmM1eXNSWEVGR3BXR3ZsRUdrWGp0cWJMMU80Yi1LQ3pFbUNTTDhaQ2NwOGNiWjRjSURIVF9ySzg1RERTdU5wRHdwYW5YNjZOU2RHVHBWc1BOQnJLLXQ0ZHhiVjZoMUpXVWtqV0hkTUtGMjJ1VXZmY0R1ZGEtcUwtQmNFTjdHQjhtUEtSd0E?oc=5",
           "date": "08-19 12:28"
+        },
+        {
+          "title": "KRW/USD Exchange Rate Breaks the \"Critical 1,400 Won\" Mark for the First Time in 11 Months (Update) - 아시아경제",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UTWxZREtTVmlIRzk2QWtrR0JDbkVqVFZzZWxNdmlWWjBnanhSejJrZi1FTHcxQlNlQzhWQkZnaUVtVHVwcUJKMDdMdG5xR0R5SG8zNVRuYlVLNkJfYkZGMF95WTU?oc=5",
+          "date": "08-19 16:52"
         }
       ],
       "newsKr": [
@@ -2910,20 +2920,20 @@ const FALLBACK_DATA = {
       "newsKeywords": "Euro Korean Won EUR KRW exchange rate news",
       "naverQuery": "원유로 환율 전망",
       "guide": {
-        "definition": "유럽연합 유로화 대비 대한민국 원화 교환 비율.",
-        "correlation": "유럽산 유제품(버터, 치즈), 완제품 초콜릿, 제조 가공설비 수입 시 직접 원가로 연동됨.",
+        "definition": "유럽연합 유로화 대비 대한민국 원화 교환 비율",
+        "correlation": "글로벌 외환시장(EUR/USD)과 서울 외환시장(USD/KRW) 교차 환율(Cross Rate)로 산출\n유럽산 유제품, 완제품 초콜릿, 가공설비 수입 시 직접 원가 연동",
         "factors": [
           "유럽중앙은행(ECB) 통화 정책 및 금리차",
-          "유로존 주요국(독일·프랑스) 경제 성장률 지표",
+          "유로존 주요국 경제 성장률 지표",
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1628.4,
-      "change": -6.52,
-      "changePercent": -0.4,
+      "price": 1627.7,
+      "change": -7.22,
+      "changePercent": -0.44,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1628.4,
+      "high24h": 1628.0,
       "low24h": 1616.4,
       "high7d": 1638.16,
       "low7d": 1582.09,
@@ -2937,162 +2947,162 @@ const FALLBACK_DATA = {
         1582.09,
         1638.16,
         1634.92,
-        1628.4
+        1627.7
       ],
       "history": {
         "7D": [
           {
-            "date": "08-11",
+            "date": "08-12",
             "price": 1628.62
           },
           {
-            "date": "08-12",
+            "date": "08-13",
             "price": 1632.86
           },
           {
-            "date": "08-13",
+            "date": "08-14",
             "price": 1634.19
           },
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1582.09
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1638.16
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1634.92
           },
           {
             "date": "08-20",
-            "price": 1628.4
+            "price": 1627.7
           }
         ],
         "1M": [
           {
-            "date": "07-19",
+            "date": "07-20",
             "price": 1700.58
           },
           {
-            "date": "07-20",
+            "date": "07-21",
             "price": 1683.36
           },
           {
-            "date": "07-21",
+            "date": "07-22",
             "price": 1687.03
           },
           {
-            "date": "07-22",
+            "date": "07-23",
             "price": 1683.6
           },
           {
-            "date": "07-23",
+            "date": "07-24",
             "price": 1676.49
           },
           {
-            "date": "07-26",
+            "date": "07-27",
             "price": 1657.74
           },
           {
-            "date": "07-27",
+            "date": "07-28",
             "price": 1665.16
           },
           {
-            "date": "07-28",
+            "date": "07-29",
             "price": 1654.43
           },
           {
-            "date": "07-29",
+            "date": "07-30",
             "price": 1652.79
           },
           {
-            "date": "07-30",
+            "date": "07-31",
             "price": 1636.68
           },
           {
-            "date": "08-02",
+            "date": "08-03",
             "price": 1663.51
           },
           {
-            "date": "08-03",
+            "date": "08-04",
             "price": 1643.36
           },
           {
-            "date": "08-04",
+            "date": "08-05",
             "price": 1647.17
           },
           {
-            "date": "08-05",
+            "date": "08-06",
             "price": 1642.01
           },
           {
-            "date": "08-06",
+            "date": "08-07",
             "price": 1638.82
           },
           {
-            "date": "08-09",
+            "date": "08-10",
             "price": 1618.62
           },
           {
-            "date": "08-10",
+            "date": "08-11",
             "price": 1635.36
           },
           {
-            "date": "08-11",
+            "date": "08-12",
             "price": 1628.62
           },
           {
-            "date": "08-12",
+            "date": "08-13",
             "price": 1632.86
           },
           {
-            "date": "08-13",
+            "date": "08-14",
             "price": 1634.19
           },
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1582.09
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1638.16
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1634.92
           },
           {
             "date": "08-20",
-            "price": 1628.4
+            "price": 1627.7
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1618.63
+            "price": 1617.93
           },
           {
             "time": "11:00",
-            "price": 1621.89
+            "price": 1621.19
           },
           {
             "time": "13:00",
-            "price": 1625.14
+            "price": 1624.44
           },
           {
-            "time": "12:40",
-            "price": 1628.4
+            "time": "12:06",
+            "price": 1627.7
           }
         ],
         "1Y": [
           {
-            "date": "2025-08",
+            "date": "2025-09",
             "price": 1640.49
           },
           {
-            "date": "2025-09",
+            "date": "2025-10",
             "price": 1647.04
           },
           {
@@ -3116,28 +3126,28 @@ const FALLBACK_DATA = {
             "price": 1736.26
           },
           {
-            "date": "2026-03",
+            "date": "2026-04",
             "price": 1736.6
           },
           {
-            "date": "2026-04",
+            "date": "2026-05",
             "price": 1755.9
           },
           {
-            "date": "2026-05",
+            "date": "2026-06",
             "price": 1760.27
           },
           {
-            "date": "2026-06",
+            "date": "2026-07",
             "price": 1636.68
           },
           {
-            "date": "2026-07",
+            "date": "2026-08",
             "price": 1634.92
           },
           {
             "date": "2026-08",
-            "price": 1628.4
+            "price": 1627.7
           }
         ]
       },
@@ -3149,8 +3159,8 @@ const FALLBACK_DATA = {
           "date": "08-20 05:44"
         },
         {
-          "title": "FX Daily: The won also rises - think.ing.com",
-          "source": "think.ing.com",
+          "title": "FX Daily: The won also rises - ING Think",
+          "source": "ING Think",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fTDVwN0F2c2ZHaGduU0g3QUVyTDB4YWNCWVkzeEZ0UEFtNUd4RFZlQjFzSGxlYVlzX2lERnFBQ09oWERUdjBkd1ppek5jR2p3V0JxN1JESXpIOUsxZ24xZVFVRHo3Q1RwbVdJ?oc=5",
           "date": "08-19 15:56"
         },
@@ -3187,8 +3197,8 @@ const FALLBACK_DATA = {
           "date": "08-19 14:32"
         },
         {
-          "title": "KDI, 올해 성장률 전망치 3.2%로↑…경상흑자 3600억달러 전망 - 금융소비자뉴스",
-          "source": "금융소비자뉴스",
+          "title": "KDI, 올해 성장률 전망치 3.2%로↑…경상흑자 3600억달러 전망 - newsfc.co.kr",
+          "source": "newsfc.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xTWhtTUVkQnZ6SkMzZ3lQalNEUUItb3NSdFJEYTZTaHEzeFJ2aVZMbXc3YWxpVHRubnZ0VjVXS3g5MlAxalRHaWQ5enJiek5ubkp5UThQVnFucHp4ek40MmpzTXdGdjdYanc?oc=5",
           "date": "08-19 15:33"
         }
@@ -3469,7 +3479,7 @@ function getWeeklyReportData() {
   const gainer = sorted[0];
   const loser = sorted[sorted.length - 1];
   
-  // Fixed priority order for remaining commodities: 1) Cocoa/Coffee -> 2) Dairy -> 3) Oils
+  // Fixed priority order for all 9 commodities: 1) Cocoa/Coffee -> 2) Dairy -> 3) Oils
   const FIXED_ORDER = {
     'cocoa': 1,
     'arabica': 2,
@@ -3481,8 +3491,8 @@ function getWeeklyReportData() {
     'palm': 20,
     'lauric-oil': 21
   };
-  const otherItemsRaw = commodityItems.filter(it => it.id !== (gainer && gainer.id) && it.id !== (loser && loser.id));
-  const others = otherItemsRaw.sort((a, b) => (FIXED_ORDER[a.id] || 99) - (FIXED_ORDER[b.id] || 99));
+  // Include ALL commodities in the weekly price list (no exclusion)
+  const allCommodities = [...commodityItems].sort((a, b) => (FIXED_ORDER[a.id] || 99) - (FIXED_ORDER[b.id] || 99));
 
   const formatDaily = (it) => {
     if (!it) return '';
@@ -3493,31 +3503,66 @@ function getWeeklyReportData() {
     return `${cleanName} : ${priceStr} (${sign}${Math.abs(pctVal).toFixed(2)}%)`;
   };
 
+  const now = new Date();
+  const dayNr = (now.getDay() + 6) % 7;
+  const curMonday = new Date(now);
+  curMonday.setDate(now.getDate() - dayNr);
+  const prevMonday = new Date(curMonday);
+  prevMonday.setDate(curMonday.getDate() - 7);
+
+  const formatMD = (d) => `${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  const formatYMD = (d) => `${d.getFullYear()}-${formatMD(d)}`;
+
+  const findWeekPrice = (it, mondayDate) => {
+    const allH = (it.history && it.history['1M']) || (it.history && it.history['7D']) || [];
+    for (let offset = 0; offset < 5; offset++) {
+      const target = new Date(mondayDate);
+      target.setDate(mondayDate.getDate() + offset);
+      const md = formatMD(target);
+      const ymd = formatYMD(target);
+      const entry = allH.find(h => h.date === md || h.date === ymd || (h.date && String(h.date).endsWith(md)));
+      if (entry && entry.price) return entry.price;
+    }
+    return null;
+  };
+
   const formatWeekly = (it) => {
     if (!it) return '';
     const cleanName = it.nameKr.split('(')[0].trim();
     const priceStr = it.currency === 'USD' ? `$${it.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})}` : `${it.price.toLocaleString('ko-KR')}원`;
     
-    const history7d = it.history && it.history['7D'] ? it.history['7D'] : [];
-    const sparkline = it.sparkline || [];
-    let startP = null;
-    if (history7d.length >= 2) startP = history7d[0].price;
-    else if (sparkline.length >= 2) startP = sparkline[0];
+    let curP = findWeekPrice(it, curMonday);
+    let prevP = findWeekPrice(it, prevMonday);
+
+    if (it.id.startsWith('gdt') || it.category === 'dairy') {
+      const allH = ((it.history && it.history['1M']) || (it.history && it.history['7D']) || []).filter(x => x.price);
+      if (allH.length >= 2) {
+        curP = allH[allH.length - 1].price;
+        prevP = allH[allH.length - 2].price;
+      }
+    }
+
+    if (!curP) curP = it.price;
+    if (!prevP) {
+      const history7d = it.history && it.history['7D'] ? it.history['7D'] : [];
+      const sparkline = it.sparkline || [];
+      if (history7d.length >= 2) prevP = history7d[0].price;
+      else if (sparkline.length >= 2) prevP = sparkline[0];
+      else prevP = it.price;
+    }
     
     let wPct = it.changePercent || 0;
-    if (startP && startP > 0) {
-      wPct = ((it.price - startP) / startP) * 100;
+    if (prevP && prevP > 0) {
+      wPct = ((curP - prevP) / prevP) * 100;
     }
     const sign = wPct > 0 ? '▲' : (wPct < 0 ? '▼' : '');
     return `${cleanName} : ${priceStr} (${sign}${Math.abs(wPct).toFixed(2)}%)`;
   };
 
-  const now = new Date();
   const year = now.getFullYear();
   
   // Calculate ISO week number
   const target = new Date(now.valueOf());
-  const dayNr = (now.getDay() + 6) % 7;
   target.setDate(target.getDate() - dayNr + 3);
   const firstThursday = target.valueOf();
   target.setMonth(0, 1);
@@ -3525,6 +3570,11 @@ function getWeeklyReportData() {
     target.setMonth(0, 1 + ((4 - target.getDay()) + 7) % 7);
   }
   const weekNumber = 1 + Math.ceil((firstThursday - target) / 604800000);
+
+  const curFri = new Date(curMonday);
+  curFri.setDate(curMonday.getDate() + 4);
+  const fmtD = (d) => `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+  const weekDateRange = `${fmtD(curMonday)} ~ ${fmtD(curFri)}`;
 
   const dateStr = `${year}.${String(now.getMonth() + 1).padStart(2, '0')}.${String(now.getDate()).padStart(2, '0')}`;
   const hours = String(now.getHours()).padStart(2, '0');
@@ -3541,19 +3591,32 @@ function getWeeklyReportData() {
   const usdSign = usdChg > 0 ? '▲' : (usdChg < 0 ? '▼' : '');
   const eurSign = eurChg > 0 ? '▲' : (eurChg < 0 ? '▼' : '');
 
+  // Top 1 curated news across all items
+  let newsTitle = '글로벌 원자재 공급망 및 주요 품목 시세 동향';
+  const newsItem = allCommodities.find(it => it.newsKr && it.newsKr.length > 0) || allCommodities.find(it => it.newsEn && it.newsEn.length > 0);
+  if (newsItem) {
+    const rawN = (newsItem.newsKr && newsItem.newsKr[0]) || (newsItem.newsEn && newsItem.newsEn[0]);
+    if (rawN && rawN.title) {
+      const rawTitle = rawN.title;
+      const dashIdx = Math.max(rawTitle.lastIndexOf(' - '), rawTitle.lastIndexOf(' – '));
+      newsTitle = dashIdx > 10 ? rawTitle.substring(0, dashIdx).trim() : rawTitle.trim();
+    }
+  }
+
   return {
     title: `[${year} Week ${weekNumber} Report]`,
     week_number: weekNumber,
+    week_date_range: weekDateRange,
     weekly_price_title: `[W${weekNumber} 주요품목가격]`,
     date: dateStr,
     report_date: reportDateStr,
     top_gainer: formatDaily(gainer),
     top_loser: formatDaily(loser),
-    weekly_price_list: others.map(it => formatWeekly(it)),
+    weekly_price_list: allCommodities.map(it => formatWeekly(it)),
     fx_usd: `${usdPrice.toLocaleString('ko-KR')}원 (${usdSign}${Math.abs(usdChg).toLocaleString('ko-KR')}원)`,
     fx_eur: `${eurPrice.toLocaleString('ko-KR')}원 (${eurSign}${Math.abs(eurChg).toLocaleString('ko-KR')}원)`,
-    news_category: gainer ? gainer.nameKr.split('(')[0].trim() : '원자재',
-    news_title: '글로벌 원자재 공급망 및 주요 품목 시세 동향'
+    news_category: '오늘의 주요 헤드라인',
+    news_title: newsTitle
   };
 }
 
@@ -3568,6 +3631,15 @@ function renderPulseCowPopup() {
   const reportTitle = b.title || `[${currentYear} Week ${weekNum} Report]`;
   const weeklyPriceTitle = b.weekly_price_title || `[W${weekNum} 주요품목가격]`;
   
+  // Calculate week date range (Monday to Friday)
+  const dayNr = (now.getDay() + 6) % 7;
+  const curMon = new Date(now);
+  curMon.setDate(now.getDate() - dayNr);
+  const curFri = new Date(curMon);
+  curFri.setDate(curMon.getDate() + 4);
+  const fmtD = (d) => `${d.getFullYear()}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
+  const weekDateRange = b.week_date_range || `${fmtD(curMon)} ~ ${fmtD(curFri)}`;
+
   const priceLines = b.weekly_price_list || b.other_commodities || [];
   const listArray = Array.isArray(priceLines) ? priceLines : String(priceLines).split('\n').filter(Boolean);
   const weeklyPriceHtml = listArray.map(line => `<div class="pulse-cow-other-line">${line}</div>`).join('');
@@ -3579,12 +3651,24 @@ function renderPulseCowPopup() {
 
   bubble.innerHTML = `
     <div class="pulse-cow-header">
-      <div class="pulse-cow-title">${reportTitle}</div>
+      <div class="pulse-cow-title">
+        <span>${reportTitle}</span>
+        <span class="cow-tooltip-wrap">
+          <button type="button" class="cow-info-btn" aria-label="리포트 기간 안내" tabindex="0">?</button>
+          <span class="cow-tooltip-box">${weekDateRange}</span>
+        </span>
+      </div>
       <button class="pulse-cow-close" id="closePulseCowBtn" title="닫기" type="button">&times;</button>
     </div>
 
     <div class="pulse-cow-section">
-      <div class="pulse-cow-section-title">[일일 원자재 동향]</div>
+      <div class="pulse-cow-section-title">
+        <span>[일일 원자재 동향]</span>
+        <span class="cow-tooltip-wrap">
+          <button type="button" class="cow-info-btn" aria-label="일일 원자재 동향 안내" tabindex="0">?</button>
+          <span class="cow-tooltip-box">전일 대비 최대 상승 및 하락 품목</span>
+        </span>
+      </div>
       <div class="pulse-cow-item gainer">
         <span>당일 급등 : ${b.top_gainer}</span>
       </div>
@@ -3594,14 +3678,26 @@ function renderPulseCowPopup() {
     </div>
 
     <div class="pulse-cow-section">
-      <div class="pulse-cow-section-title">${weeklyPriceTitle}</div>
+      <div class="pulse-cow-section-title">
+        <span>${weeklyPriceTitle}</span>
+        <span class="cow-tooltip-wrap">
+          <button type="button" class="cow-info-btn" aria-label="주간 주요품목가격 안내" tabindex="0">?</button>
+          <span class="cow-tooltip-box">주간 가격 변동률 (해당 주차 월요일 vs 직전 주 월요일 종가)</span>
+        </span>
+      </div>
       <div class="pulse-cow-other-list">
         ${weeklyPriceHtml}
       </div>
     </div>
 
     <div class="pulse-cow-section">
-      <div class="pulse-cow-section-title">[일일 환율]</div>
+      <div class="pulse-cow-section-title">
+        <span>[일일 환율]</span>
+        <span class="cow-tooltip-wrap">
+          <button type="button" class="cow-info-btn" aria-label="일일 환율 안내" tabindex="0">?</button>
+          <span class="cow-tooltip-box">서울 외환시장 마감 기준 전일 대비 환율 변동액</span>
+        </span>
+      </div>
       <div class="pulse-cow-item">
         <span>USD/KRW : ${b.fx_usd}</span>
       </div>
@@ -3611,7 +3707,9 @@ function renderPulseCowPopup() {
     </div>
 
     <div class="pulse-cow-section" style="margin-bottom:0;">
-      <div class="pulse-cow-section-title">[주요 "${b.news_category}" 뉴스]</div>
+      <div class="pulse-cow-section-title">
+        <span>[오늘의 주요 헤드라인]</span>
+      </div>
       <div class="pulse-cow-news">${b.news_title}</div>
     </div>
 
@@ -3651,7 +3749,7 @@ ${listArray.join('\n')}
 USD/KRW : ${b.fx_usd}
 EUR/KRW : ${b.fx_eur}
 
-[주요 "${b.news_category}" 뉴스]
+[오늘의 주요 헤드라인]
 ${b.news_title}
 
 Report Date: ${reportDateStr}`;
@@ -4317,10 +4415,18 @@ function switchNewsLang(itemId, lang) {
   openNews(itemId, lang);
 }
 
+function stripTrailingDots(text) {
+  if (!text) return '';
+  return text
+    .split('\n')
+    .map(line => line.trim().replace(/\.+$/, ''))
+    .join('\n');
+}
+
 const COMMODITY_GUIDE_DATA = {
   'cocoa': {
-    definition: '코트디부아르·가나 등 서아프리카산 카카오두 기준, 미국 ICE 거래소 선물 가격.',
-    correlation: '글로벌 가공사·제과업체의 원료 매입 단가 기준. 선물 급등 시 약 6개월~1년 시차를 두고 실제 수입 현물가 및 제품가에 직접 반영됨.',
+    definition: '코트디부아르·가나 등 서아프리카산 카카오두 기준, 미국 ICE 거래소 선물 가격',
+    correlation: '글로벌 가공사·제과업체의 원료 매입 단가 기준\n선물 급등 시 6개월~1년 시차를 두고 수입 현물가 및 제품가에 직접 반영',
     factors: [
       '서아프리카 가뭄 및 병충해(CSSVD) 발생 여부',
       '코트디부아르·가나 정부의 수매가(LID) 정책',
@@ -4328,8 +4434,8 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'arabica': {
-    definition: '브라질·콜롬비아 등 고지대에서 생산되는 스페셜티·원두커피용 품종, 미국 ICE 거래소 선물 가격.',
-    correlation: '국제 원두 거래의 핵심 벤치마크. 실제 수입 현물가는 본 선물 가격에 산지 프리미엄(Diff)을 합산하여 결정됨.',
+    definition: '브라질·콜롬비아 등 고지대 생산 스페셜티·원두커피용 품종, 미국 ICE 거래소 선물 가격',
+    correlation: '국제 원두 거래의 핵심 벤치마크\n수입 현물가는 선물 가격에 산지 프리미엄(Diff) 합산하여 결정',
     factors: [
       '브라질 개화기 가뭄 및 결빙(서리) 피해',
       '브라질 헤알화 환율 변동에 따른 농가 출하량 조절',
@@ -4337,17 +4443,17 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'robusta': {
-    definition: '베트남·인도네시아 등 저지대에서 생산되는 인스턴트·에스프레소 블렌딩용 품종, 런던 ICE Europe 선물 가격.',
-    correlation: '글로벌 인스턴트 커피 및 캔커피 제조사의 원가 기준. 아라비카 가격 급등 시 대체재 수요 증가로 연동성 강화됨.',
+    definition: '베트남·인도네시아 등 저지대 생산 인스턴트·에스프레소용 품종, 런던 ICE Europe 선물 가격',
+    correlation: '글로벌 인스턴트 커피 및 캔커피 제조사의 원가 기준\n직관성 확보를 위해 아라비카(¢/lb)와 달리 톤당 달러($/MT)로 환산 표기\n아라비카 가격 급등 시 대체재 수요 증가로 연동성 강화',
     factors: [
-      '최대 생산국 베트남의 기후(가뭄 및 우기 강우량)',
+      '최대 생산국 베트남 기후(가뭄 및 우기 강우량)',
       '산지 농가의 재고 비축 및 출하 속도',
       '수에즈 운하 등 주요 해상 항로 물류 차질'
     ]
   },
   'gdt-index': {
-    definition: '뉴질랜드 폰테라(Fonterra) 중심의 글로벌 유제품 경매 플랫폼(GDT) 전 품목 가중평균 가격 지표.',
-    correlation: '2주 단위 경매 체결 결과가 전 세계 유제품 실거래가의 기준 방향성을 결정함.',
+    definition: '뉴질랜드 폰테라(Fonterra) 중심 글로벌 유제품 경매 플랫폼(GDT) 전 품목 가중평균 지표',
+    correlation: '전 세계 유제품 실거래가의 기준 방향성 결정\n2주 단위 경매 체결 결과가 각국 수입 계약 단가에 즉각 반영',
     factors: [
       '중국 내수 원유 재고 수준 및 수입 수요',
       '뉴질랜드·EU 주요 산지의 산유량 증감',
@@ -4355,8 +4461,8 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'gdt-milk': {
-    definition: '원유에서 수분만 제거한 유지방 함유 분말, GDT 경매 거래 가격.',
-    correlation: '제과·제빵 및 조제분유 수입 현물 계약의 직접적인 기준 가격으로 작용함.',
+    definition: '원유에서 수분만 제거한 유지방 함유 분말인 전지분유 - GDT 경매 거래 가격',
+    correlation: '제과·제빵 및 조제분유 수입 현물 계약의 직접적 기준 가격\n국제 유제품 유통 시장 수급 상황 신속 반영',
     factors: [
       '중국의 전지분유 수입 재개 및 수입량 추이',
       '뉴질랜드 목초지 기후 조건 및 원유 공급량',
@@ -4364,8 +4470,8 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'gdt-wmp': {
-    definition: '원유에서 수분만 제거한 유지방 함유 분말, GDT 경매 거래 가격.',
-    correlation: '제과·제빵 및 조제분유 수입 현물 계약의 직접적인 기준 가격으로 작용함.',
+    definition: '원유에서 수분만 제거한 유지방 함유 분말인 전지분유 - GDT 경매 거래 가격',
+    correlation: '제과·제빵 및 조제분유 수입 현물 계약의 직접적 기준 가격\n국제 유제품 유통 시장 수급 상황 신속 반영',
     factors: [
       '중국의 전지분유 수입 재개 및 수입량 추이',
       '뉴질랜드 목초지 기후 조건 및 원유 공급량',
@@ -4373,17 +4479,17 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'gdt-smp': {
-    definition: '원유에서 지방을 분리 제거 후 건조한 분말, GDT 경매 거래 가격.',
-    correlation: '음료, 제과, 빙과류 제조 원가 지표. 버터 제조 시 함께 생산되는 부산물이므로 버터 생산량과 밀접하게 연동됨.',
+    definition: '원유에서 지방을 분리 제거 후 건조한 분말인 탈지분유 - GDT 경매 거래 가격',
+    correlation: '음료, 제과, 빙과류 제조 원가 지표\n버터 부산물로 버터 생산량과 밀접하게 연동',
     factors: [
       '유럽 및 오세아니아 유가공 공장 가동률',
       '버터박(Buttermilk) 가공 비율 및 유청 단백질 수요',
-      '식물성 대체 단백질 시장의 가격 동향'
+      '식물성 대체 단백질 시장 가격 동향'
     ]
   },
   'gdt-butter': {
-    definition: '유지방 80% 이상 유제품, GDT 경매 거래 가격.',
-    correlation: '베이커리·유가공 업체의 직수입 단가 벤치마크. 유지방 수급 불균형 발생 시 단기 변동폭 확대됨.',
+    definition: '유지방 80% 이상 유제품인 버터 - GDT 경매 거래 가격',
+    correlation: '베이커리·유가공 업체의 직수입 단가 벤치마크\n유지방 수급 불균형 시 단기 변동폭 확대',
     factors: [
       '베이커리 성수기(연말 및 명절) 수요 집중',
       '계절별 원유 내 유지방(Fat) 함유율 변화',
@@ -4391,44 +4497,44 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'palm': {
-    definition: '인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격.',
-    correlation: '가공식품·제과·바이오디젤의 핵심 원가 지표. 실제 수입 시 FOB/CIF 현물 가격과 즉각 연동됨.',
+    definition: '인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격',
+    correlation: '가공식품·제과·바이오디젤의 핵심 원가 지표\n실제 수입 시 FOB/CIF 현물 가격과 즉각 연동',
     factors: [
-      '인도네시아의 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제',
+      '인도네시아 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제',
       '동남아 엘니뇨 가뭄에 따른 수확량 감소',
       '대체 식물성 유지인 대두유(Soybean Oil) 가격 추이'
     ]
   },
   'cpo': {
-    definition: '인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격.',
-    correlation: '가공식품·제과·바이오디젤의 핵심 원가 지표. 실제 수입 시 FOB/CIF 현물 가격과 즉각 연동됨.',
+    definition: '인도네시아·말레이시아산 기름야자 열매 추출 식물성 유지, 말레이시아(BMD)/미국 CME 선물 가격',
+    correlation: '가공식품·제과·바이오디젤의 핵심 원가 지표\n실제 수입 시 FOB/CIF 현물 가격과 즉각 연동',
     factors: [
-      '인도네시아의 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제',
+      '인도네시아 바이오디젤 의무 혼합 비율(B35/B40) 및 수출 규제',
       '동남아 엘니뇨 가뭄에 따른 수확량 감소',
       '대체 식물성 유지인 대두유(Soybean Oil) 가격 추이'
     ]
   },
   'lauric-oil': {
-    definition: '팜핵유(CPKO) 및 야자유(코코넛오일) 등 라우르산 함량이 높은 특수 식물성 유지의 로테르담/아시아 현물 유통 가격.',
-    correlation: '선물 시장 부재로 로테르담 공시 현물가 자체가 글로벌 수입 계약의 기준이 됨.',
+    definition: '팜핵유(CPKO) 및 야자유 등 라우르산 함유 특수 식물성 유지의 로테르담/아시아 현물가',
+    correlation: '선물 시장 부재로 로테르담 공시 현물가가 글로벌 수입 계약 기준\n가공식품 및 화학 유지류 수입 시 단가 산정의 직접 지표',
     factors: [
-      '필리핀·인도네시아의 코코넛 수확량 및 태풍 피해',
+      '필리핀·인도네시아 코코넛 수확량 및 태풍 피해',
       '초콜릿 코팅용 대용유지(CBR/CBS) 수요',
       '화장품·계면활성제 등 비식품 화학 산업 수요'
     ]
   },
   'lauric': {
-    definition: '팜핵유(CPKO) 및 야자유(코코넛오일) 등 라우르산 함량이 높은 특수 식물성 유지의 로테르담/아시아 현물 유통 가격.',
-    correlation: '선물 시장 부재로 로테르담 공시 현물가 자체가 글로벌 수입 계약의 기준이 됨.',
+    definition: '팜핵유(CPKO) 및 야자유 등 라우르산 함유 특수 식물성 유지의 로테르담/아시아 현물가',
+    correlation: '선물 시장 부재로 로테르담 공시 현물가가 글로벌 수입 계약 기준\n가공식품 및 화학 유지류 수입 시 단가 산정의 직접 지표',
     factors: [
-      '필리핀·인도네시아의 코코넛 수확량 및 태풍 피해',
+      '필리핀·인도네시아 코코넛 수확량 및 태풍 피해',
       '초콜릿 코팅용 대용유지(CBR/CBS) 수요',
       '화장품·계면활성제 등 비식품 화학 산업 수요'
     ]
   },
   'usd-krw': {
-    definition: '서울 외환시장 기준 미국 달러 대비 대한민국 원화 교환 비율.',
-    correlation: '모든 달러 결제 수입 원자재(커피, 코코아, 유제품 등)의 원화 환산 매입 원가를 최종 결정함.',
+    definition: '서울 외환시장 기준 미국 달러 대비 대한민국 원화 교환 비율',
+    correlation: '외환 선물/NDF 시장 흐름이 현물 환율에 실시간 반영\n달러 결제 수입 원자재의 원화 환산 매입 원가 최종 결정',
     factors: [
       '미국 연방준비제도(Fed) 기준금리 정책 방향',
       '국내 수출입 무역수지 및 외국인 자본 유출입',
@@ -4436,11 +4542,11 @@ const COMMODITY_GUIDE_DATA = {
     ]
   },
   'eur-krw': {
-    definition: '유럽연합 유로화 대비 대한민국 원화 교환 비율.',
-    correlation: '유럽산 유제품(버터, 치즈), 완제품 초콜릿, 제조 가공설비 수입 시 직접 원가로 연동됨.',
+    definition: '유럽연합 유로화 대비 대한민국 원화 교환 비율',
+    correlation: '글로벌 외환시장(EUR/USD)과 서울 외환시장(USD/KRW) 교차 환율(Cross Rate)로 산출\n유럽산 유제품, 완제품 초콜릿, 가공설비 수입 시 직접 원가 연동',
     factors: [
       '유럽중앙은행(ECB) 통화 정책 및 금리차',
-      '유로존 주요국(독일·프랑스) 경제 성장률 지표',
+      '유로존 주요국 경제 성장률 지표',
       '달러화 강세/약세에 따른 EUR/USD 역방향 변동'
     ]
   }
@@ -4476,15 +4582,15 @@ function openDetailModal(itemId) {
 
   // 2. 품목 기초 가이드 데이터 매핑
   const guide = item.guide || COMMODITY_GUIDE_DATA[item.id] || COMMODITY_GUIDE_DATA[item.id.replace('-wmp', '-milk')] || {
-    definition: item.description || '국제 시장 기준 원자재 가격 정보입니다.',
-    correlation: '국제 선물/현물 벤치마크 가격과 연동되어 거래됩니다.',
+    definition: item.description || '국제 시장 기준 원자재 가격 정보입니다',
+    correlation: '국제 선물/현물 벤치마크 가격과 연동되어 거래됩니다',
     factors: ['글로벌 수급 동향 및 기후 요인', '환율 및 운임 변동', '주요 산지 정책 변화']
   };
 
   const factorListHtml = (guide.factors || []).map(f => `
     <li class="guide-factor-item">
       <span class="guide-factor-dot">▪</span>
-      <span>${f}</span>
+      <span>${stripTrailingDots(f)}</span>
     </li>
   `).join('');
 
@@ -4517,23 +4623,22 @@ function openDetailModal(itemId) {
       </div>
     </div>
 
-    <!-- 3. 신규 '품목 기초 가이드' 영역 (품목 개요 & 52주 고/저 박스 대체) -->
+    <!-- 3. 신규 '품목 기초 가이드' 영역 -->
     <div class="detail-guide-card">
       <div class="detail-guide-header">
         <span>📚 품목 기초 가이드</span>
-        <span style="font-size:11px; color:#94A3B8; font-weight:500;">기초 정의 및 주요 변동 메커니즘</span>
       </div>
 
       <!-- [품목 정의] -->
       <div class="guide-item">
         <div class="guide-label">[품목 정의]</div>
-        <p class="guide-text">${guide.definition}</p>
+        <p class="guide-text">${stripTrailingDots(guide.definition)}</p>
       </div>
 
       <!-- [선물-현물 연관성] -->
       <div class="guide-item">
         <div class="guide-label">[선물-현물 연관성]</div>
-        <p class="guide-text">${guide.correlation}</p>
+        <p class="guide-text">${stripTrailingDots(guide.correlation || '').replace(/\n/g, '<br>')}</p>
       </div>
 
       <!-- [주요 변동 요인] -->
