@@ -1,13 +1,13 @@
 {
-  "fetch_status": "success",
-  "last_updated": "2026-08-20 12:06:30",
+  "fetch_status": "error",
+  "last_updated": "2026-08-20 13:30:02",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 12:06",
+    "report_date": "2026.08.20, 13:30",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -18,7 +18,7 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,172.00 (▲0.39%)",
+      "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
@@ -29,11 +29,11 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,172.00 (▲0.39%)",
+      "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,395.00원 (▼18.58원)",
-    "fx_eur": "1,627.70원 (▼7.22원)",
+    "fx_usd": "1,393.89원 (▼19.69원)",
+    "fx_eur": "1,627.00원 (▼7.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 12:06",
+    "report_date": "2026.08.20, 13:30",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -54,7 +54,7 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,172.00 (▲0.39%)",
+      "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
@@ -65,17 +65,17 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,172.00 (▲0.39%)",
+      "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,395.00원 (▼18.58원)",
-    "fx_eur": "1,627.70원 (▼7.22원)",
+    "fx_usd": "1,393.89원 (▼19.69원)",
+    "fx_eur": "1,627.00원 (▼7.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-20T12:06:30.379373+09:00",
-  "usdKrwRate": 1394.95,
-  "eurKrwRate": 1627.7,
+  "lastUpdated": "2026-08-20T13:30:02.919194+09:00",
+  "usdKrwRate": 1393.88,
+  "eurKrwRate": 1626.9,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5922.13
           },
           {
-            "time": "12:06",
+            "time": "13:29",
             "price": 5934.0
           }
         ],
@@ -321,12 +321,6 @@
           "date": "08-20 03:23"
         },
         {
-          "title": "Cocoa Prices Climb on Dollar Weakness - tradingview.com",
-          "source": "tradingview.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlAxOUtnV0lyd2dMbUE3T2wxbEZXU2xnMlNiRTh1V3JrYlZnRExneDBlb2dNaU9FNHZOS2ZYUVNYTlpnaHgtMDQwUFR0QzFwOW81MURCekVEdnYwVDFYblhiVlZqMUotNHI5alQyUkliYS1uTUE4Qmc4WllHLTF0M05KZWw4NUE0NlJDN2pnODA2WXQzZzRmZDB0TFU?oc=5",
-          "date": "08-20 01:03"
-        },
-        {
           "title": "US Cocoa Futures (COCOA-F) Surges on Aug 19: Key Factors to Watch - TradingKey",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDl6SGtqcXJlVEpBdEVWbkdkLWNSU1VWekFkRXExcV9GU08yNk9vZ0hnR0I0LWk1UzJqRWdYcGY4b09UZDdEdVFNQUJnUEJZdXd6SVozS2RrNHhTRldwajhLajZfWmtMSmxkamIxOWRZS3c4YmxsYWtkMVAwR0dVd1NFbFFvVE1tZW9wM0VvVQ?oc=5",
@@ -337,6 +331,12 @@
           "source": "EUobserver",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd3dOSHVqcGlwcFRDYTQ0MURxd29NYWF6X0dmZVgyUk5rT2kyeDFvMFpMZGRwcElfbUlFY2RLaUE0OC1pc2xDVERxMUZpSkpxTkZnSkxrd0tmbVNjajQtOWs3emtIS2R1OVBiX2pNd3pXbzc0Mkk4dmZka05mNmp2SVk5dGQ2OWVpN0tCV2VQTFF5MGFqNTNjX0tjbS0tVF9SRlpXdVE3d0hhOFp1eHpjdWdNMEU4eVdhMF93U0RMQUp5NWpWR3ZqTC1YM2w?oc=5",
           "date": "08-18 02:10"
+        },
+        {
+          "title": "Cocoa gains 1% and tests the $6,000 area 🔼 How are funds positioned? - XTB.com",
+          "source": "XTB.com",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeG1wN1ZGS0p1ckNKVklya29aaFlJVGZCbWlxeDdNd0xRbkRTUVMwWkVhTnFwVmtpWk83dVI1cmlyV1VnQ3hYbldxSTViNnFSZHM2LVBQbGhHOEw3VnlzcEt6OTRGTDVFS2xacUNzRmZDVjZlTm53VjViSVIzNVZCVGo0R3VIbDZMTlNSRjlpU29PcEpsLUl2VUloenljaVNDSDBWMUxUVkJCOExSZ0kyZU80TW1HaEJWY041bTZn?oc=5",
+          "date": "08-17 22:37"
         }
       ],
       "newsKr": [
@@ -426,7 +426,7 @@
             "price": 7219.99
           },
           {
-            "time": "12:06",
+            "time": "13:29",
             "price": 7234.46
           }
         ],
@@ -629,6 +629,12 @@
       ],
       "newsKr": [
         {
+          "title": "8월 19일 농산물 가격: 커피 가격은 계속 상승하고, 생돈 가격은 급락했습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhOaDZCbGpGTTJUcVhwZEtHUTRob3JpZHU1Y0ZDaTlqQkNvT2lSNWRsc1RuSkFySWdCamJtczZVSzdjam5hanlUbVlSaUowQjlodTY1aWowbW5rdy1hMFBobUkzRGpOOXpBaWl5NmN5U053NTRLSjlHLTZmZmRCZGRUTnhiRUtkY0E?oc=5",
+          "date": "08-20 12:14"
+        },
+        {
           "title": "오늘의 농업 뉴스(8월 20일): 커피 가격이 계속 상승하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNHNUS3V5cng4NjFKSHpRQVBscmpSdDJuRXhjV1J5bFJLc2pKMjNrdEx0aGVtSkhJOHlvS29VWUtvaXhuSWdYZU8tX3hkb1BZdkZ5Z2RFUHFnQnJpNDJTcVdBZWpHdGtTVHQxekhoOHMzT3JrTFhXNGxkUDdtX0FPejFldERpT2s?oc=5",
@@ -641,16 +647,10 @@
           "date": "08-20 09:18"
         },
         {
-          "title": "오늘 농산물 가격 (8월 20일): 커피, kg당 10만 VND 육박 - Vietnam.vn",
+          "title": "오늘(8월 20일) 커피 가격은 kg당 10만 VND에 육박하고 있는 반면, 국제 가격은 예상치 못하게 하락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVptUGhJMGpyMUo5bk9YaFRFMTgwVF9aVVpJd3FBdXBCRUw2eUNZOXppYU1BVkFkVEk3akFZdnJFeFFmZk13azdaTlU5VldmZkFuakM2Mllwc3NGTWFseG1oWEY0bHFKcWlwbHdyMWoyZ3h4NXRTdWFtV2MyOHNXWXRxWFpnSUlyX0hWTDZR?oc=5",
-          "date": "08-20 11:20"
-        },
-        {
-          "title": "오늘(8월 19일) 커피 가격: 가격이 급격하게 상승하고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fZV9odkJfeThuNFFSVC1KQU0wWjdFdmYxVTY3UURLZHFsSG9xcG1SVFJyRGdrOHlYZUEycENPOEFNVEdfbUdxaTFneGtsMUtJVDM5M1BqLXhTRjdrTGNMYW11Y3VXdWRaQUtkNWVRXy1UTVF4dTdOQ19jTDk?oc=5",
-          "date": "08-19 17:54"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi00RW13NjlfUkpSQjBNcHd5WEVoN2lRZFlPV0lsSkRhUnlrZnVKZHVnTzNDTXVrQmVwUXdJVWlsQzVEcEFERDBhdlhXS2FDMm44THllSzk4UDdPUTY4S0pYN1l5ZE4yTTFqaF9oQUxpS0N2dEFkZTVDb2dQWXUzY2pVdkw2WnNtcElQUGtXemNjNWs4SjhWNzhB?oc=5",
+          "date": "08-20 12:39"
         }
       ],
       "original_price_lb": 328.15
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "12:06",
+            "time": "13:29",
             "price": 3728.0
           }
         ],
@@ -900,22 +900,22 @@
       },
       "newsEn": [
         {
-          "title": "Coffee Prices Surge on Supply Fears - tradingview.com",
-          "source": "tradingview.com",
+          "title": "Coffee Prices Surge on Supply Fears - TradingView",
+          "source": "TradingView",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmVmZXNVM0wyUXVFaUVtTjJuQmQ4RHpKZTVyNEJURHZKdUF2MWdLZE5MblZKY0ZPcFZxOXRDV2JYRWIzSERXOVpaZWdQWHFQN2tyVXZoRVlUZFNlYjJpZDMzSmdsLVh4WndiVzY5WFBWR1F0WGxIX19MZ1hpU1JzVjlndXVmZXhzZHY5NWg2UmtOc2dNdWFHTWNB?oc=5",
           "date": "08-19 00:45"
-        },
-        {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
-          "date": "08-18 13:10"
         },
         {
           "title": "Agric. & Environment: Coffee farmers optimistic despite unst - NewVision.co.ug",
           "source": "NewVision.co.ug",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVpVLTB1TnQwdXIwdzFCSks5Z2p1NExNR1VBVVo2WDJ0Yk9qYlY5bHNXdk15TDllR01KN1hWUllRckU3SlRHbDVJdlFOanlTMGpyQTVGSU1TUTdSdERTc1VNQWdMM0pLX19xSTEyUk9ra0dzQjctNzZlRHR5YzZhbFEwRUtkNk5Mb05IMm1wU0VqN3VQR0duQmxpZjJlaGpXaklNdWRVWDFWTWl3M1phXw?oc=5",
-          "date": "08-20 01:00"
+          "date": "08-20 03:00"
+        },
+        {
+          "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOakhCR1hCS0o5Tnplbi13dVUtSGIyM3hldm9CWVpsNmZDZW1NV2xNODc3djIzQ0RGeW1mZV9Lajc4RW8zT20wa1loVzdVZklmLWJCTThYZUlkNm53X3BMZDV4VkxwNHEyN0pDX2piNWxRODRxbDJsUTZrZjBJN2NMenpsZktqX0R5WlhBVFE5WlB4MV9vczlmelpDLWFvRGltb0VBbFA3OS00NkNFdUt4NjE3eEdNbHR4a2VXYjRKZE5nVzkxcjhHT1VWYjRYSTM5dGZKZFJ0MnBLa0EtR0kyZnlkajduQ1VpeUhRWk9XeFJyRGItWlMtenFYUW1RZmQx?oc=5",
+          "date": "08-18 14:34"
         },
         {
           "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
@@ -926,16 +926,16 @@
       ],
       "newsKr": [
         {
-          "title": "2026년 8월 20일 오늘 커피 가격이 급등하여 kg당 98,500 VND까지 치솟았습니다. - Vietnam.vn",
+          "title": "오늘(8월 20일) 커피 가격은 kg당 10만 VND에 육박하고 있는 반면, 국제 가격은 예상치 못하게 하락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR201RGg1aTRiT3pfbkpsa2xBbzF0VF8tUlFJSkVLLW9taDJTdXpYRDJJYlhmSWNGSXQ1OWxEVHBTS01SUElZUVFTWjlqYXk0b1BrLXpQYVZkZzZKWmZ4Q3gxVV9nZjRIUW01dEtRRlZTUEFWN0pNd2tWWWI5THl4R2E2R2hFZnYxV0NObFVuRVdqQQ?oc=5",
-          "date": "08-20 08:46"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi00RW13NjlfUkpSQjBNcHd5WEVoN2lRZFlPV0lsSkRhUnlrZnVKZHVnTzNDTXVrQmVwUXdJVWlsQzVEcEFERDBhdlhXS2FDMm44THllSzk4UDdPUTY4S0pYN1l5ZE4yTTFqaF9oQUxpS0N2dEFkZTVDb2dQWXUzY2pVdkw2WnNtcElQUGtXemNjNWs4SjhWNzhB?oc=5",
+          "date": "08-20 12:39"
         },
         {
-          "title": "오늘 농산물 가격 (8월 20일): 커피, kg당 10만 VND 육박 - Vietnam.vn",
+          "title": "8월 19일 농산물 가격: 커피 가격은 계속 상승하고, 생돈 가격은 급락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVptUGhJMGpyMUo5bk9YaFRFMTgwVF9aVVpJd3FBdXBCRUw2eUNZOXppYU1BVkFkVEk3akFZdnJFeFFmZk13azdaTlU5VldmZkFuakM2Mllwc3NGTWFseG1oWEY0bHFKcWlwbHdyMWoyZ3h4NXRTdWFtV2MyOHNXWXRxWFpnSUlyX0hWTDZR?oc=5",
-          "date": "08-20 11:20"
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWlhOaDZCbGpGTTJUcVhwZEtHUTRob3JpZHU1Y0ZDaTlqQkNvT2lSNWRsc1RuSkFySWdCamJtczZVSzdjam5hanlUbVlSaUowQjlodTY1aWowbW5rdy1hMFBobUkzRGpOOXpBaWl5NmN5U053NTRLSjlHLTZmZmRCZGRUTnhiRUtkY0E?oc=5",
+          "date": "08-20 12:14"
         },
         {
           "title": "커피(COFFEE) 종목이 8월18일에 2.06% 하락한 이유를 확인해 보세요 - TradingKey",
@@ -1924,12 +1924,6 @@
       },
       "newsEn": [
         {
-          "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
-          "source": "Brownfield Ag News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRHbHF2bmJrbE5GZ1dkNVJyTjRHSTF0akhTTHBtV3FoR0hXTEdHSEJiNFF0RkwtaGdONEV0V0hkOElTTEFyZ3FjYTJ4cDRaNThILXBqY3gyaFJrRFdEdFZRVWF2NngzQ2RHa1FIc3JDb2hoenlycHd1WGlpOWpmdmtpS1RheFN5V19uSmtobFY2YlByR0RJeEwxX2M2ZEY4QlZSX2FZVG1YcVdCZXB6c0V5OG1xRWQ2U2tnMXpLWm4?oc=5",
-          "date": "08-20 03:08"
-        },
-        {
           "title": "Powders Drive GDT Index To Strongest Single-Event Lift Since March Amid Climate Concerns - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEs2VXJqUmFjRnpITUw4TXpMRG1oVnVNTDJkblZmRk9FLVdLOFMwVVNEeWNBcndCb2txdHdvbE1mQURTckR0M0hKMnRDam5ZTFNJUzdmUkNkOWQ0OEZIWHRxOGxUSFZESFRiWE5mRFdMTUFWM2htc2tPcE9oTDB0ZkpLZTNUMGhOS1J0eDJMb1BlaWJUWWlxNHBKX2hqRW5YMzZ1d1E1Wm9XR0NKUjJEN2pLdkdCZw?oc=5",
@@ -1946,6 +1940,12 @@
           "source": "Irish Farmers Journal",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
           "date": "08-20 07:15"
+        },
+        {
+          "title": "Dairy prices rally at latest auction as El Niño looms - NZ Herald",
+          "source": "NZ Herald",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd1FtTTQwZzR2TWpaTGxhaDRuU19fWUFPUGFMTTlKSm1wdFJkeTZEX0duT0JGVXROTGFJOG15Z3hJazRZYVlnQThLOGFZN3pLclVhel9JR3p1N3dSek9jeWVPMGxEbUdzV1NhVkxOakt0S0JGMk1QWWhjLWJWUl80dVV3ejk2YkpySmZQMnhsUV9WU2lQUmNCY0hpVnFmRjg2R2YyWV84VUpNelZLdG0tUHJTT2Z2UHctVVZYcFlGZXduN2N5ZnBHa0dmX3ZscFJnVmpxZzZVWmFjOFZoTTI5YnRKVi1lSDMz?oc=5",
+          "date": "08-19 09:02"
         }
       ],
       "newsKr": [
@@ -1999,33 +1999,29 @@
           "대체 식물성 유지인 대두유(Soybean Oil) 가격 추이"
         ]
       },
-      "price": 1172.0,
-      "change": 7.5,
-      "changePercent": 0.64,
+      "price": 1173.5,
+      "change": 1.5,
+      "changePercent": 0.13,
       "high52w": 1193.5,
       "low52w": 820.0,
       "high24h": 820.0,
       "low24h": 820.0,
-      "high7d": 1172.0,
+      "high7d": 1173.5,
       "low7d": 1157.0,
-      "high1m": 1172.0,
+      "high1m": 1173.5,
       "low1m": 1122.5,
       "volume": 10,
       "sparkline": [
-        1160.0,
         1163.75,
         1157.0,
         1161.75,
         1162.0,
         1164.5,
-        1172.0
+        1172.0,
+        1173.5
       ],
       "history": {
         "7D": [
-          {
-            "date": "08-10",
-            "price": 1160.0
-          },
           {
             "date": "08-11",
             "price": 1163.75
@@ -2049,6 +2045,10 @@
           {
             "date": "08-18",
             "price": 1172.0
+          },
+          {
+            "date": "08-19",
+            "price": 1173.5
           }
         ],
         "1M": [
@@ -2139,24 +2139,28 @@
           {
             "date": "08-18",
             "price": 1172.0
+          },
+          {
+            "date": "08-19",
+            "price": 1173.5
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1164.97
+            "price": 1166.46
           },
           {
             "time": "11:00",
-            "price": 1167.31
+            "price": 1168.81
           },
           {
             "time": "13:00",
-            "price": 1169.66
+            "price": 1171.15
           },
           {
-            "time": "12:06",
-            "price": 1172.0
+            "time": "13:30",
+            "price": 1173.5
           }
         ],
         "1Y": [
@@ -2230,10 +2234,10 @@
           "date": "08-20 00:12"
         },
         {
-          "title": "MPOC Sees Palm Oil Price Staying Above RM4,600 In September - BusinessToday Malaysia",
-          "source": "BusinessToday Malaysia",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGpsZTZfNEthMngzTlJPSnZOSUNVQXktazR1OWprdk11SEt0NzRId0hhYWZUUGxublBpQlBLRHJXdHlpUHFkNlIxVXpiX05wUVRXZC1HZGoySVkyY2JvNlVEQTBnWVc1cVEtdVRGMElnZ00wNzVPeDJzMmxLNUNnUEUtMGNCSDFYZ3NPM3VWTld5bzNINTItd25TVm9BdmtKcHhzd2VR?oc=5",
-          "date": "08-19 18:08"
+          "title": "Malaysian crude palm oil prices to stay above USD1,133 per ton in Sept: MPOC - Business Recorder",
+          "source": "Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0EtQjNyUnRodHNpRDZaQzBBNnhfck9GOXRzQWx1ZFI5UFhTRDFaVmVQV2FGRENieU1vdTNwenZLLUQyRlpPbUs4N05RZ2hJTllGYXpFVUE1YWEtcVlpMVh2UzJlS1N3UklJVkhlSnlxV0JIUk9XMXFKVWt2ZUpGczhBRWxKMXpZbHFjQ2ZBa2JUeVhLa1FZcTUyTmlFcWllVWtpRUZ6SDVKTkdIbnpnS0x4VELSAVZBVV95cUxQWlJPakJsNEhsNmptZ0gzNWowSURPN1NCN0trRjVlQzlVR1RSeV9PNHhwdW1YNXVhRHNaNkhCOHlfbGZiRTVfTHFaQmhTSktGWVVoZ0E5QQ?oc=5",
+          "date": "08-20 08:19"
         }
       ],
       "newsKr": [
@@ -2529,7 +2533,7 @@
             "price": 1926.14
           },
           {
-            "time": "12:06",
+            "time": "13:30",
             "price": 1930.0
           }
         ]
@@ -2611,17 +2615,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1395.0,
-      "change": -18.58,
-      "changePercent": -1.31,
+      "price": 1393.89,
+      "change": -19.69,
+      "changePercent": -1.39,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1395.08,
       "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1395.0,
+      "low7d": 1393.89,
       "high1m": 1487.39,
-      "low1m": 1395.0,
+      "low1m": 1393.89,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2630,162 +2634,162 @@
         1415.37,
         1414.73,
         1413.58,
-        1395.0
+        1393.89
       ],
       "history": {
         "7D": [
           {
-            "date": "08-12",
+            "date": "08-11",
             "price": 1412.18
           },
           {
-            "date": "08-13",
+            "date": "08-12",
             "price": 1416.46
           },
           {
-            "date": "08-14",
+            "date": "08-13",
             "price": 1416.85
           },
           {
-            "date": "08-17",
+            "date": "08-16",
             "price": 1415.37
           },
           {
-            "date": "08-18",
+            "date": "08-17",
             "price": 1414.73
           },
           {
-            "date": "08-19",
+            "date": "08-18",
             "price": 1413.58
           },
           {
             "date": "08-20",
-            "price": 1395.0
+            "price": 1393.89
           }
         ],
         "1M": [
           {
-            "date": "07-20",
+            "date": "07-19",
             "price": 1487.39
           },
           {
-            "date": "07-21",
+            "date": "07-20",
             "price": 1475.01
           },
           {
-            "date": "07-22",
+            "date": "07-21",
             "price": 1479.72
           },
           {
-            "date": "07-23",
+            "date": "07-22",
             "price": 1475.63
           },
           {
-            "date": "07-24",
+            "date": "07-23",
             "price": 1474.04
           },
           {
-            "date": "07-27",
+            "date": "07-26",
             "price": 1458.01
           },
           {
-            "date": "07-28",
+            "date": "07-27",
             "price": 1464.44
           },
           {
-            "date": "07-29",
+            "date": "07-28",
             "price": 1453.16
           },
           {
-            "date": "07-30",
+            "date": "07-29",
             "price": 1442.28
           },
           {
-            "date": "07-31",
+            "date": "07-30",
             "price": 1420.6
           },
           {
-            "date": "08-03",
+            "date": "08-02",
             "price": 1435.7
           },
           {
-            "date": "08-04",
+            "date": "08-03",
             "price": 1428.5
           },
           {
-            "date": "08-05",
+            "date": "08-04",
             "price": 1428.43
           },
           {
-            "date": "08-06",
+            "date": "08-05",
             "price": 1421.16
           },
           {
-            "date": "08-07",
+            "date": "08-06",
             "price": 1422.3
           },
           {
-            "date": "08-10",
+            "date": "08-09",
             "price": 1407.0
           },
           {
-            "date": "08-11",
+            "date": "08-10",
             "price": 1417.31
           },
           {
-            "date": "08-12",
+            "date": "08-11",
             "price": 1412.18
           },
           {
-            "date": "08-13",
+            "date": "08-12",
             "price": 1416.46
           },
           {
-            "date": "08-14",
+            "date": "08-13",
             "price": 1416.85
           },
           {
-            "date": "08-17",
+            "date": "08-16",
             "price": 1415.37
           },
           {
-            "date": "08-18",
+            "date": "08-17",
             "price": 1414.73
           },
           {
-            "date": "08-19",
+            "date": "08-18",
             "price": 1413.58
           },
           {
             "date": "08-20",
-            "price": 1395.0
+            "price": 1393.89
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1386.63
+            "price": 1385.53
           },
           {
             "time": "11:00",
-            "price": 1389.42
+            "price": 1388.31
           },
           {
             "time": "13:00",
-            "price": 1392.21
+            "price": 1391.1
           },
           {
-            "time": "12:06",
-            "price": 1395.0
+            "time": "13:30",
+            "price": 1393.89
           }
         ],
         "1Y": [
           {
-            "date": "2025-09",
+            "date": "2025-08",
             "price": 1399.33
           },
           {
-            "date": "2025-10",
+            "date": "2025-09",
             "price": 1424.02
           },
           {
@@ -2809,32 +2813,38 @@
             "price": 1516.13
           },
           {
-            "date": "2026-04",
+            "date": "2026-03",
             "price": 1487.38
           },
           {
-            "date": "2026-05",
+            "date": "2026-04",
             "price": 1505.96
           },
           {
-            "date": "2026-06",
+            "date": "2026-05",
             "price": 1541.73
           },
           {
-            "date": "2026-07",
+            "date": "2026-06",
             "price": 1420.6
           },
           {
-            "date": "2026-08",
+            "date": "2026-07",
             "price": 1413.58
           },
           {
             "date": "2026-08",
-            "price": 1395.0
+            "price": 1393.89
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "USD-KRW Exchange Rate Drops to 1,300s for First Time in 11 Months...Can It Stabilize? - asiae.co.kr",
+          "source": "asiae.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEpiajdhUmZJSUotenJzcWFkejVVZEg1bHRaQUtVemh4Z3g5V3JTY1NkX1pBX3JDQk03aEYzMmxlZ2swMEM0Zl82NlMxbmIzbmpNYnF1ZTExSW9UTXdnandkeVN6aUUxWndIME01WG03NXpnNVdOREJNaW1xQS1fZWRFQ25XZ3NTQXVqVW9PQQ?oc=5",
+          "date": "08-20 11:25"
+        },
         {
           "title": "Dollar hits three-month low as Treasury buybacks sink yields; Fed flags inflation - Investing.com",
           "source": "Investing.com",
@@ -2848,16 +2858,10 @@
           "date": "08-20 07:26"
         },
         {
-          "title": "South Korean Won Hits Over 10-Month High - tradingview.com",
-          "source": "tradingview.com",
+          "title": "South Korean Won Hits Over 10-Month High - TradingView",
+          "source": "TradingView",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNJUFZaeWtiRmM1eXNSWEVGR3BXR3ZsRUdrWGp0cWJMMU80Yi1LQ3pFbUNTTDhaQ2NwOGNiWjRjSURIVF9ySzg1RERTdU5wRHdwYW5YNjZOU2RHVHBWc1BOQnJLLXQ0ZHhiVjZoMUpXVWtqV0hkTUtGMjJ1VXZmY0R1ZGEtcUwtQmNFTjdHQjhtUEtSd0E?oc=5",
           "date": "08-19 12:28"
-        },
-        {
-          "title": "KRW/USD Exchange Rate Breaks the \"Critical 1,400 Won\" Mark for the First Time in 11 Months (Update) - 아시아경제",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UTWxZREtTVmlIRzk2QWtrR0JDbkVqVFZzZWxNdmlWWjBnanhSejJrZi1FTHcxQlNlQzhWQkZnaUVtVHVwcUJKMDdMdG5xR0R5SG8zNVRuYlVLNkJfYkZGMF95WTU?oc=5",
-          "date": "08-19 16:52"
         }
       ],
       "newsKr": [
@@ -2874,16 +2878,16 @@
           "date": "08-20 08:13"
         },
         {
-          "title": "\"환율 더 떨어진다\" 한투, 하반기 달러·원 전망 1470→1420원 - v.daum.net",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tcGN1RHlsb1NHanViT0RpYk1DWHJqeHNNQVFOMVNycVhWamNEOWplTXQ0ckZlX3hkWERwS2pSNU90bUxUX25aVW9MRWloRWc?oc=5",
-          "date": "08-20 08:15"
+          "title": "한투證, 하반기 달러-원 전망 50원 낮춰…연말 레인지 1,340~1,520원 - 연합인포맥스",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BMHMzWl9BX1czSWkzWmdNTS03NmdPUUJUa3VUbFAxVklYSWRyZnJ0aXRWOHIyaWdMS1hNb3VOMWdsbHIxN1o4UG5MR1ZmNTlhdkxJN3dINjE1T2o1RUJxQnFlQ0FZTUdkd3ZPSFJ5cmVGd2Vr0gF0QVVfeXFMT0EwczNaX0FfVzNJaTNaZ01NLTc2Z09RQlRrdVRsUDFWSVhJZHJmcnRpdFY4cjJpZ0xLWE1vdU4xZ2xscjE3WjhQbkxHVmY1OWF2TEk3d0g2MTVPajVFQnFCcWVDQVlNR2R3dk9IUnlyZUZ3ZWs?oc=5",
+          "date": "08-20 10:57"
         },
         {
-          "title": "원·달러, 미 금리 동결 가능성에 1300원대로 하락…10개월여만 - JTBC",
-          "source": "JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NY3EwXzd6OW9UOWxZWkZ3ODJLc2xTc0ZFdDhTZWs3LVdHM3RzWEVybC1Ka0tiQmU4UXdkbkxLWjBlM1lBTmVvTkk2LUVFNGtTSWdUNQ?oc=5",
-          "date": "08-19 12:06"
+          "title": "\"환율 더 떨어진다\" 한투, 하반기 달러·원 전망 1470→1420원 - v.daum.net",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nQ09zYlNQcVNqOXYzQnJncUdCYzZJRjA5Vm56N1hvc0RnZnFMalNhRHdfaC1ZS2ZyUENYTXExVFpYVUFBOW1ZMU96RXdJYUxjUV90cQ?oc=5",
+          "date": "08-20 08:15"
         }
       ]
     },
@@ -2911,12 +2915,12 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1627.7,
-      "change": -7.22,
-      "changePercent": -0.44,
+      "price": 1627.0,
+      "change": -7.92,
+      "changePercent": -0.48,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1628.0,
+      "high24h": 1628.4,
       "low24h": 1616.4,
       "high7d": 1638.16,
       "low7d": 1582.09,
@@ -2930,162 +2934,162 @@
         1582.09,
         1638.16,
         1634.92,
-        1627.7
+        1627.0
       ],
       "history": {
         "7D": [
           {
-            "date": "08-12",
+            "date": "08-11",
             "price": 1628.62
           },
           {
-            "date": "08-13",
+            "date": "08-12",
             "price": 1632.86
           },
           {
-            "date": "08-14",
+            "date": "08-13",
             "price": 1634.19
           },
           {
-            "date": "08-17",
+            "date": "08-16",
             "price": 1582.09
           },
           {
-            "date": "08-18",
+            "date": "08-17",
             "price": 1638.16
           },
           {
-            "date": "08-19",
+            "date": "08-18",
             "price": 1634.92
           },
           {
             "date": "08-20",
-            "price": 1627.7
+            "price": 1627.0
           }
         ],
         "1M": [
           {
-            "date": "07-20",
+            "date": "07-19",
             "price": 1700.58
           },
           {
-            "date": "07-21",
+            "date": "07-20",
             "price": 1683.36
           },
           {
-            "date": "07-22",
+            "date": "07-21",
             "price": 1687.03
           },
           {
-            "date": "07-23",
+            "date": "07-22",
             "price": 1683.6
           },
           {
-            "date": "07-24",
+            "date": "07-23",
             "price": 1676.49
           },
           {
-            "date": "07-27",
+            "date": "07-26",
             "price": 1657.74
           },
           {
-            "date": "07-28",
+            "date": "07-27",
             "price": 1665.16
           },
           {
-            "date": "07-29",
+            "date": "07-28",
             "price": 1654.43
           },
           {
-            "date": "07-30",
+            "date": "07-29",
             "price": 1652.79
           },
           {
-            "date": "07-31",
+            "date": "07-30",
             "price": 1636.68
           },
           {
-            "date": "08-03",
+            "date": "08-02",
             "price": 1663.51
           },
           {
-            "date": "08-04",
+            "date": "08-03",
             "price": 1643.36
           },
           {
-            "date": "08-05",
+            "date": "08-04",
             "price": 1647.17
           },
           {
-            "date": "08-06",
+            "date": "08-05",
             "price": 1642.01
           },
           {
-            "date": "08-07",
+            "date": "08-06",
             "price": 1638.82
           },
           {
-            "date": "08-10",
+            "date": "08-09",
             "price": 1618.62
           },
           {
-            "date": "08-11",
+            "date": "08-10",
             "price": 1635.36
           },
           {
-            "date": "08-12",
+            "date": "08-11",
             "price": 1628.62
           },
           {
-            "date": "08-13",
+            "date": "08-12",
             "price": 1632.86
           },
           {
-            "date": "08-14",
+            "date": "08-13",
             "price": 1634.19
           },
           {
-            "date": "08-17",
+            "date": "08-16",
             "price": 1582.09
           },
           {
-            "date": "08-18",
+            "date": "08-17",
             "price": 1638.16
           },
           {
-            "date": "08-19",
+            "date": "08-18",
             "price": 1634.92
           },
           {
             "date": "08-20",
-            "price": 1627.7
+            "price": 1627.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1617.93
+            "price": 1617.24
           },
           {
             "time": "11:00",
-            "price": 1621.19
+            "price": 1620.49
           },
           {
             "time": "13:00",
-            "price": 1624.44
+            "price": 1623.75
           },
           {
-            "time": "12:06",
-            "price": 1627.7
+            "time": "13:30",
+            "price": 1627.0
           }
         ],
         "1Y": [
           {
-            "date": "2025-09",
+            "date": "2025-08",
             "price": 1640.49
           },
           {
-            "date": "2025-10",
+            "date": "2025-09",
             "price": 1647.04
           },
           {
@@ -3109,28 +3113,28 @@
             "price": 1736.26
           },
           {
-            "date": "2026-04",
+            "date": "2026-03",
             "price": 1736.6
           },
           {
-            "date": "2026-05",
+            "date": "2026-04",
             "price": 1755.9
           },
           {
-            "date": "2026-06",
+            "date": "2026-05",
             "price": 1760.27
           },
           {
-            "date": "2026-07",
+            "date": "2026-06",
             "price": 1636.68
           },
           {
-            "date": "2026-08",
+            "date": "2026-07",
             "price": 1634.92
           },
           {
             "date": "2026-08",
-            "price": 1627.7
+            "price": 1627.0
           }
         ]
       },
@@ -3140,12 +3144,6 @@
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY4dFd1VHc1SnY5WHAzQmlvdG92NnVhV0JrNEFFWDhrUnZsQU4xQ3ZkZ0d5c2lFelU4dXAxZEs5QXlwY1RxVVNIYWJpQkoyWUFMdFNxVzlzd0ZqTExfUFZpakpkRnIwWTk1ZDlhSjNKUFVGM2lZY2pxN2lUWlBqYURtbkdQYmtOcExCb05rQXpITEIyVEJ2NHVhUzFCeEd3VmRrYXlyZ1hBZkgxVld0dXowcmw?oc=5",
           "date": "08-20 05:44"
-        },
-        {
-          "title": "FX Daily: The won also rises - ING Think",
-          "source": "ING Think",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fTDVwN0F2c2ZHaGduU0g3QUVyTDB4YWNCWVkzeEZ0UEFtNUd4RFZlQjFzSGxlYVlzX2lERnFBQ09oWERUdjBkd1ppek5jR2p3V0JxN1JESXpIOUsxZ24xZVFVRHo3Q1RwbVdJ?oc=5",
-          "date": "08-19 15:56"
         },
         {
           "title": "Azerbaijani currency to world currency rates for August 19 - trend.az",
@@ -3158,9 +3156,27 @@
           "source": "Investing.com UK",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnNjWTJNRTdvM2pRUUNkMjQ2aXBkNm03anFpc2dZME9JWUktUFhwWnNlTG1TT0xSMy1zYlh1Q1hNLTExLUEzUjNwY281OWpDN3NNWVk2YVd4X3c0c1g4SUsyUFJhSkxBalNvclhZd2NxYnR1VGJMV05OdEdqSC1jY0hNLUlzUzNiTW9FX2dNUkEzSHBwV3Z1TE1UUFF6Sjh6VnlqeWIzT3hNLXNmQTI5UkhpOA?oc=5",
           "date": "08-19 13:50"
+        },
+        {
+          "title": "CBA currency exchange rates (19.08.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZTVSMWE0R2VlZmtwOVlkdUxmeGJxU3Z3bEdtR3FQeVdFMm5vV3hkZU1hSklrY0ZsemhDaTVkZVM5clBLcnp2SS02T25HbDJQVHhhRTlaZGFibjBNSDBRaTFxNnpRUW9ETXYtRk1MT1FmUjdxSHlvQ3NBQdIBe0FVX3lxTFB0ZTVSMWE0R2VlZmtwOVlkdUxmeGJxU3Z3bEdtR3FQeVdFMm5vV3hkZU1hSklrY0ZsemhDaTVkZVM5clBLcnp2SS02T25HbDJQVHhhRTlaZGFibjBNSDBRaTFxNnpRUW9ETXYtRk1MT1FmUjdxSHlvQ3NBQQ?oc=5",
+          "date": "08-19 15:00"
         }
       ],
       "newsKr": [
+        {
+          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
+          "source": "LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
+          "date": "08-19 20:33"
+        },
+        {
+          "title": "[포커스] 최근 환율 하락 원인과 향후 전망 - CEONEWS",
+          "source": "CEONEWS",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRmpmNWdLZG9NeGVPZUhEc2lsdjNkek5ydS1UUWV6RUg1UkdlUmJxa3J0SkVoZGdTZEZLeWFhMFR4ZWsxWFBjaFVDN0NzUlpUM0xYVzBtZWFXWnctVmY0?oc=5",
+          "date": "08-20 12:54"
+        },
         {
           "title": "원·달러, 11개월 만에 1300원대 '뚝'…증권가가 꼽은 수혜주는 - 뉴시스",
           "source": "뉴시스",
@@ -3168,22 +3184,10 @@
           "date": "08-20 11:18"
         },
         {
-          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
-          "source": "LiteFinance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-          "date": "08-18 10:05"
-        },
-        {
-          "title": "KDI \"올해 성장률 전망치 3.2%, 0.7%p↑…체감경기 확산은 미진\"(종합) - 연합뉴스",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NblFiajVSYWhjRjRWZDJVSTVDWC1ZZUJ5WjFGcnRMMEhqZ05BMy14X1JtUnQtRkNzMVF4TklDelg5enA1a2tucXhsQ21pdWpTV24zdmtQWFpEYUtMZFlCT9IBYEFVX3lxTE9NblFiajVSYWhjRjRWZDJVSTVDWC1ZZUJ5WjFGcnRMMEhqZ05BMy14X1JtUnQtRkNzMVF4TklDelg5enA1a2tucXhsQ21pdWpTV24zdmtQWFpEYUtMZFlCTw?oc=5",
-          "date": "08-19 14:32"
-        },
-        {
-          "title": "KDI, 올해 성장률 전망치 3.2%로↑…경상흑자 3600억달러 전망 - newsfc.co.kr",
-          "source": "newsfc.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xTWhtTUVkQnZ6SkMzZ3lQalNEUUItb3NSdFJEYTZTaHEzeFJ2aVZMbXc3YWxpVHRubnZ0VjVXS3g5MlAxalRHaWQ5enJiek5ubkp5UThQVnFucHp4ek40MmpzTXdGdjdYanc?oc=5",
-          "date": "08-19 15:33"
+          "title": "달러 환율 하락 | 어느새 1,300원대를 앞두고 있어요 - KB Think",
+          "source": "KB Think",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VTmMwNFJsSlk3SlFBTW80MmtMdnRDaVpQQzJabG5iYUlUcWgxYzJMcXpzeGhBdkgxQ0dZRk5qYWJmTVZ0VDFOLU41cjFrcFBXYk95VDFhZXYyQm13Z3FWV3J6YnpFdw?oc=5",
+          "date": "08-18 08:00"
         }
       ]
     }
