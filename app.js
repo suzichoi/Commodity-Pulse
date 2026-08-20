@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-21 03:27:54",
+  "last_updated": "2026-08-21 04:25:19",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 03:27",
+    "report_date": "2026.08.21, 04:25",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,394.80원 (▼18.78원)",
-    "fx_eur": "1,628.20원 (▼6.72원)",
+    "fx_usd": "1,394.54원 (▼19.04원)",
+    "fx_eur": "1,628.00원 (▼6.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 03:27",
+    "report_date": "2026.08.21, 04:25",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,394.80원 (▼18.78원)",
-    "fx_eur": "1,628.20원 (▼6.72원)",
+    "fx_usd": "1,394.54원 (▼19.04원)",
+    "fx_eur": "1,628.00원 (▼6.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-21T03:27:54.308083+09:00",
-  "usdKrwRate": 1394.8,
-  "eurKrwRate": 1628.2,
+  "lastUpdated": "2026-08-21T04:25:19.945857+09:00",
+  "usdKrwRate": 1394.76,
+  "eurKrwRate": 1628.0,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5999.98
           },
           {
-            "time": "03:27",
+            "time": "04:25",
             "price": 6012.0
           }
         ],
@@ -447,7 +447,7 @@ const FALLBACK_DATA = {
             "price": 7223.29
           },
           {
-            "time": "03:27",
+            "time": "04:25",
             "price": 7237.77
           }
         ],
@@ -628,28 +628,28 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Arabica coffee futures retreated yesterday from Tuesday’s highs, Colombian exports are gradually resuming, Vietnam's shipments soared to 147,890 tonnes in July - Comunicaffe International",
-          "source": "Comunicaffe International",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjA5N2ZXejMwdWRoWERMcVB3bzFlUC1PWVJ3aUdrWXlpMVU1ZmYxWUVqTFdieVJsU3hCNnVDd1lEZUhUQUVDUm5mSnNXNV9md2FwcFJta3ZyYjNsTzBUZWdsa0JXY2tWYi1WcXN3NW9tOFhlYS1YTm1ldGhlMEVQQjZLMmxZTVhNWXhhcmR5Vl9NeTFxNDNBVmcxV19DeHZPZkZfQ3BXVXNUYWlhd3NKdTBxUmo4dlIzTzVJbUh4bFB2ZUZJMDE2ZUZoUlFqUFZObElQS3FhNDhGdk1hODdfUQ?oc=5",
-          "date": "08-20 07:59"
-        },
-        {
-          "title": "Brazil Coffee Prices Mixed in Early August 2026; El Niño Threatens 2027 Crop - News and Statistics - IndexBox",
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
           "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGFJZElObms3VjFuX3dmRnAybnFpTms2Uk1oa0NZX0dqcG5UbVJ4MVhCMVE3ck8zT2JQZUVBSXZ2MW04ZXl3Q0RMdFdjdW1aMXlGZkdHMURjLWo2d3lFdFFETXY0R2xqVm80QmJxaEdwRUlBRFFsRW45YmtQSHpPdHR3YWpfU0hfaUpDeWtSaldRODE0VzlkVHg2ZnplZkFhS3doR3JYWUxkOGxhQy0wV3NNb3A?oc=5",
-          "date": "08-20 00:51"
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
+          "date": "08-18 13:10"
         },
         {
-          "title": "Coffee: How to read Coffee market moves - equiti.com",
-          "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWURpdmNUY3JMNjRzRndtSlNyNUo3NDg0cURQeU1KeXFfYUpTX2lLN3NaM1hUTVZMY2xua0wwVHhpSFN0SW1oZ2xyS0E2QkxwRkFuN3BRc2ZKZ0s1SVpLNFZud1VEd2NOeUdTYTBuZTVGYXZwTjBhN0EzV3M0T3poUDF6WEk2cTlvNVJBS1FGV24?oc=5",
-          "date": "08-19 11:38"
+          "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOakhCR1hCS0o5Tnplbi13dVUtSGIyM3hldm9CWVpsNmZDZW1NV2xNODc3djIzQ0RGeW1mZV9Lajc4RW8zT20wa1loVzdVZklmLWJCTThYZUlkNm53X3BMZDV4VkxwNHEyN0pDX2piNWxRODRxbDJsUTZrZjBJN2NMenpsZktqX0R5WlhBVFE5WlB4MV9vczlmelpDLWFvRGltb0VBbFA3OS00NkNFdUt4NjE3eEdNbHR4a2VXYjRKZE5nVzkxcjhHT1VWYjRYSTM5dGZKZFJ0MnBLa0EtR0kyZnlkajduQ1VpeUhRWk9XeFJyRGItWlMtenFYUW1RZmQx?oc=5",
+          "date": "08-18 14:34"
         },
         {
-          "title": "TD Cowen raises J.M. Smucker stock price target on coffee strength - Investing.com South Africa",
-          "source": "Investing.com South Africa",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVGhKald3dHY1T29qekQ5MExXRTBDSkJuMEt1anp3UlM5dHc3dU0wYl9aSW1WRFYyUkxvb24zOGdsSzJHMHc1emlramZ0ck1PY1Y1djJTQWRjUWVhMUVDZktlTjJDSVdidWdiYU1nN2gtWnhUY095Q0VxN1VtbVZLUHBzcU1ManBYMEFqalhCN0lsd1RPczMyVzBVdWtwdFJmTUViX0hmVmJobTdubi1XLXZFX0U1c0xueWVJN2tPYWR6ODlPbTRzMGwtcVhBQ09scF80?oc=5",
-          "date": "08-19 22:36"
+          "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW5mRlpadnhHaEFiak11NHFOUjVNRklTbENMRjB3RjQ0U2lwUjMyWjM2VF9FbjJ4MGNmR3RVQTY0eTkwYmFYUHJELVVYQ3BnUGdUaFdsUDY1eUxuVWswN2xjMXBtWms4N1hmNFVFVWRwMWNNaUx3MlNHQXFDSUgxVlV6UUR0SFRtZ1FELTNGdktpUmpqQUtqeXNWbTlzTV8zMEpIcm9uZURCRzZPTmdkeTc2akh0TFdsZ3pPM2tFWk1yanNhNDVLaGIxTG9MM2ExSVAtaERleXBOdjB2RXhOVHJQaFZoQQ?oc=5",
+          "date": "08-19 15:06"
+        },
+        {
+          "title": "Brazil Coffee Harvest Pressures Weigh on Coffee Prices - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEF1TWpoeGpuRzZvQzhiUG5yVDZyQmlfc3BXQjk3M01xU3dSTlJHVXhiV0lXX2JYc1V4dUVGbGZlaUFsUTBIR1NjZmRKa1dTeEkwT2VGclBVSnk0OE5aNjlmZ3poR2FxMi1PU1VJOFp5a0k3YXJPaXRReDJ5RDd3TlJNOG8xa0tDRVhTc0tXSHAyRUs1cFhNNExMOTFVeUU?oc=5",
+          "date": "08-20 03:22"
         }
       ],
       "newsKr": [
@@ -864,7 +864,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "03:27",
+            "time": "04:25",
             "price": 3728.0
           }
         ],
@@ -940,7 +940,7 @@ const FALLBACK_DATA = {
           "title": "Agric. & Environment: Coffee farmers optimistic despite unst - NewVision.co.ug",
           "source": "NewVision.co.ug",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVpVLTB1TnQwdXIwdzFCSks5Z2p1NExNR1VBVVo2WDJ0Yk9qYlY5bHNXdk15TDllR01KN1hWUllRckU3SlRHbDVJdlFOanlTMGpyQTVGSU1TUTdSdERTc1VNQWdMM0pLX19xSTEyUk9ra0dzQjctNzZlRHR5YzZhbFEwRUtkNk5Mb05IMm1wU0VqN3VQR0duQmxpZjJlaGpXaklNdWRVWDFWTWl3M1phXw?oc=5",
-          "date": "08-20 16:00"
+          "date": "08-20 18:00"
         },
         {
           "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
@@ -1193,16 +1193,16 @@ const FALLBACK_DATA = {
           "date": "08-19 01:39"
         },
         {
-          "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
-          "source": "Irish Farmers Journal",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
-          "date": "08-20 07:15"
-        },
-        {
           "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
           "date": "08-20 02:52"
+        },
+        {
+          "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
+          "source": "Irish Farmers Journal",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
+          "date": "08-20 07:15"
         }
       ],
       "newsKr": [
@@ -1449,16 +1449,16 @@ const FALLBACK_DATA = {
           "date": "08-20 04:34"
         },
         {
-          "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
-          "source": "Irish Farmers Journal",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
-          "date": "08-20 07:15"
-        },
-        {
           "title": "Dairy prices rally at latest auction as El Niño looms - NZ Herald",
           "source": "NZ Herald",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd1FtTTQwZzR2TWpaTGxhaDRuU19fWUFPUGFMTTlKSm1wdFJkeTZEX0duT0JGVXROTGFJOG15Z3hJazRZYVlnQThLOGFZN3pLclVhel9JR3p1N3dSek9jeWVPMGxEbUdzV1NhVkxOakt0S0JGMk1QWWhjLWJWUl80dVV3ejk2YkpySmZQMnhsUV9WU2lQUmNCY0hpVnFmRjg2R2YyWV84VUpNelZLdG0tUHJTT2Z2UHctVVZYcFlGZXduN2N5ZnBHa0dmX3ZscFJnVmpxZzZVWmFjOFZoTTI5YnRKVi1lSDMz?oc=5",
           "date": "08-19 09:02"
+        },
+        {
+          "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
+          "source": "Irish Farmers Journal",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
+          "date": "08-20 07:15"
         }
       ],
       "newsKr": [
@@ -2184,7 +2184,7 @@ const FALLBACK_DATA = {
             "price": 1171.15
           },
           {
-            "time": "03:27",
+            "time": "04:25",
             "price": 1173.5
           }
         ],
@@ -2241,8 +2241,8 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "CPO Futures End Higher For Fourth Straight Session On Supply Concerns, Soybean Oil Gains - bernama",
-          "source": "bernama",
+          "title": "CPO Futures End Higher For Fourth Straight Session On Supply Concerns, Soybean Oil Gains - Bernama",
+          "source": "Bernama",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yd0FoZ251SDNxM25XWTVxcV9fSUdWSmRLcWNHSjA5ckdYRWlFa3ZGWkJvdmI3RnF2dnpZc01DLWEwVHB6YzZydDRNWElVbVR0cVROTk92WF9wdS1zSTMtT0tlYw?oc=5",
           "date": "08-21 00:10"
         },
@@ -2558,7 +2558,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "03:27",
+            "time": "04:25",
             "price": 1930.0
           }
         ]
@@ -2575,12 +2575,6 @@ const FALLBACK_DATA = {
           "source": "The Star",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUQ4NFYwSWJtYnBmVWEzZ1V6S2JqNDU1VW5yOGdyMjdpbFhDaEtwOExMSmR6ZHFEbVc3QjhfbFJfblEzLVAybnBLdkVuSXRjdWswN2FhUTBOV04tNFVmejR3c1NpUTVLOXZMMXd2czJaOVFHdHgwRjFmYVhjbEpUSGppVW9SbjNmNmFFbVRLcGxuVTNPY2JDam95Ny1faERocWZNUUk3d3dUTGdDWmc?oc=5",
           "date": "08-18 08:51"
-        },
-        {
-          "title": "Vegetable Oils in Beauty and Personal Care Market Size, Share, - openPR.com",
-          "source": "openPR.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZHFneUNfNlZ2M0RYald6emhKaHVuYjVTb2hCUTVhY2t1bFI5Z3A3WUxydW9DMGtMNGdRX3hoVlBvUFJtQ0pXV3BOTkZCZ0RuRnlEUGtRRFJRU0lrRmVKWFdoelN4ejU4UjZUR204eE9PaGZ1M1owZWM1UEJvendSZTJ4VWlZSDVoMVlWMGhObFBUMnYyM3VLUnRvNGI?oc=5",
-          "date": "08-18 03:30"
         }
       ],
       "newsKr": [
@@ -2634,17 +2628,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1394.8,
-      "change": -18.78,
-      "changePercent": -1.33,
+      "price": 1394.54,
+      "change": -19.04,
+      "changePercent": -1.35,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1396.69,
       "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1394.8,
+      "low7d": 1394.54,
       "high1m": 1487.39,
-      "low1m": 1394.8,
+      "low1m": 1394.54,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2653,7 +2647,7 @@ const FALLBACK_DATA = {
         1415.37,
         1414.73,
         1413.58,
-        1394.8
+        1394.54
       ],
       "history": {
         "7D": [
@@ -2683,7 +2677,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1394.8
+            "price": 1394.54
           }
         ],
         "1M": [
@@ -2781,25 +2775,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1394.8
+            "price": 1394.54
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1386.43
+            "price": 1386.17
           },
           {
             "time": "11:00",
-            "price": 1389.22
+            "price": 1388.96
           },
           {
             "time": "13:00",
-            "price": 1392.01
+            "price": 1391.75
           },
           {
-            "time": "03:27",
-            "price": 1394.8
+            "time": "04:25",
+            "price": 1394.54
           }
         ],
         "1Y": [
@@ -2853,7 +2847,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1394.8
+            "price": 1394.54
           }
         ]
       },
@@ -2934,9 +2928,9 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1628.2,
-      "change": -6.72,
-      "changePercent": -0.41,
+      "price": 1628.0,
+      "change": -6.92,
+      "changePercent": -0.42,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1631.5,
@@ -2953,7 +2947,7 @@ const FALLBACK_DATA = {
         1582.09,
         1638.16,
         1634.92,
-        1628.2
+        1628.0
       ],
       "history": {
         "7D": [
@@ -2983,7 +2977,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1628.2
+            "price": 1628.0
           }
         ],
         "1M": [
@@ -3077,25 +3071,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1628.2
+            "price": 1628.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1618.43
+            "price": 1618.23
           },
           {
             "time": "11:00",
-            "price": 1621.69
+            "price": 1621.49
           },
           {
             "time": "13:00",
-            "price": 1624.94
+            "price": 1624.74
           },
           {
-            "time": "03:27",
-            "price": 1628.2
+            "time": "04:25",
+            "price": 1628.0
           }
         ],
         "1Y": [
@@ -3149,7 +3143,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1628.2
+            "price": 1628.0
           }
         ]
       },
@@ -3173,10 +3167,10 @@ const FALLBACK_DATA = {
           "date": "08-19 14:34"
         },
         {
-          "title": "CBA currency exchange rates (19.08.2026) - Report.az",
+          "title": "CBA currency exchange rates (18.08.2026) - Report.az",
           "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0ZTVSMWE0R2VlZmtwOVlkdUxmeGJxU3Z3bEdtR3FQeVdFMm5vV3hkZU1hSklrY0ZsemhDaTVkZVM5clBLcnp2SS02T25HbDJQVHhhRTlaZGFibjBNSDBRaTFxNnpRUW9ETXYtRk1MT1FmUjdxSHlvQ3NBQdIBe0FVX3lxTFB0ZTVSMWE0R2VlZmtwOVlkdUxmeGJxU3Z3bEdtR3FQeVdFMm5vV3hkZU1hSklrY0ZsemhDaTVkZVM5clBLcnp2SS02T25HbDJQVHhhRTlaZGFibjBNSDBRaTFxNnpRUW9ETXYtRk1MT1FmUjdxSHlvQ3NBQQ?oc=5",
-          "date": "08-19 15:00"
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00cU0wai00bUtfQUZNYk54dXZBaXFPc0NKQ3hhSmVhVEkwenFFQkF5YU1hOWFsOFpqdDRGOVpqNndPdkcxdlhMaWNkTUhCS29yYVczTjhEeDZDb0dmSlRQN2pHaEV1V3otV2lXYm5QYkgxUG1JQnJxQlh4b9IBe0FVX3lxTE00cU0wai00bUtfQUZNYk54dXZBaXFPc0NKQ3hhSmVhVEkwenFFQkF5YU1hOWFsOFpqdDRGOVpqNndPdkcxdlhMaWNkTUhCS29yYVczTjhEeDZDb0dmSlRQN2pHaEV1V3otV2lXYm5QYkgxUG1JQnJxQlh4bw?oc=5",
+          "date": "08-18 14:32"
         }
       ],
       "newsKr": [
