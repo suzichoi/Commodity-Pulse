@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-21 06:21:09",
+  "last_updated": "2026-08-21 07:19:28",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 06:21",
+    "report_date": "2026.08.21, 07:19",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,394.05원 (▲4.65원)",
-    "fx_eur": "1,627.20원 (▲6.97원)",
+    "fx_usd": "1,394.02원 (▲4.62원)",
+    "fx_eur": "1,627.80원 (▲7.57원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 06:21",
+    "report_date": "2026.08.21, 07:19",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,394.05원 (▲4.65원)",
-    "fx_eur": "1,627.20원 (▲6.97원)",
+    "fx_usd": "1,394.02원 (▲4.62원)",
+    "fx_eur": "1,627.80원 (▲7.57원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-21T06:21:09.986679+09:00",
-  "usdKrwRate": 1394.05,
-  "eurKrwRate": 1627.2,
+  "lastUpdated": "2026-08-21T07:19:28.184096+09:00",
+  "usdKrwRate": 1394.02,
+  "eurKrwRate": 1627.8,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5999.98
           },
           {
-            "time": "06:20",
+            "time": "07:19",
             "price": 6012.0
           }
         ],
@@ -380,10 +380,10 @@ const FALLBACK_DATA = {
           "date": "08-18 21:31"
         },
         {
-          "title": "윌케르 비스퀴비, 2026년 2분기 엇갈린 실적 발표에도 주가 상승 - Investing.com 한국어",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOb21heG92UmluMFlKSlNUQ3Z4Vmp6NE84bmNSSHprU1FXLUZJa084dmZCdDdqMGlxaVkxaFFxX01TM2hwU0s4MG9mRjlLU08yR0tzVGxZQ2hIWGZZUG9ncXhERDY3S2RkREM0NlpKVQ?oc=5",
-          "date": "08-19 23:43"
+          "title": "유럽중앙은행은 지속적인 인플레이션 압력에 대해 경고했습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHpOaF9OT1FzWng5WkRTMFVUTzFxY1BRU1p6R2hYS01xQlBKa0ZhSnFWT2h3ZXRlUnR4c0toUG5RMTRHdjdTWDR3azM3SmoteGxPS1o1SkxRZEp3bGNTRlgyekNTdW05Z0ZQRkdsSDhRZmdzTFI5dWVuQlcwekVGSUhnWl9oS0NURkV1UU9pUW4?oc=5",
+          "date": "08-19 12:23"
         }
       ]
     },
@@ -447,7 +447,7 @@ const FALLBACK_DATA = {
             "price": 7223.29
           },
           {
-            "time": "06:21",
+            "time": "07:19",
             "price": 7237.77
           }
         ],
@@ -864,7 +864,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "06:21",
+            "time": "07:19",
             "price": 3728.0
           }
         ],
@@ -925,7 +925,7 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Arabica coffee futures down from Tuesday’s highs - Comunicaffe International",
+          "title": "Arabica coffee futures retreated yesterday from Tuesday’s highs, Colombian exports are gradually resuming, Vietnam's shipments soared to 147,890 tonnes in July - Comunicaffe International",
           "source": "Comunicaffe International",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjA5N2ZXejMwdWRoWERMcVB3bzFlUC1PWVJ3aUdrWXlpMVU1ZmYxWUVqTFdieVJsU3hCNnVDd1lEZUhUQUVDUm5mSnNXNV9md2FwcFJta3ZyYjNsTzBUZWdsa0JXY2tWYi1WcXN3NW9tOFhlYS1YTm1ldGhlMEVQQjZLMmxZTVhNWXhhcmR5Vl9NeTFxNDNBVmcxV19DeHZPZkZfQ3BXVXNUYWlhd3NKdTBxUmo4dlIzTzVJbUh4bFB2ZUZJMDE2ZUZoUlFqUFZObElQS3FhNDhGdk1hODdfUQ?oc=5",
           "date": "08-20 07:59"
@@ -1949,16 +1949,16 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
-          "source": "Brownfield Ag News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRHbHF2bmJrbE5GZ1dkNVJyTjRHSTF0akhTTHBtV3FoR0hXTEdHSEJiNFF0RkwtaGdONEV0V0hkOElTTEFyZ3FjYTJ4cDRaNThILXBqY3gyaFJrRFdEdFZRVWF2NngzQ2RHa1FIc3JDb2hoenlycHd1WGlpOWpmdmtpS1RheFN5V19uSmtobFY2YlByR0RJeEwxX2M2ZEY4QlZSX2FZVG1YcVdCZXB6c0V5OG1xRWQ2U2tnMXpLWm4?oc=5",
-          "date": "08-20 04:07"
-        },
-        {
           "title": "Nonfat Dry Milk Gains At CME While Butter And Dry Whey Soften In Midweek Trade - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGZJQjFxUmNVZ3pGbnZub3VHTU5aaHRldGwtdF9KeERrcUhCM3VDQ1dmV2tveXRfdUwtQlA3dDRrYkVRcGxKNU41SmY3NzF2eFdzLU5GeGxJbG1JZlVTbkZ2Rnd3OGZod0lWWUhZSnM4cFhzUmxYRk1pWjZsT25MbEdzS3lJSE9Sd2pZcGdVcGNXdzMyVGZPSWI0VzRjT3o3TDBZWEc2Q04?oc=5",
           "date": "08-20 18:42"
+        },
+        {
+          "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
+          "source": "Brownfield Ag News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRHbHF2bmJrbE5GZ1dkNVJyTjRHSTF0akhTTHBtV3FoR0hXTEdHSEJiNFF0RkwtaGdONEV0V0hkOElTTEFyZ3FjYTJ4cDRaNThILXBqY3gyaFJrRFdEdFZRVWF2NngzQ2RHa1FIc3JDb2hoenlycHd1WGlpOWpmdmtpS1RheFN5V19uSmtobFY2YlByR0RJeEwxX2M2ZEY4QlZSX2FZVG1YcVdCZXB6c0V5OG1xRWQ2U2tnMXpLWm4?oc=5",
+          "date": "08-20 04:07"
         },
         {
           "title": "Q2 2026 dairy trade review: cheese exports at an all-time high, whilst other categories disappoint - AHDB",
@@ -2184,7 +2184,7 @@ const FALLBACK_DATA = {
             "price": 1171.15
           },
           {
-            "time": "06:21",
+            "time": "07:19",
             "price": 1173.5
           }
         ],
@@ -2241,22 +2241,22 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "CPO Futures End Higher For Fourth Straight Session On Supply Concerns, Soybean Oil Gains - bernama",
-          "source": "bernama",
+          "title": "CPO Futures End Higher For Fourth Straight Session On Supply Concerns, Soybean Oil Gains - Bernama",
+          "source": "Bernama",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yd0FoZ251SDNxM25XWTVxcV9fSUdWSmRLcWNHSjA5ckdYRWlFa3ZGWkJvdmI3RnF2dnpZc01DLWEwVHB6YzZydDRNWElVbVR0cVROTk92WF9wdS1zSTMtT0tlYw?oc=5",
           "date": "08-21 00:10"
-        },
-        {
-          "title": "BMI Raises 2026 Average CPO Price Forecast To RM4,453 On Tight Supply - BernamaBiz",
-          "source": "BernamaBiz",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FYzBLOTl6TmM4ck1qN1FBYVdMSG40N1pMMXRRaWN2NFRRaG9CdURlWG9iMmV6ZE1sUFJQTVlVZ3hpNWFpU0FvX1g4aTBDM2p5VnRsSGQwb3IwUQ?oc=5",
-          "date": "08-20 17:05"
         },
         {
           "title": "Palm Oil Prices Seen Holding Above RM4,600 as Supply Tightens, Genting Posts Profit Dip - finance.biggo.com",
           "source": "finance.biggo.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tLUFSYV9Na2Z2dFp2SGFrVHFtQ3FNdE5GcnNLQnVVN3Z1bzFGeFlkb0xaMW0zRmFuRHdFSGNtU0w3NGsxdVpsTlBuQ01EUjJoRTJfb0pQaEktNDdLbUJtM2ZKdGdHdUEtNkNXbUw3NTN2NkVaSEE?oc=5",
           "date": "08-20 08:25"
+        },
+        {
+          "title": "BMI Raises 2026 Average CPO Price Forecast To RM4,453 On Tight Supply - BernamaBiz",
+          "source": "BernamaBiz",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FYzBLOTl6TmM4ck1qN1FBYVdMSG40N1pMMXRRaWN2NFRRaG9CdURlWG9iMmV6ZE1sUFJQTVlVZ3hpNWFpU0FvX1g4aTBDM2p5VnRsSGQwb3IwUQ?oc=5",
+          "date": "08-20 17:05"
         },
         {
           "title": "MPOC expects CPO prices to hold firm amid tight supply - The Star",
@@ -2558,7 +2558,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "06:21",
+            "time": "07:19",
             "price": 1930.0
           }
         ]
@@ -2628,13 +2628,13 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1394.05,
-      "change": 4.65,
+      "price": 1394.02,
+      "change": 4.62,
       "changePercent": 0.33,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1396.69,
-      "low24h": 1384.07,
+      "high24h": 1394.71,
+      "low24h": 1393.51,
       "high7d": 1416.85,
       "low7d": 1389.4,
       "high1m": 1487.39,
@@ -2647,7 +2647,7 @@ const FALLBACK_DATA = {
         1414.73,
         1413.58,
         1389.4,
-        1394.05
+        1394.02
       ],
       "history": {
         "7D": [
@@ -2677,7 +2677,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1394.05
+            "price": 1394.02
           }
         ],
         "1M": [
@@ -2779,25 +2779,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1394.05
+            "price": 1394.02
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1385.69
+            "price": 1385.66
           },
           {
             "time": "11:00",
-            "price": 1388.47
+            "price": 1388.44
           },
           {
             "time": "13:00",
-            "price": 1391.26
+            "price": 1391.23
           },
           {
-            "time": "06:21",
-            "price": 1394.05
+            "time": "07:19",
+            "price": 1394.02
           }
         ],
         "1Y": [
@@ -2851,14 +2851,14 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1394.05
+            "price": 1394.02
           }
         ]
       },
       "newsEn": [
         {
-          "title": "South Korean Won Advances Past Key Level of 1,400 Per Dollar - Bloomberg.com",
-          "source": "Bloomberg.com",
+          "title": "South Korean Won Advances Past Key Level of 1,400 Per Dollar - Bloomberg",
+          "source": "Bloomberg",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVk2b0VQS0I0R0xnelNhOWxfdlhnUmZaaFFUdDVyNnJydFNKM0dvVVdQTnk2b2xLemtnWXFMUXE0VHlaNzZfcklYRmYwWDgyWWE5RjFYUnAwbWUyRjVPNEpGeGxOVWhjbEdweUNwZnFCZEpyWjNRZUM4Q0VaNXNtYlFidmRjU0VwZUMyNVlra1B2ZEN3Rlo4cWdocHpkQjJMWVNtRlptb0VsQlNSdWJpek1jd3pKX0JLbDBz?oc=5",
           "date": "08-19 14:15"
         },
@@ -2932,36 +2932,36 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1627.2,
-      "change": 6.97,
-      "changePercent": 0.43,
+      "price": 1627.8,
+      "change": 7.57,
+      "changePercent": 0.47,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1631.5,
-      "low24h": 1616.4,
+      "high24h": 1627.8,
+      "low24h": 1626.9,
       "high7d": 1638.16,
       "low7d": 1582.09,
       "high1m": 1700.58,
       "low1m": 1582.09,
       "volume": 0,
       "sparkline": [
-        1628.62,
         1632.86,
+        1634.19,
         1582.09,
         1638.16,
         1634.92,
         1620.23,
-        1627.2
+        1627.8
       ],
       "history": {
         "7D": [
           {
-            "date": "08-11",
-            "price": 1628.62
-          },
-          {
             "date": "08-12",
             "price": 1632.86
+          },
+          {
+            "date": "08-13",
+            "price": 1634.19
           },
           {
             "date": "08-16",
@@ -2981,7 +2981,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1627.2
+            "price": 1627.8
           }
         ],
         "1M": [
@@ -3062,6 +3062,10 @@ const FALLBACK_DATA = {
             "price": 1632.86
           },
           {
+            "date": "08-13",
+            "price": 1634.19
+          },
+          {
             "date": "08-16",
             "price": 1582.09
           },
@@ -3079,25 +3083,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1627.2
+            "price": 1627.8
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1617.44
+            "price": 1618.03
           },
           {
             "time": "11:00",
-            "price": 1620.69
+            "price": 1621.29
           },
           {
             "time": "13:00",
-            "price": 1623.95
+            "price": 1624.54
           },
           {
-            "time": "06:21",
-            "price": 1627.2
+            "time": "07:19",
+            "price": 1627.8
           }
         ],
         "1Y": [
@@ -3151,7 +3155,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1627.2
+            "price": 1627.8
           }
         ]
       },
