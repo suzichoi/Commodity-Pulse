@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-20 13:30:02",
+  "last_updated": "2026-08-20 14:02:15",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 13:30",
+    "report_date": "2026.08.20, 14:02",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,393.89원 (▼19.69원)",
-    "fx_eur": "1,627.00원 (▼7.92원)",
+    "fx_usd": "1,393.88원 (▼19.70원)",
+    "fx_eur": "1,626.70원 (▼8.22원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 13:30",
+    "report_date": "2026.08.20, 14:02",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,393.89원 (▼19.69원)",
-    "fx_eur": "1,627.00원 (▼7.92원)",
+    "fx_usd": "1,393.88원 (▼19.70원)",
+    "fx_eur": "1,626.70원 (▼8.22원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-20T13:30:02.919194+09:00",
-  "usdKrwRate": 1393.88,
-  "eurKrwRate": 1626.9,
+  "lastUpdated": "2026-08-20T14:02:15.669701+09:00",
+  "usdKrwRate": 1394.08,
+  "eurKrwRate": 1626.7,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5922.13
           },
           {
-            "time": "13:29",
+            "time": "14:02",
             "price": 5934.0
           }
         ],
@@ -426,7 +426,7 @@
             "price": 7219.99
           },
           {
-            "time": "13:29",
+            "time": "14:02",
             "price": 7234.46
           }
         ],
@@ -603,16 +603,10 @@
       },
       "newsEn": [
         {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
-          "source": "IndexBox",
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - indexbox.io",
+          "source": "indexbox.io",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
           "date": "08-18 13:10"
-        },
-        {
-          "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW5mRlpadnhHaEFiak11NHFOUjVNRklTbENMRjB3RjQ0U2lwUjMyWjM2VF9FbjJ4MGNmR3RVQTY0eTkwYmFYUHJELVVYQ3BnUGdUaFdsUDY1eUxuVWswN2xjMXBtWms4N1hmNFVFVWRwMWNNaUx3MlNHQXFDSUgxVlV6UUR0SFRtZ1FELTNGdktpUmpqQUtqeXNWbTlzTV8zMEpIcm9uZURCRzZPTmdkeTc2akh0TFdsZ3pPM2tFWk1yanNhNDVLaGIxTG9MM2ExSVAtaERleXBOdjB2RXhOVHJQaFZoQQ?oc=5",
-          "date": "08-19 15:06"
         },
         {
           "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
@@ -621,10 +615,16 @@
           "date": "08-18 14:34"
         },
         {
-          "title": "Coffee Prices Surge on Supply Fears - Barchart.com",
+          "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW5mRlpadnhHaEFiak11NHFOUjVNRklTbENMRjB3RjQ0U2lwUjMyWjM2VF9FbjJ4MGNmR3RVQTY0eTkwYmFYUHJELVVYQ3BnUGdUaFdsUDY1eUxuVWswN2xjMXBtWms4N1hmNFVFVWRwMWNNaUx3MlNHQXFDSUgxVlV6UUR0SFRtZ1FELTNGdktpUmpqQUtqeXNWbTlzTV8zMEpIcm9uZURCRzZPTmdkeTc2akh0TFdsZ3pPM2tFWk1yanNhNDVLaGIxTG9MM2ExSVAtaERleXBOdjB2RXhOVHJQaFZoQQ?oc=5",
+          "date": "08-19 15:06"
+        },
+        {
+          "title": "Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmNjNUdWNGNKWEFDVm5hMUFyd3IzY3VJSlhFZl9BRlV2dmU3SERlSGp0dnI0VlZqUUdWZDBQVEhlRmhVa1IxVlZZLURDMW5KQ0NTa0JRZU05UEJVdFQxRmc2aXAteWNkYTF6NFo4WDhRdS16LVNlZGdzZFVjaDFVNkdsQnBMZw?oc=5",
-          "date": "08-19 00:45"
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVENkV3ZYdU0xWXFOcW1SallUbFd6U3p2YWZFYkRlS0wyaWppR2VvY1Y4azhYQ0V2WGVxMkw3a3ZwQVVtbEVvYUZPWkhPZ2VoSE1DNUlncFJkYXlDRlNKNVVTajhhcVJDZm1PWExNOU9QS0lkMDRXSjBHYzd0SDVrSUJ2TDVnUWNRWUF6NnZJamVzYzFHZDhNZE4tXy1QVFpXc01rQQ?oc=5",
+          "date": "08-20 00:52"
         }
       ],
       "newsKr": [
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "13:29",
+            "time": "14:02",
             "price": 3728.0
           }
         ],
@@ -900,10 +900,10 @@
       },
       "newsEn": [
         {
-          "title": "Coffee Prices Surge on Supply Fears - TradingView",
+          "title": "Brazil Coffee Harvest Pressures Weigh on Coffee Prices - TradingView",
           "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmVmZXNVM0wyUXVFaUVtTjJuQmQ4RHpKZTVyNEJURHZKdUF2MWdLZE5MblZKY0ZPcFZxOXRDV2JYRWIzSERXOVpaZWdQWHFQN2tyVXZoRVlUZFNlYjJpZDMzSmdsLVh4WndiVzY5WFBWR1F0WGxIX19MZ1hpU1JzVjlndXVmZXhzZHY5NWg2UmtOc2dNdWFHTWNB?oc=5",
-          "date": "08-19 00:45"
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVl5QTU4WTVpMHV6aEhYa0xnRTlES3hTck9fVG02OVJTSVZ3ZkNDenRIU1dwWHYtcF9yX3drZnJWRnV5WXM3eWR0dVhFdWlUY3dFNVJJVl9STE02OVFnVXg1WnhMUFdaNm50T3Zuc0hWVWJIX1RrZUY2S2hld1NXRmdvOGVhbi1oaXlhejdocEhDMUl0YUtxMzlmQkEzYmJZeWgyUXVQSWVOSmt4SDR4NGJ2MA?oc=5",
+          "date": "08-20 03:22"
         },
         {
           "title": "Agric. & Environment: Coffee farmers optimistic despite unst - NewVision.co.ug",
@@ -912,16 +912,16 @@
           "date": "08-20 03:00"
         },
         {
-          "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOakhCR1hCS0o5Tnplbi13dVUtSGIyM3hldm9CWVpsNmZDZW1NV2xNODc3djIzQ0RGeW1mZV9Lajc4RW8zT20wa1loVzdVZklmLWJCTThYZUlkNm53X3BMZDV4VkxwNHEyN0pDX2piNWxRODRxbDJsUTZrZjBJN2NMenpsZktqX0R5WlhBVFE5WlB4MV9vczlmelpDLWFvRGltb0VBbFA3OS00NkNFdUt4NjE3eEdNbHR4a2VXYjRKZE5nVzkxcjhHT1VWYjRYSTM5dGZKZFJ0MnBLa0EtR0kyZnlkajduQ1VpeUhRWk9XeFJyRGItWlMtenFYUW1RZmQx?oc=5",
-          "date": "08-18 14:34"
-        },
-        {
           "title": "Agricultural commodity prices today, August 19, 2026: Coffee prices surge, positive sentiment returns; US 'de-escalates' and postpones 50% tariff on Canadian goods. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW5mRlpadnhHaEFiak11NHFOUjVNRklTbENMRjB3RjQ0U2lwUjMyWjM2VF9FbjJ4MGNmR3RVQTY0eTkwYmFYUHJELVVYQ3BnUGdUaFdsUDY1eUxuVWswN2xjMXBtWms4N1hmNFVFVWRwMWNNaUx3MlNHQXFDSUgxVlV6UUR0SFRtZ1FELTNGdktpUmpqQUtqeXNWbTlzTV8zMEpIcm9uZURCRzZPTmdkeTc2akh0TFdsZ3pPM2tFWk1yanNhNDVLaGIxTG9MM2ExSVAtaERleXBOdjB2RXhOVHJQaFZoQQ?oc=5",
           "date": "08-19 15:06"
+        },
+        {
+          "title": "Coffee Price Retreat as Brazil’s Coffee Harvest Accelerates - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVENkV3ZYdU0xWXFOcW1SallUbFd6U3p2YWZFYkRlS0wyaWppR2VvY1Y4azhYQ0V2WGVxMkw3a3ZwQVVtbEVvYUZPWkhPZ2VoSE1DNUlncFJkYXlDRlNKNVVTajhhcVJDZm1PWExNOU9QS0lkMDRXSjBHYzd0SDVrSUJ2TDVnUWNRWUF6NnZJamVzYzFHZDhNZE4tXy1QVFpXc01rQQ?oc=5",
+          "date": "08-20 00:52"
         }
       ],
       "newsKr": [
@@ -1162,8 +1162,8 @@
           "date": "08-20 06:14"
         },
         {
-          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
-          "source": "IndexBox",
+          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - indexbox.io",
+          "source": "indexbox.io",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
           "date": "08-20 02:52"
         },
@@ -1924,6 +1924,12 @@
       },
       "newsEn": [
         {
+          "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
+          "source": "Brownfield Ag News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRHbHF2bmJrbE5GZ1dkNVJyTjRHSTF0akhTTHBtV3FoR0hXTEdHSEJiNFF0RkwtaGdONEV0V0hkOElTTEFyZ3FjYTJ4cDRaNThILXBqY3gyaFJrRFdEdFZRVWF2NngzQ2RHa1FIc3JDb2hoenlycHd1WGlpOWpmdmtpS1RheFN5V19uSmtobFY2YlByR0RJeEwxX2M2ZEY4QlZSX2FZVG1YcVdCZXB6c0V5OG1xRWQ2U2tnMXpLWm4?oc=5",
+          "date": "08-20 03:08"
+        },
+        {
           "title": "Powders Drive GDT Index To Strongest Single-Event Lift Since March Amid Climate Concerns - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEs2VXJqUmFjRnpITUw4TXpMRG1oVnVNTDJkblZmRk9FLVdLOFMwVVNEeWNBcndCb2txdHdvbE1mQURTckR0M0hKMnRDam5ZTFNJUzdmUkNkOWQ0OEZIWHRxOGxUSFZESFRiWE5mRFdMTUFWM2htc2tPcE9oTDB0ZkpLZTNUMGhOS1J0eDJMb1BlaWJUWWlxNHBKX2hqRW5YMzZ1d1E1Wm9XR0NKUjJEN2pLdkdCZw?oc=5",
@@ -1940,12 +1946,6 @@
           "source": "Irish Farmers Journal",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
           "date": "08-20 07:15"
-        },
-        {
-          "title": "Dairy prices rally at latest auction as El Niño looms - NZ Herald",
-          "source": "NZ Herald",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd1FtTTQwZzR2TWpaTGxhaDRuU19fWUFPUGFMTTlKSm1wdFJkeTZEX0duT0JGVXROTGFJOG15Z3hJazRZYVlnQThLOGFZN3pLclVhel9JR3p1N3dSek9jeWVPMGxEbUdzV1NhVkxOakt0S0JGMk1QWWhjLWJWUl80dVV3ejk2YkpySmZQMnhsUV9WU2lQUmNCY0hpVnFmRjg2R2YyWV84VUpNelZLdG0tUHJTT2Z2UHctVVZYcFlGZXduN2N5ZnBHa0dmX3ZscFJnVmpxZzZVWmFjOFZoTTI5YnRKVi1lSDMz?oc=5",
-          "date": "08-19 09:02"
         }
       ],
       "newsKr": [
@@ -2159,7 +2159,7 @@
             "price": 1171.15
           },
           {
-            "time": "13:30",
+            "time": "14:02",
             "price": 1173.5
           }
         ],
@@ -2228,16 +2228,16 @@
           "date": "08-20 08:04"
         },
         {
+          "title": "Malaysian crude palm oil prices to stay above $1,133 per ton in September, MPOC says - marketscreener.com",
+          "source": "marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUFNrdWxXRmZuWmxfLWZWYVJBalZxNHRuWHdFbTg0SllzZDZzRHp6WUZQenN6bFhna2hRc0kyaGsyWUdVTUJDam5KdXJRZExYOUpjMi1XWjZKcF9OMDdEYUtUMUZ6ZWkyM2thdUJIdjVQcHlVRXJuMUhfcHhBb0RXRGdZWEo4bTFMZ2hYTktMcTRiZTVaNnJ2SzFRaUU3Z2FfN0g3a1Q3cG1GYWhSanhhLV9VZi1yQ1pxV2VUSUxTLTRNUUFDZlFwWGJlSEN4NVo1?oc=5",
+          "date": "08-19 10:20"
+        },
+        {
           "title": "CPO Prices To Remain Above RM4,600 In September On Tightening Supply, Geopolitical Disruptions -- MPOC - Bernama",
           "source": "Bernama",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrczVTVC1JVldTSVpSdmJPVG1JZFNMSXpZclpRd05GZDJoMUt3TDlkQ29pbGVFYUdwdFFIX3dvOTRHemhZYklvLS04NTJsclJjWXJkaVF6cFo3OGFySnRIMHF1RlJKZw?oc=5",
           "date": "08-20 00:12"
-        },
-        {
-          "title": "Malaysian crude palm oil prices to stay above USD1,133 per ton in Sept: MPOC - Business Recorder",
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0EtQjNyUnRodHNpRDZaQzBBNnhfck9GOXRzQWx1ZFI5UFhTRDFaVmVQV2FGRENieU1vdTNwenZLLUQyRlpPbUs4N05RZ2hJTllGYXpFVUE1YWEtcVlpMVh2UzJlS1N3UklJVkhlSnlxV0JIUk9XMXFKVWt2ZUpGczhBRWxKMXpZbHFjQ2ZBa2JUeVhLa1FZcTUyTmlFcWllVWtpRUZ6SDVKTkdIbnpnS0x4VELSAVZBVV95cUxQWlJPakJsNEhsNmptZ0gzNWowSURPN1NCN0trRjVlQzlVR1RSeV9PNHhwdW1YNXVhRHNaNkhCOHlfbGZiRTVfTHFaQmhTSktGWVVoZ0E5QQ?oc=5",
-          "date": "08-20 08:19"
         }
       ],
       "newsKr": [
@@ -2533,15 +2533,15 @@
             "price": 1926.14
           },
           {
-            "time": "13:30",
+            "time": "14:02",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-          "source": "IndexBox",
+          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - indexbox.io",
+          "source": "indexbox.io",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDN1WmxSMEowT3FsRmlkUGVTcngwbkNHVFJVUWQ1VnNidVRtYXpzdWdURjZtLVZFYks3cmdiTWM4S2VqNDFnVEJRRDJVNDgzWFBmMUYzWDdKT2dCNUJzdnZhTUlnbXkwQjdYMG9KOU9uWWtvWGlsNUl0RnFMcjN3RkZuX0xNZE5RX3ROLXEwYnNqcDd4eUxqZUtPRFFsbHc3UHhkT3RzY1VvckJJWUk0Vw?oc=5",
           "date": "08-19 14:04"
         },
@@ -2615,17 +2615,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1393.89,
-      "change": -19.69,
+      "price": 1393.88,
+      "change": -19.7,
       "changePercent": -1.39,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1395.08,
       "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1393.89,
+      "low7d": 1393.88,
       "high1m": 1487.39,
-      "low1m": 1393.89,
+      "low1m": 1393.88,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2634,7 +2634,7 @@
         1415.37,
         1414.73,
         1413.58,
-        1393.89
+        1393.88
       ],
       "history": {
         "7D": [
@@ -2664,7 +2664,7 @@
           },
           {
             "date": "08-20",
-            "price": 1393.89
+            "price": 1393.88
           }
         ],
         "1M": [
@@ -2762,25 +2762,25 @@
           },
           {
             "date": "08-20",
-            "price": 1393.89
+            "price": 1393.88
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1385.53
+            "price": 1385.52
           },
           {
             "time": "11:00",
-            "price": 1388.31
+            "price": 1388.3
           },
           {
             "time": "13:00",
-            "price": 1391.1
+            "price": 1391.09
           },
           {
-            "time": "13:30",
-            "price": 1393.89
+            "time": "14:02",
+            "price": 1393.88
           }
         ],
         "1Y": [
@@ -2834,14 +2834,14 @@
           },
           {
             "date": "2026-08",
-            "price": 1393.89
+            "price": 1393.88
           }
         ]
       },
       "newsEn": [
         {
-          "title": "USD-KRW Exchange Rate Drops to 1,300s for First Time in 11 Months...Can It Stabilize? - asiae.co.kr",
-          "source": "asiae.co.kr",
+          "title": "USD-KRW Exchange Rate Drops to 1,300s for First Time in 11 Months...Can It Stabilize? - 아시아경제",
+          "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEpiajdhUmZJSUotenJzcWFkejVVZEg1bHRaQUtVemh4Z3g5V3JTY1NkX1pBX3JDQk03aEYzMmxlZ2swMEM0Zl82NlMxbmIzbmpNYnF1ZTExSW9UTXdnandkeVN6aUUxWndIME01WG03NXpnNVdOREJNaW1xQS1fZWRFQ25XZ3NTQXVqVW9PQQ?oc=5",
           "date": "08-20 11:25"
         },
@@ -2852,16 +2852,16 @@
           "date": "08-20 05:44"
         },
         {
-          "title": "Treasury Buybacks Put Bond Market Liquidity Front and Center - Mott Capital Management",
-          "source": "Mott Capital Management",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VcFhzUG9CS1B2RWlCSzRKZmJFNkhYYVU2alpwWUZPWW5TbmZSME91T05LN19STkN5VmE5U0xIeXZHMjgwRlRNd1VTQ3p6UWpDWmo3Z3NQWG1WRFJIRlJPSHNPSU1rRlRVZ0pJTFJ5YmVEWkIwVGI2WV9TOWRMQQ?oc=5",
-          "date": "08-20 07:26"
-        },
-        {
           "title": "South Korean Won Hits Over 10-Month High - TradingView",
           "source": "TradingView",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNJUFZaeWtiRmM1eXNSWEVGR3BXR3ZsRUdrWGp0cWJMMU80Yi1LQ3pFbUNTTDhaQ2NwOGNiWjRjSURIVF9ySzg1RERTdU5wRHdwYW5YNjZOU2RHVHBWc1BOQnJLLXQ0ZHhiVjZoMUpXVWtqV0hkTUtGMjJ1VXZmY0R1ZGEtcUwtQmNFTjdHQjhtUEtSd0E?oc=5",
           "date": "08-19 12:28"
+        },
+        {
+          "title": "Won and yen: 2 currencies, 2 very different problems - Nikkei Asia",
+          "source": "Nikkei Asia",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkdFNDZTUWlfSDNleFlMcTVaX3pGWHY4aHdiYmV0RmVCNDEwOEY2dkFpd3RsMXkyWDdNeF9aWTJuMDBzYno5QXJyUFJOajdnaE9MM3lueFoySWNTUXVzSzFKN1dHdW1HVlZSQnh3M3l5M1VGclF5MU9udGZWQlIxTGxUYWYza2hGQ1E?oc=5",
+          "date": "08-18 05:05"
         }
       ],
       "newsKr": [
@@ -2915,9 +2915,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1627.0,
-      "change": -7.92,
-      "changePercent": -0.48,
+      "price": 1626.7,
+      "change": -8.22,
+      "changePercent": -0.5,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1628.4,
@@ -2934,7 +2934,7 @@
         1582.09,
         1638.16,
         1634.92,
-        1627.0
+        1626.7
       ],
       "history": {
         "7D": [
@@ -2964,7 +2964,7 @@
           },
           {
             "date": "08-20",
-            "price": 1627.0
+            "price": 1626.7
           }
         ],
         "1M": [
@@ -3062,25 +3062,25 @@
           },
           {
             "date": "08-20",
-            "price": 1627.0
+            "price": 1626.7
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1617.24
+            "price": 1616.94
           },
           {
             "time": "11:00",
-            "price": 1620.49
+            "price": 1620.19
           },
           {
             "time": "13:00",
-            "price": 1623.75
+            "price": 1623.45
           },
           {
-            "time": "13:30",
-            "price": 1627.0
+            "time": "14:02",
+            "price": 1626.7
           }
         ],
         "1Y": [
@@ -3134,7 +3134,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1627.0
+            "price": 1626.7
           }
         ]
       },
