@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-20 14:02:15",
+  "last_updated": "2026-08-20 14:23:30",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 14:02",
+    "report_date": "2026.08.20, 14:23",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,393.88원 (▼19.70원)",
-    "fx_eur": "1,626.70원 (▼8.22원)",
+    "fx_usd": "1,393.48원 (▼20.10원)",
+    "fx_eur": "1,626.00원 (▼8.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 14:02",
+    "report_date": "2026.08.20, 14:23",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,393.88원 (▼19.70원)",
-    "fx_eur": "1,626.70원 (▼8.22원)",
+    "fx_usd": "1,393.48원 (▼20.10원)",
+    "fx_eur": "1,626.00원 (▼8.92원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-20T14:02:15.669701+09:00",
-  "usdKrwRate": 1394.08,
-  "eurKrwRate": 1626.7,
+  "lastUpdated": "2026-08-20T14:23:30.682662+09:00",
+  "usdKrwRate": 1393.48,
+  "eurKrwRate": 1626.0,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5922.13
           },
           {
-            "time": "14:02",
+            "time": "14:23",
             "price": 5934.0
           }
         ],
@@ -443,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 7219.99
           },
           {
-            "time": "14:02",
+            "time": "14:23",
             "price": 7234.46
           }
         ],
@@ -620,8 +620,8 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - indexbox.io",
-          "source": "indexbox.io",
+          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
           "date": "08-18 13:10"
         },
@@ -856,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "14:02",
+            "time": "14:23",
             "price": 3728.0
           }
         ],
@@ -961,8 +961,8 @@ const FALLBACK_DATA = {
           "date": "08-18 17:30"
         },
         {
-          "title": "오늘 8월 19일 커피 가격: kg당 1,500동 급등 - Laodong.vn",
-          "source": "Laodong.vn",
+          "title": "오늘 8월 19일 커피 가격: kg당 1,500동 급등 - ko.laodong.vn",
+          "source": "ko.laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmlHQmpTSm5IaG1fLXg2WEo4ME5PT21jR0R1eEZaa2JwVzNxLW92NlBpTDh1VDNzcE93VEdRVk1GUjJEOF9QYnFLanQtOFFsaFp6TUstUC1ySGxweUtuaVRFa2wxZHZiRHFqNTBxdE1lRGJNU2Zuazg4RHFUZEpXQ1h4Qy1zNVlrY2FraUxhUTdjQQ?oc=5",
           "date": "08-19 15:30"
         }
@@ -1179,8 +1179,8 @@ const FALLBACK_DATA = {
           "date": "08-20 06:14"
         },
         {
-          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - indexbox.io",
-          "source": "indexbox.io",
+          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
           "date": "08-20 02:52"
         },
@@ -2176,7 +2176,7 @@ const FALLBACK_DATA = {
             "price": 1171.15
           },
           {
-            "time": "14:02",
+            "time": "14:23",
             "price": 1173.5
           }
         ],
@@ -2251,8 +2251,8 @@ const FALLBACK_DATA = {
           "date": "08-19 10:20"
         },
         {
-          "title": "CPO Prices To Remain Above RM4,600 In September On Tightening Supply, Geopolitical Disruptions -- MPOC - Bernama",
-          "source": "Bernama",
+          "title": "CPO Prices To Remain Above RM4,600 In September On Tightening Supply, Geopolitical Disruptions -- MPOC - bernama.com",
+          "source": "bernama.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrczVTVC1JVldTSVpSdmJPVG1JZFNMSXpZclpRd05GZDJoMUt3TDlkQ29pbGVFYUdwdFFIX3dvOTRHemhZYklvLS04NTJsclJjWXJkaVF6cFo3OGFySnRIMHF1RlJKZw?oc=5",
           "date": "08-20 00:12"
         }
@@ -2550,15 +2550,15 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "14:02",
+            "time": "14:23",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - indexbox.io",
-          "source": "indexbox.io",
+          "title": "Switzerland Virgin Coconut Oil - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDN1WmxSMEowT3FsRmlkUGVTcngwbkNHVFJVUWQ1VnNidVRtYXpzdWdURjZtLVZFYks3cmdiTWM4S2VqNDFnVEJRRDJVNDgzWFBmMUYzWDdKT2dCNUJzdnZhTUlnbXkwQjdYMG9KOU9uWWtvWGlsNUl0RnFMcjN3RkZuX0xNZE5RX3ROLXEwYnNqcDd4eUxqZUtPRFFsbHc3UHhkT3RzY1VvckJJWUk0Vw?oc=5",
           "date": "08-19 14:04"
         },
@@ -2632,17 +2632,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1393.88,
-      "change": -19.7,
-      "changePercent": -1.39,
+      "price": 1393.48,
+      "change": -20.1,
+      "changePercent": -1.42,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1395.08,
       "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1393.88,
+      "low7d": 1393.48,
       "high1m": 1487.39,
-      "low1m": 1393.88,
+      "low1m": 1393.48,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2651,7 +2651,7 @@ const FALLBACK_DATA = {
         1415.37,
         1414.73,
         1413.58,
-        1393.88
+        1393.48
       ],
       "history": {
         "7D": [
@@ -2681,7 +2681,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1393.88
+            "price": 1393.48
           }
         ],
         "1M": [
@@ -2779,25 +2779,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1393.88
+            "price": 1393.48
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1385.52
+            "price": 1385.12
           },
           {
             "time": "11:00",
-            "price": 1388.3
+            "price": 1387.91
           },
           {
             "time": "13:00",
-            "price": 1391.09
+            "price": 1390.69
           },
           {
-            "time": "14:02",
-            "price": 1393.88
+            "time": "14:23",
+            "price": 1393.48
           }
         ],
         "1Y": [
@@ -2851,7 +2851,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1393.88
+            "price": 1393.48
           }
         ]
       },
@@ -2932,9 +2932,9 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1626.7,
-      "change": -8.22,
-      "changePercent": -0.5,
+      "price": 1626.0,
+      "change": -8.92,
+      "changePercent": -0.55,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1628.4,
@@ -2951,7 +2951,7 @@ const FALLBACK_DATA = {
         1582.09,
         1638.16,
         1634.92,
-        1626.7
+        1626.0
       ],
       "history": {
         "7D": [
@@ -2981,7 +2981,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1626.7
+            "price": 1626.0
           }
         ],
         "1M": [
@@ -3079,25 +3079,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-20",
-            "price": 1626.7
+            "price": 1626.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1616.94
+            "price": 1616.24
           },
           {
             "time": "11:00",
-            "price": 1620.19
+            "price": 1619.5
           },
           {
             "time": "13:00",
-            "price": 1623.45
+            "price": 1622.75
           },
           {
-            "time": "14:02",
-            "price": 1626.7
+            "time": "14:23",
+            "price": 1626.0
           }
         ],
         "1Y": [
@@ -3151,7 +3151,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1626.7
+            "price": 1626.0
           }
         ]
       },
@@ -3163,16 +3163,16 @@ const FALLBACK_DATA = {
           "date": "08-20 05:44"
         },
         {
-          "title": "Azerbaijani currency to world currency rates for August 19 - trend.az",
-          "source": "trend.az",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtUkFRZ3A5RVRWbDExQk9zQy1WeWdxM1IyY0VWazdPUVNsSkVzSHJaVW1LRXlDWG9hdUdJT1QxMTBzNHdxdk1zRTZ6SUdyWmw4Y21XZg?oc=5",
-          "date": "08-19 14:34"
-        },
-        {
           "title": "Euro and pound probe multi-month highs while Yen hovers near 160 zone - Investing.com UK",
           "source": "Investing.com UK",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnNjWTJNRTdvM2pRUUNkMjQ2aXBkNm03anFpc2dZME9JWUktUFhwWnNlTG1TT0xSMy1zYlh1Q1hNLTExLUEzUjNwY281OWpDN3NNWVk2YVd4X3c0c1g4SUsyUFJhSkxBalNvclhZd2NxYnR1VGJMV05OdEdqSC1jY0hNLUlzUzNiTW9FX2dNUkEzSHBwV3Z1TE1UUFF6Sjh6VnlqeWIzT3hNLXNmQTI5UkhpOA?oc=5",
           "date": "08-19 13:50"
+        },
+        {
+          "title": "Azerbaijani currency to world currency rates for August 19 - trend.az",
+          "source": "trend.az",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtUkFRZ3A5RVRWbDExQk9zQy1WeWdxM1IyY0VWazdPUVNsSkVzSHJaVW1LRXlDWG9hdUdJT1QxMTBzNHdxdk1zRTZ6SUdyWmw4Y21XZg?oc=5",
+          "date": "08-19 14:34"
         },
         {
           "title": "CBA currency exchange rates (19.08.2026) - Report.az",
