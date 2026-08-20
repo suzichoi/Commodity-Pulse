@@ -4,7 +4,7 @@
 
 [![Update Commodity Data & Deploy](https://github.com/suzichoi/commodity-pulse/actions/workflows/update_data.yml/badge.svg)](https://github.com/suzichoi/commodity-pulse/actions/workflows/update_data.yml)
 
-**코코아(Cocoa), 커피(Arabica/Robusta), 유제품(GDT)** 등 주요 식품 원자재 가격 동향 및 외환 시세를 자동으로 수집·시각화하는 **반응형 웹 대시보드**입니다.
+**코코아(Cocoa), 커피(Arabica/Robusta), 유제품(GDT)** 등 주요 식품 원자재 가격 동향 및 외환 시세를 자동으로 수집·시각화하는 **반응형 웹 대시보드**
 
 > 🌐 **배포 주소:** https://suzichoi.github.io/commodity-pulse/
 
