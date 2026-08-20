@@ -4,10 +4,10 @@ on:
   schedule:
     # 매 1시간마다 정각에 자동 실행 (Hourly cron)
     - cron: '0 * * * *'
-  # GitHub Actions 탭에서 수동 즉시 실행 가능 (Manual trigger)
+  # GitHub Actions 탭에서 수동 즉시 실행 가능
   workflow_dispatch:
 
-# 리포지토리 파일 쓰기(Push) 및 GitHub Pages 배포 권한 설정
+# 리포지토리 파일 쓰기 및 Pages 배포 권한
 permissions:
   contents: write
   pages: write
@@ -20,6 +20,10 @@ concurrency:
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    # 배포 환경 누락 오류 해결을 위한 환경 설정 추가
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
