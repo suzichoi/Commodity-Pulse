@@ -1,12 +1,12 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-20 09:18:20",
+  "last_updated": "2026-08-20 09:21:58",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 09:18",
+    "report_date": "2026.08.20, 09:21",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -27,8 +27,8 @@
       "팜유 : $1,172.00 (▲1.03%)",
       "라우릭 오일 : $1,930.00 (0.00%)"
     ],
-    "fx_usd": "1,384.88원 (▼28.70원)",
-    "fx_eur": "1,619.10원 (▼15.82원)",
+    "fx_usd": "1,385.08원 (▼28.50원)",
+    "fx_eur": "1,616.40원 (▼18.52원)",
     "news_category": "GDT 탈지분유",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -37,7 +37,7 @@
     "week_number": 34,
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.20",
-    "report_date": "2026.08.20, 09:18",
+    "report_date": "2026.08.20, 09:21",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,234.46 (▼9.70%)",
     "weekly_price_list": [
@@ -58,14 +58,14 @@
       "팜유 : $1,172.00 (▲1.03%)",
       "라우릭 오일 : $1,930.00 (0.00%)"
     ],
-    "fx_usd": "1,384.88원 (▼28.70원)",
-    "fx_eur": "1,619.10원 (▼15.82원)",
+    "fx_usd": "1,385.08원 (▼28.50원)",
+    "fx_eur": "1,616.40원 (▼18.52원)",
     "news_category": "GDT 탈지분유",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-20T09:18:20.901481+09:00",
-  "usdKrwRate": 1385.08,
-  "eurKrwRate": 1619.1,
+  "lastUpdated": "2026-08-20T09:21:58.894767+09:00",
+  "usdKrwRate": 1384.98,
+  "eurKrwRate": 1616.4,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -119,7 +119,7 @@
             "price": 5922.13
           },
           {
-            "time": "09:18",
+            "time": "09:21",
             "price": 5934.0
           }
         ],
@@ -398,7 +398,7 @@
             "price": 7219.99
           },
           {
-            "time": "09:18",
+            "time": "09:21",
             "price": 7234.46
           }
         ],
@@ -601,16 +601,16 @@
       ],
       "newsKr": [
         {
+          "title": "오늘(8월 20일) 커피 가격: 브라질의 수확이 본격화됨에 따라 하락세로 전환하고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG5VWkhtdnFxem9zb1FOY2dITFcxWU9xZzVoSWwtQ1k4MmFEeW1xRlNRVnNCQ1RJS3NXUm92eEFOQW5rejM2VEZnTWhFUzd2V1Vua3QxZFJsR2NnZ01OcmRDNmRJNkpNRFU1TURTdkVnTnJicUlLVHVFeHYxVHlNTEVvMkJ5MzFrWHNzUWZ3V3lfcERsdldvaA?oc=5",
+          "date": "08-20 09:18"
+        },
+        {
           "title": "오늘(8월 19일) 커피 가격: 공급 부족으로 가격이 계속 상승하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDAxdXRYR1ozbUJrM3NmME5TU3VDemptcE1sNzRkVlI0YmtZSEpQNU12elQxbmhsd1U4UTllbE9ucUdsNmR6VmtSYkp2WjFaTy1meGJwai1pb01HM0tDMnVXTXktZ3hOTTdZWHNrVl9QYzVYUjFKSWthbDdFTnlWTjZST1NfaUxvVjdjSGt6Q05QUQ?oc=5",
           "date": "08-19 12:29"
-        },
-        {
-          "title": "오늘(8월 19일) 커피 가격: 가격이 급격하게 상승하고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fZV9odkJfeThuNFFSVC1KQU0wWjdFdmYxVTY3UURLZHFsSG9xcG1SVFJyRGdrOHlYZUEycENPOEFNVEdfbUdxaTFneGtsMUtJVDM5M1BqLXhTRjdrTGNMYW11Y3VXdWRaQUtkNWVRXy1UTVF4dTdOQ19jTDk?oc=5",
-          "date": "08-19 17:54"
         },
         {
           "title": "오늘 8월 19일 커피 가격: kg당 1,500동 급등 - Laodong.vn",
@@ -619,10 +619,10 @@
           "date": "08-19 15:30"
         },
         {
-          "title": "8월 18일 농산물 가격: 커피 가격 급등, 아라비카 가격은 6주 만에 최고치 경신. - Vietnam.vn",
+          "title": "오늘(8월 19일) 커피 가격: 가격이 급격하게 상승하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkpzdHdreGtsT2FKX0t2WURtNEYwVWhldTRYRmpBcThJU2VpNEZhWHF2alltT2hyZmlWZ1VuelA5TnpZbnd4VjBpY2NHLTBTdmpvNm13T1l1ME5BNXdpZks5SjJtc3kteTQ5T1l2V3ItZFBZUFg3cTVOVGlHaVdESHJyS3RTWW5JSkNnbGg5Q25lTXFwRzg4?oc=5",
-          "date": "08-18 16:00"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fZV9odkJfeThuNFFSVC1KQU0wWjdFdmYxVTY3UURLZHFsSG9xcG1SVFJyRGdrOHlYZUEycENPOEFNVEdfbUdxaTFneGtsMUtJVDM5M1BqLXhTRjdrTGNMYW11Y3VXdWRaQUtkNWVRXy1UTVF4dTdOQ19jTDk?oc=5",
+          "date": "08-19 17:54"
         }
       ],
       "original_price_lb": 328.15
@@ -798,7 +798,7 @@
             "price": 3731.52
           },
           {
-            "time": "09:18",
+            "time": "09:21",
             "price": 3739.0
           }
         ],
@@ -1859,16 +1859,16 @@
           "date": "08-20 04:34"
         },
         {
+          "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
+          "source": "Irish Farmers Journal",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
+          "date": "08-20 07:15"
+        },
+        {
           "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
           "date": "08-20 02:52"
-        },
-        {
-          "title": "July 2026 dairy market review - AHDB",
-          "source": "AHDB",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JT0lGVHhVT09ETTJJUkdNSkJjTDM0NFJrWktYdkRYNHpoc2U1UDFFV3BJNFE2QmJwWHVLVWhrZm81Q195MWlMLXNtNVMzZ3VEUnhCdnpPS0swMGhid2lfY085RmU?oc=5",
-          "date": "08-20 00:31"
         }
       ],
       "newsKr": [
@@ -2069,7 +2069,7 @@
             "price": 1169.66
           },
           {
-            "time": "09:18",
+            "time": "09:21",
             "price": 1172.0
           }
         ],
@@ -2434,7 +2434,7 @@
             "price": 1926.14
           },
           {
-            "time": "09:18",
+            "time": "09:21",
             "price": 1930.0
           }
         ]
@@ -2507,17 +2507,17 @@
       "description": "실시간 원/달러 환율 추이 및 일일 매매기준율",
       "newsKeywords": "US Dollar Korean Won USD KRW exchange rate news",
       "naverQuery": "원달러 환율 전망",
-      "price": 1384.88,
-      "change": -28.7,
-      "changePercent": -2.03,
+      "price": 1385.08,
+      "change": -28.5,
+      "changePercent": -2.02,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1390.68,
-      "low24h": 1384.78,
+      "low24h": 1384.07,
       "high7d": 1416.85,
-      "low7d": 1384.88,
+      "low7d": 1385.08,
       "high1m": 1487.39,
-      "low1m": 1384.88,
+      "low1m": 1385.08,
       "volume": 0,
       "sparkline": [
         1412.18,
@@ -2526,7 +2526,7 @@
         1415.37,
         1414.73,
         1413.58,
-        1384.88
+        1385.08
       ],
       "history": {
         "7D": [
@@ -2556,7 +2556,7 @@
           },
           {
             "date": "08-20",
-            "price": 1384.88
+            "price": 1385.08
           }
         ],
         "1M": [
@@ -2654,25 +2654,25 @@
           },
           {
             "date": "08-20",
-            "price": 1384.88
+            "price": 1385.08
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1376.57
+            "price": 1376.77
           },
           {
             "time": "11:00",
-            "price": 1379.34
+            "price": 1379.54
           },
           {
             "time": "13:00",
-            "price": 1382.11
+            "price": 1382.31
           },
           {
-            "time": "09:18",
-            "price": 1384.88
+            "time": "09:21",
+            "price": 1385.08
           }
         ],
         "1Y": [
@@ -2726,7 +2726,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1384.88
+            "price": 1385.08
           }
         ]
       },
@@ -2798,13 +2798,13 @@
       "description": "실시간 원/유로 환율 추이 및 일일 매매기준율",
       "newsKeywords": "Euro Korean Won EUR KRW exchange rate news",
       "naverQuery": "원유로 환율 전망",
-      "price": 1619.1,
-      "change": -15.82,
-      "changePercent": -0.97,
+      "price": 1616.4,
+      "change": -18.52,
+      "changePercent": -1.13,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1621.6,
-      "low24h": 1618.6,
+      "low24h": 1616.4,
       "high7d": 1638.16,
       "low7d": 1582.09,
       "high1m": 1700.58,
@@ -2817,7 +2817,7 @@
         1582.09,
         1638.16,
         1634.92,
-        1619.1
+        1616.4
       ],
       "history": {
         "7D": [
@@ -2847,7 +2847,7 @@
           },
           {
             "date": "08-20",
-            "price": 1619.1
+            "price": 1616.4
           }
         ],
         "1M": [
@@ -2945,25 +2945,25 @@
           },
           {
             "date": "08-20",
-            "price": 1619.1
+            "price": 1616.4
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1609.39
+            "price": 1606.7
           },
           {
             "time": "11:00",
-            "price": 1612.62
+            "price": 1609.93
           },
           {
             "time": "13:00",
-            "price": 1615.86
+            "price": 1613.17
           },
           {
-            "time": "09:18",
-            "price": 1619.1
+            "time": "09:21",
+            "price": 1616.4
           }
         ],
         "1Y": [
@@ -3017,7 +3017,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1619.1
+            "price": 1616.4
           }
         ]
       },
