@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-21 12:44:01",
+  "last_updated": "2026-08-21 13:31:09",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 12:44",
+    "report_date": "2026.08.21, 13:31",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -18,7 +18,7 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,173.50 (▲0.39%)",
+      "팜유 : $1,181.25 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
@@ -29,11 +29,11 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,173.50 (▲0.39%)",
+      "팜유 : $1,181.25 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.38원 (▼7.02원)",
-    "fx_eur": "1,617.50원 (▼2.73원)",
+    "fx_usd": "1,382.13원 (▼7.27원)",
+    "fx_eur": "1,615.50원 (▼4.73원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 12:44",
+    "report_date": "2026.08.21, 13:31",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -54,7 +54,7 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,173.50 (▲0.39%)",
+      "팜유 : $1,181.25 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
@@ -65,17 +65,17 @@
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,173.50 (▲0.39%)",
+      "팜유 : $1,181.25 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.38원 (▼7.02원)",
-    "fx_eur": "1,617.50원 (▼2.73원)",
+    "fx_usd": "1,382.13원 (▼7.27원)",
+    "fx_eur": "1,615.50원 (▼4.73원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-21T12:44:01.077247+09:00",
-  "usdKrwRate": 1382.68,
-  "eurKrwRate": 1617.5,
+  "lastUpdated": "2026-08-21T13:31:09.770856+09:00",
+  "usdKrwRate": 1382.18,
+  "eurKrwRate": 1615.5,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5999.98
           },
           {
-            "time": "12:43",
+            "time": "13:30",
             "price": 6012.0
           }
         ],
@@ -173,10 +173,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "07-20",
-            "price": 5520.0
-          },
           {
             "date": "07-21",
             "price": 5607.0
@@ -430,7 +426,7 @@
             "price": 7223.29
           },
           {
-            "time": "12:43",
+            "time": "13:31",
             "price": 7237.77
           }
         ],
@@ -465,10 +461,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "07-20",
-            "price": 7372.25
-          },
           {
             "date": "07-21",
             "price": 7318.24
@@ -617,12 +609,6 @@
           "date": "08-20 00:51"
         },
         {
-          "title": "Arabica Coffee Prices Surge on NYSE: Colombian Earthquake and Brazil Harvest Delays - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUpwZUFyMTAwS1ZNbTNjcGhPSW1ydFlsYmQ1aF9HQ18xeWpGTjIxSU4xSDhFcnhLTTdpM1RIRmZQWUJ1dm9lT0ZEcUg0SjJkb2o3aFdjQ21iWjJqNTYxdU1PaUZOdXNteGRwek1UOGdzQlpFMDg3QzFOaGtIVGxZN1dhSFA0bklMYXNScEtHZkN0OFFtcllnYXgyREZzZExKMjUzZEpHU09zSDdwVTBVbEZodUs4djlBOG5aSQ?oc=5",
-          "date": "08-18 13:10"
-        },
-        {
           "title": "Agricultural commodity prices today, August 18, 2026: Coffee prices unlikely to break through, exports from Brazil about to accelerate; Oil prices return to the $90 mark, US and Iran tighten their positions. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOakhCR1hCS0o5Tnplbi13dVUtSGIyM3hldm9CWVpsNmZDZW1NV2xNODc3djIzQ0RGeW1mZV9Lajc4RW8zT20wa1loVzdVZklmLWJCTThYZUlkNm53X3BMZDV4VkxwNHEyN0pDX2piNWxRODRxbDJsUTZrZjBJN2NMenpsZktqX0R5WlhBVFE5WlB4MV9vczlmelpDLWFvRGltb0VBbFA3OS00NkNFdUt4NjE3eEdNbHR4a2VXYjRKZE5nVzkxcjhHT1VWYjRYSTM5dGZKZFJ0MnBLa0EtR0kyZnlkajduQ1VpeUhRWk9XeFJyRGItWlMtenFYUW1RZmQx?oc=5",
@@ -633,6 +619,12 @@
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZW5mRlpadnhHaEFiak11NHFOUjVNRklTbENMRjB3RjQ0U2lwUjMyWjM2VF9FbjJ4MGNmR3RVQTY0eTkwYmFYUHJELVVYQ3BnUGdUaFdsUDY1eUxuVWswN2xjMXBtWms4N1hmNFVFVWRwMWNNaUx3MlNHQXFDSUgxVlV6UUR0SFRtZ1FELTNGdktpUmpqQUtqeXNWbTlzTV8zMEpIcm9uZURCRzZPTmdkeTc2akh0TFdsZ3pPM2tFWk1yanNhNDVLaGIxTG9MM2ExSVAtaERleXBOdjB2RXhOVHJQaFZoQQ?oc=5",
           "date": "08-19 15:06"
+        },
+        {
+          "title": "Brazil Coffee Harvest Pressures Weigh on Coffee Prices - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEF1TWpoeGpuRzZvQzhiUG5yVDZyQmlfc3BXQjk3M01xU3dSTlJHVXhiV0lXX2JYc1V4dUVGbGZlaUFsUTBIR1NjZmRKa1dTeEkwT2VGclBVSnk0OE5aNjlmZ3poR2FxMi1PU1VJOFp5a0k3YXJPaXRReDJ5RDd3TlJNOG8xa0tDRVhTc0tXSHAyRUs1cFhNNExMOTFVeUU?oc=5",
+          "date": "08-20 03:22"
         }
       ],
       "newsKr": [
@@ -847,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "12:43",
+            "time": "13:31",
             "price": 3728.0
           }
         ],
@@ -1176,16 +1168,16 @@
           "date": "08-20 06:14"
         },
         {
-          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
-          "date": "08-20 02:52"
-        },
-        {
           "title": "GDT index up 2.3% after latest trading event - Agriland",
           "source": "Agriland",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
+        },
+        {
+          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
+          "date": "08-20 02:52"
         }
       ],
       "newsKr": [
@@ -1932,16 +1924,16 @@
       },
       "newsEn": [
         {
-          "title": "Knowledge Nook Sessions Feature Information Shaping Global Dairy Industry - Madison's Country Q106",
-          "source": "Madison's Country Q106",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVJQWW5HOElnOVJvbmo2bTVkNTZPRlhPdTlkcFRzZzZselZVS0pPQjNWM0tzdjhZQ0ExQ0pxaURXdFFMNS05QVZQVjE2bm44Qk9kS2JzbXZpOXZCUUdKVlVadlpONjVuTWt6WGNxSU4wSVhMelUxYko2RG1jZWpwUDNXSUpqdHV4SnljTzBCNnNSejJYc2UxdFI5d0RncG9WUnpHZmFpZWpEdw?oc=5",
-          "date": "08-21 05:02"
-        },
-        {
           "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
           "source": "Brownfield Ag News",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRHbHF2bmJrbE5GZ1dkNVJyTjRHSTF0akhTTHBtV3FoR0hXTEdHSEJiNFF0RkwtaGdONEV0V0hkOElTTEFyZ3FjYTJ4cDRaNThILXBqY3gyaFJrRFdEdFZRVWF2NngzQ2RHa1FIc3JDb2hoenlycHd1WGlpOWpmdmtpS1RheFN5V19uSmtobFY2YlByR0RJeEwxX2M2ZEY4QlZSX2FZVG1YcVdCZXB6c0V5OG1xRWQ2U2tnMXpLWm4?oc=5",
           "date": "08-20 04:07"
+        },
+        {
+          "title": "Knowledge Nook Sessions Feature Information Shaping Global Dairy Industry - Madison's Country Q106",
+          "source": "Madison's Country Q106",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVJQWW5HOElnOVJvbmo2bTVkNTZPRlhPdTlkcFRzZzZselZVS0pPQjNWM0tzdjhZQ0ExQ0pxaURXdFFMNS05QVZQVjE2bm44Qk9kS2JzbXZpOXZCUUdKVlVadlpONjVuTWt6WGNxSU4wSVhMelUxYko2RG1jZWpwUDNXSUpqdHV4SnljTzBCNnNSejJYc2UxdFI5d0RncG9WUnpHZmFpZWpEdw?oc=5",
+          "date": "08-21 05:02"
         },
         {
           "title": "Nonfat Dry Milk Gains At CME While Butter And Dry Whey Soften In Midweek Trade - en.edairynews.com",
@@ -2007,33 +1999,29 @@
           "대체 식물성 유지인 대두유(Soybean Oil) 가격 추이"
         ]
       },
-      "price": 1173.5,
-      "change": 1.5,
-      "changePercent": 0.13,
+      "price": 1181.25,
+      "change": 7.75,
+      "changePercent": 0.66,
       "high52w": 1193.5,
       "low52w": 820.0,
       "high24h": 820.0,
       "low24h": 820.0,
-      "high7d": 1173.5,
+      "high7d": 1181.25,
       "low7d": 1157.0,
-      "high1m": 1173.5,
+      "high1m": 1181.25,
       "low1m": 1122.5,
       "volume": 10,
       "sparkline": [
-        1163.75,
         1157.0,
         1161.75,
         1162.0,
         1164.5,
         1172.0,
-        1173.5
+        1173.5,
+        1181.25
       ],
       "history": {
         "7D": [
-          {
-            "date": "08-11",
-            "price": 1163.75
-          },
           {
             "date": "08-12",
             "price": 1157.0
@@ -2057,13 +2045,13 @@
           {
             "date": "08-19",
             "price": 1173.5
+          },
+          {
+            "date": "08-20",
+            "price": 1181.25
           }
         ],
         "1M": [
-          {
-            "date": "07-20",
-            "price": 1125.25
-          },
           {
             "date": "07-21",
             "price": 1122.5
@@ -2151,24 +2139,28 @@
           {
             "date": "08-19",
             "price": 1173.5
+          },
+          {
+            "date": "08-20",
+            "price": 1181.25
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1166.46
+            "price": 1174.16
           },
           {
             "time": "11:00",
-            "price": 1168.81
+            "price": 1176.53
           },
           {
             "time": "13:00",
-            "price": 1171.15
+            "price": 1178.89
           },
           {
-            "time": "12:43",
-            "price": 1173.5
+            "time": "13:31",
+            "price": 1181.25
           }
         ],
         "1Y": [
@@ -2224,10 +2216,10 @@
       },
       "newsEn": [
         {
-          "title": "CPO Futures End Higher For Fourth Straight Session On Supply Concerns, Soybean Oil Gains - Bernama",
-          "source": "Bernama",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yd0FoZ251SDNxM25XWTVxcV9fSUdWSmRLcWNHSjA5ckdYRWlFa3ZGWkJvdmI3RnF2dnpZc01DLWEwVHB6YzZydDRNWElVbVR0cVROTk92WF9wdS1zSTMtT0tlYw?oc=5",
-          "date": "08-21 00:10"
+          "title": "CPO Futures End Higher For Fourth Straight Session On Supply Concerns, Soybean Oil Gains - BernamaBiz",
+          "source": "BernamaBiz",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9feTlmeWs2RVJzQUVBN0hGVlhwRHlYVWVjX2FsU1VwWFEyWXVyLVd2TU5yQjBIV0tlR0hqQy1LeEhncmY4ZGdOcU1iVWVnZVdZaVhJSUVQYWRzQQ?oc=5",
+          "date": "08-21 05:05"
         },
         {
           "title": "Palm Oil Prices Seen Holding Above RM4,600 as Supply Tightens, Genting Posts Profit Dip - finance.biggo.com",
@@ -2236,16 +2228,16 @@
           "date": "08-20 08:25"
         },
         {
-          "title": "BMI Raises 2026 Average CPO Price Forecast To RM4,453 On Tight Supply - BernamaBiz",
-          "source": "BernamaBiz",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FYzBLOTl6TmM4ck1qN1FBYVdMSG40N1pMMXRRaWN2NFRRaG9CdURlWG9iMmV6ZE1sUFJQTVlVZ3hpNWFpU0FvX1g4aTBDM2p5VnRsSGQwb3IwUQ?oc=5",
-          "date": "08-20 17:05"
-        },
-        {
           "title": "European FOB Dutch Mill Rapeseed Oil (Argus) - CME Group",
           "source": "CME Group",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVm56RWZwNlg0YVZKNzdXM1ptVU44QlVGanhXMktVVS1Jcnl3UDYzRnN2WmV6RFVwZVhtOVQ4UWgydHJVTWRnYTFIZHJLUGdoRzV0Rlg0cmx2a0hpTVZqcldsQ2szcVlJWV9kSXU2Nl9nNTBxdFpfLTEtNXpjVWNKSXZXelQyTUFrcVY2NHd6ai1ELXhGeHJpM2Qwa3U?oc=5",
           "date": "08-18 18:25"
+        },
+        {
+          "title": "MPOC Sees Palm Oil Price Staying Above RM4,600 In September - BusinessToday Malaysia",
+          "source": "BusinessToday Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGpsZTZfNEthMngzTlJPSnZOSUNVQXktazR1OWprdk11SEt0NzRId0hhYWZUUGxublBpQlBLRHJXdHlpUHFkNlIxVXpiX05wUVRXZC1HZGoySVkyY2JvNlVEQTBnWVc1cVEtdVRGMElnZ00wNzVPeDJzMmxLNUNnUEUtMGNCSDFYZ3NPM3VWTld5bzNINTItd25TVm9BdmtKcHhzd2VR?oc=5",
+          "date": "08-19 18:08"
         }
       ],
       "newsKr": [
@@ -2541,7 +2533,7 @@
             "price": 1926.14
           },
           {
-            "time": "12:43",
+            "time": "13:31",
             "price": 1930.0
           }
         ]
@@ -2623,17 +2615,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1382.38,
-      "change": -7.02,
-      "changePercent": -0.51,
+      "price": 1382.13,
+      "change": -7.27,
+      "changePercent": -0.52,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1394.71,
       "low24h": 1379.98,
       "high7d": 1416.85,
-      "low7d": 1382.38,
+      "low7d": 1382.13,
       "high1m": 1479.72,
-      "low1m": 1382.38,
+      "low1m": 1382.13,
       "volume": 0,
       "sparkline": [
         1416.46,
@@ -2642,7 +2634,7 @@
         1414.73,
         1413.58,
         1389.4,
-        1382.38
+        1382.13
       ],
       "history": {
         "7D": [
@@ -2672,7 +2664,7 @@
           },
           {
             "date": "08-21",
-            "price": 1382.38
+            "price": 1382.13
           }
         ],
         "1M": [
@@ -2770,25 +2762,25 @@
           },
           {
             "date": "08-21",
-            "price": 1382.38
+            "price": 1382.13
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1374.09
+            "price": 1373.84
           },
           {
             "time": "11:00",
-            "price": 1376.85
+            "price": 1376.6
           },
           {
             "time": "13:00",
-            "price": 1379.62
+            "price": 1379.37
           },
           {
-            "time": "12:44",
-            "price": 1382.38
+            "time": "13:31",
+            "price": 1382.13
           }
         ],
         "1Y": [
@@ -2842,7 +2834,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1382.38
+            "price": 1382.13
           }
         ]
       },
@@ -2923,9 +2915,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1617.5,
-      "change": -2.73,
-      "changePercent": -0.17,
+      "price": 1615.5,
+      "change": -4.73,
+      "changePercent": -0.29,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1628.5,
@@ -2942,7 +2934,7 @@
         1638.16,
         1634.92,
         1620.23,
-        1617.5
+        1615.5
       ],
       "history": {
         "7D": [
@@ -2972,7 +2964,7 @@
           },
           {
             "date": "08-21",
-            "price": 1617.5
+            "price": 1615.5
           }
         ],
         "1M": [
@@ -3066,25 +3058,25 @@
           },
           {
             "date": "08-21",
-            "price": 1617.5
+            "price": 1615.5
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1607.8
+            "price": 1605.81
           },
           {
             "time": "11:00",
-            "price": 1611.03
+            "price": 1609.04
           },
           {
             "time": "13:00",
-            "price": 1614.27
+            "price": 1612.27
           },
           {
-            "time": "12:44",
-            "price": 1617.5
+            "time": "13:31",
+            "price": 1615.5
           }
         ],
         "1Y": [
@@ -3138,7 +3130,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1617.5
+            "price": 1615.5
           }
         ]
       },
@@ -3148,12 +3140,6 @@
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOFY4dFd1VHc1SnY5WHAzQmlvdG92NnVhV0JrNEFFWDhrUnZsQU4xQ3ZkZ0d5c2lFelU4dXAxZEs5QXlwY1RxVVNIYWJpQkoyWUFMdFNxVzlzd0ZqTExfUFZpakpkRnIwWTk1ZDlhSjNKUFVGM2lZY2pxN2lUWlBqYURtbkdQYmtOcExCb05rQXpITEIyVEJ2NHVhUzFCeEd3VmRrYXlyZ1hBZkgxVld0dXowcmw?oc=5",
           "date": "08-20 05:44"
-        },
-        {
-          "title": "Euro and pound probe multi-month highs while Yen hovers near 160 zone - Investing.com Nigeria",
-          "source": "Investing.com Nigeria",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnNLQXZHbm41QlFWNzZNOWhYYTBYeml6ckg4T2ZsTGdQbl9fajBfeE9icHlvSkJBNUtWaWhac3FLbDR4LWNrNFc4MXNYY1ZpLWxNYXZkMUpSLVBzNzRCVDRkLVkzTXRVVjBoeXRqQnEwTk9RQlJBX0NsUHJqYy1HdWV6U0RSdTdMNGdaSmIzaURlcmh0NHZDUkdEcVlnbmljSmd6ZTNCb0xXVzZMOTZpeldYYw?oc=5",
-          "date": "08-19 19:25"
         },
         {
           "title": "Azerbaijani currency to world currency rates for August 19 - trend.az",
@@ -3166,6 +3152,12 @@
           "source": "Report.az",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00cU0wai00bUtfQUZNYk54dXZBaXFPc0NKQ3hhSmVhVEkwenFFQkF5YU1hOWFsOFpqdDRGOVpqNndPdkcxdlhMaWNkTUhCS29yYVczTjhEeDZDb0dmSlRQN2pHaEV1V3otV2lXYm5QYkgxUG1JQnJxQlh4b9IBe0FVX3lxTE00cU0wai00bUtfQUZNYk54dXZBaXFPc0NKQ3hhSmVhVEkwenFFQkF5YU1hOWFsOFpqdDRGOVpqNndPdkcxdlhMaWNkTUhCS29yYVczTjhEeDZDb0dmSlRQN2pHaEV1V3otV2lXYm5QYkgxUG1JQnJxQlh4bw?oc=5",
           "date": "08-18 14:32"
+        },
+        {
+          "title": "Euro and pound probe multi-month highs while Yen hovers near 160 zone - Investing.com Australia",
+          "source": "Investing.com Australia",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVE5amstWE96ZVFTM0x2NmlzeG9Ya0JyX2pGdllNWlZfLWtWc2twMl9nVzZWZ1AyRFdJdGxqZHY1NXVJQW0xVTE1UjdDenN0dFVrV0wyMTFiN3hMV0FYa0oybzV6VEpWZW83MUVRTnVhUFB6WEdDVHhXOEhZRnYxc1dUbUpBbG9rUWxGMkFiNnlpZ1Bqb1FBRDNLN3BFeExfS3ZJeVBWMnN6SjJ2a1prUk9Vaw?oc=5",
+          "date": "08-19 19:19"
         }
       ],
       "newsKr": [
@@ -3184,7 +3176,7 @@
         {
           "title": "고환율 부담 줄었지만…유가·폭염에 하반기 물가 '긴장' - 뉴시스",
           "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRRW96Z25WZlVBMzRpMHFOUUJFWmxZX2tNUFFFOHJoMXBSbjR3OHVXN2RhUGxUN0JLYU1CUGtTS0RuX1BKaHR2bTZ6b2F6NWRiYTZacGVPUlZLNllFTElmVS1uVnNvZHZfRE9tNTFyTFJHd1pTejg4UtIBeEFVX3lxTFBRRW96Z25WZlVBMzRpMHFOUUJFWmxZX2tNUFFFOHJoMXBSbjR3OHVXN2RhUGxUN0JLYU1CUGtTS0RuX1BKaHR2bTZ6b2F6NWRiYTZacGVPUlZLNllFTElmVS1uVnNvZHZfRE9tNTFyTFJHd1pTejg4Ug?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ONG15NnZodTJzNTg1cUs2TW00ZFVMWktqZTBqbzQyckx5S3FBWlIwTlQwQmlaeDV2LXN0V1REanNiUWVZakZPQlEtS2hVa1R4U19EY1lDNFlCUmFKdmxTQdIBeEFVX3lxTFBRRW96Z25WZlVBMzRpMHFOUUJFWmxZX2tNUFFFOHJoMXBSbjR3OHVXN2RhUGxUN0JLYU1CUGtTS0RuX1BKaHR2bTZ6b2F6NWRiYTZacGVPUlZLNllFTElmVS1uVnNvZHZfRE9tNTFyTFJHd1pTejg4Ug?oc=5",
           "date": "08-21 06:00"
         },
         {
