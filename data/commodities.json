@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-21 09:53:21",
+  "last_updated": "2026-08-21 11:20:39",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 09:53",
+    "report_date": "2026.08.21, 11:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.99원 (▼3.41원)",
-    "fx_eur": "1,618.60원 (▼1.63원)",
+    "fx_usd": "1,381.32원 (▼8.08원)",
+    "fx_eur": "1,613.90원 (▼6.33원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.21",
-    "report_date": "2026.08.21, 09:53",
+    "report_date": "2026.08.21, 11:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,237.77 (▼8.68%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,173.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.99원 (▼3.41원)",
-    "fx_eur": "1,618.60원 (▼1.63원)",
+    "fx_usd": "1,381.32원 (▼8.08원)",
+    "fx_eur": "1,613.90원 (▼6.33원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-21T09:53:21.600277+09:00",
-  "usdKrwRate": 1385.78,
-  "eurKrwRate": 1618.6,
+  "lastUpdated": "2026-08-21T11:20:39.610712+09:00",
+  "usdKrwRate": 1380.94,
+  "eurKrwRate": 1613.9,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5999.98
           },
           {
-            "time": "09:53",
+            "time": "11:20",
             "price": 6012.0
           }
         ],
@@ -348,7 +348,7 @@
           "title": "미국 코코아 선물(COCOA-F) 종목이 8월19일에 2.26% 상승했습니다. 시장이 가격을 다시 책정하고 있나요? - TradingKey",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWxSdWdrNU1WbG1hYnYzUk13eEZ6dFMtQmNhUGdEWmM4YmxQUmZhRFJ1VzR4VGNXbEUxWGxuNW5iVnp3RGx6S1FnR0hURWZhMjdxbE5XbXN3ZXpRc1NkTTRBYVVXczA3clFiZ292eTZhNS1TSG5FdUQ2X3JyVW9feUE5SHJCbWRVRGk5RVJmYmJoTk0?oc=5",
-          "date": "08-19 11:05"
+          "date": "08-19 20:05"
         },
         {
           "title": "코코아 버터 환산량(CBE) 시장 규모, 점유율, 성장률, 2034년 - Straits Research",
@@ -430,7 +430,7 @@
             "price": 7223.29
           },
           {
-            "time": "09:53",
+            "time": "11:20",
             "price": 7237.77
           }
         ],
@@ -847,7 +847,7 @@
             "price": 3720.54
           },
           {
-            "time": "09:53",
+            "time": "11:20",
             "price": 3728.0
           }
         ],
@@ -1176,16 +1176,16 @@
           "date": "08-20 06:14"
         },
         {
-          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
-          "date": "08-20 02:52"
-        },
-        {
           "title": "GDT index up 2.3% after latest trading event - Agriland",
           "source": "Agriland",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
+        },
+        {
+          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
+          "date": "08-20 02:52"
         }
       ],
       "newsKr": [
@@ -1932,10 +1932,10 @@
       },
       "newsEn": [
         {
-          "title": "Nonfat Dry Milk Gains At CME While Butter And Dry Whey Soften In Midweek Trade - en.edairynews.com",
-          "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGZJQjFxUmNVZ3pGbnZub3VHTU5aaHRldGwtdF9KeERrcUhCM3VDQ1dmV2tveXRfdUwtQlA3dDRrYkVRcGxKNU41SmY3NzF2eFdzLU5GeGxJbG1JZlVTbkZ2Rnd3OGZod0lWWUhZSnM4cFhzUmxYRk1pWjZsT25MbEdzS3lJSE9Sd2pZcGdVcGNXdzMyVGZPSWI0VzRjT3o3TDBZWEc2Q04?oc=5",
-          "date": "08-20 18:42"
+          "title": "Knowledge Nook Sessions Feature Information Shaping Global Dairy Industry - Madison's Country Q106",
+          "source": "Madison's Country Q106",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVJQWW5HOElnOVJvbmo2bTVkNTZPRlhPdTlkcFRzZzZselZVS0pPQjNWM0tzdjhZQ0ExQ0pxaURXdFFMNS05QVZQVjE2bm44Qk9kS2JzbXZpOXZCUUdKVlVadlpONjVuTWt6WGNxSU4wSVhMelUxYko2RG1jZWpwUDNXSUpqdHV4SnljTzBCNnNSejJYc2UxdFI5d0RncG9WUnpHZmFpZWpEdw?oc=5",
+          "date": "08-21 05:02"
         },
         {
           "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
@@ -1944,16 +1944,16 @@
           "date": "08-20 04:07"
         },
         {
+          "title": "Nonfat Dry Milk Gains At CME While Butter And Dry Whey Soften In Midweek Trade - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGZJQjFxUmNVZ3pGbnZub3VHTU5aaHRldGwtdF9KeERrcUhCM3VDQ1dmV2tveXRfdUwtQlA3dDRrYkVRcGxKNU41SmY3NzF2eFdzLU5GeGxJbG1JZlVTbkZ2Rnd3OGZod0lWWUhZSnM4cFhzUmxYRk1pWjZsT25MbEdzS3lJSE9Sd2pZcGdVcGNXdzMyVGZPSWI0VzRjT3o3TDBZWEc2Q04?oc=5",
+          "date": "08-20 18:42"
+        },
+        {
           "title": "Q2 2026 dairy trade review: cheese exports at an all-time high, whilst other categories disappoint - AHDB",
           "source": "AHDB",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xNRDVwZXJFV2FyUDhHYlNfRHhzdnpob3p1ZXk1ZENLMW0zc3NwTlEyNEUxd0Zhc1pmSmkwZE5IeTNZRFlZOTFUNWs2ZmtObkpTZWo2YjJnNkg0SU85d2ozLTdOc2ZJa3VhUUNvRWFlZWpJSnlXZHI0RGF0c3UwQnExdHlsQUg3bUd4TFJDanliMS1jZnhSQ2dOdXotZnlfZ0VNb29nT2ZLdDg2dUNZLU15WGRMMG5ROU1PS2JR?oc=5",
           "date": "08-21 00:16"
-        },
-        {
-          "title": "Fertilizer prices are expected to remain above pre-Iran war levels through 2028 - Farmers' Advance",
-          "source": "Farmers' Advance",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWh5SWhHUzlMd3JncGlaUFY2eXVzUV9tZklwcmtqU0l0U0NqTUhVT21mZk9qeURCRXVJUEZVS3d6TEc5UjltOFF3YXl3NUNGbkVia084SVpWQl9HZlZVeVZPbkNXX05QX0h1ckJCaGVPc1lkdGE0c2JNM3YxMlJlRl9fbnZNMEV5UXBmY2VHMWRVT19OeE9XeVNNNW9VQ2taVFRjYnpmNEsyZ0FMZDhwaHljM2RTRDBNQ2huTHdTVGN4S2ZPdXJoVVAzUVcxdWRKcFZoRk5jUWxFV2FiZHc?oc=5",
-          "date": "08-20 04:34"
         }
       ],
       "newsKr": [
@@ -2167,7 +2167,7 @@
             "price": 1171.15
           },
           {
-            "time": "09:53",
+            "time": "11:20",
             "price": 1173.5
           }
         ],
@@ -2541,7 +2541,7 @@
             "price": 1926.14
           },
           {
-            "time": "09:53",
+            "time": "11:20",
             "price": 1930.0
           }
         ]
@@ -2623,17 +2623,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.99,
-      "change": -3.41,
-      "changePercent": -0.25,
+      "price": 1381.32,
+      "change": -8.08,
+      "changePercent": -0.58,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1394.71,
-      "low24h": 1384.08,
+      "low24h": 1380.28,
       "high7d": 1416.85,
-      "low7d": 1385.99,
+      "low7d": 1381.32,
       "high1m": 1479.72,
-      "low1m": 1385.99,
+      "low1m": 1381.32,
       "volume": 0,
       "sparkline": [
         1416.46,
@@ -2642,7 +2642,7 @@
         1414.73,
         1413.58,
         1389.4,
-        1385.99
+        1381.32
       ],
       "history": {
         "7D": [
@@ -2672,7 +2672,7 @@
           },
           {
             "date": "08-21",
-            "price": 1385.99
+            "price": 1381.32
           }
         ],
         "1M": [
@@ -2770,25 +2770,25 @@
           },
           {
             "date": "08-21",
-            "price": 1385.99
+            "price": 1381.32
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.67
+            "price": 1373.03
           },
           {
             "time": "11:00",
-            "price": 1380.45
+            "price": 1375.79
           },
           {
             "time": "13:00",
-            "price": 1383.22
+            "price": 1378.56
           },
           {
-            "time": "09:53",
-            "price": 1385.99
+            "time": "11:20",
+            "price": 1381.32
           }
         ],
         "1Y": [
@@ -2842,7 +2842,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1385.99
+            "price": 1381.32
           }
         ]
       },
@@ -2892,10 +2892,10 @@
           "date": "08-21 08:04"
         },
         {
-          "title": "[포커스] 최근 환율 하락 원인과 향후 전망 - CEONEWS",
-          "source": "CEONEWS",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRmpmNWdLZG9NeGVPZUhEc2lsdjNkek5ydS1UUWV6RUg1UkdlUmJxa3J0SkVoZGdTZEZLeWFhMFR4ZWsxWFBjaFVDN0NzUlpUM0xYVzBtZWFXWnctVmY0?oc=5",
-          "date": "08-20 12:54"
+          "title": "원·달러 환율 1350원까지 추가 하락 전망 - 메디컬투데이",
+          "source": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zaGt3c0g3T2FMNzM0aUtTMWVMb0ozbkNDZHg0amdmbi01ZWEtVnlaWFlqUjZmWFdHSkRpZTUtZVUxa3gyUGo0bzU5Qmc0cW9QX0IwQk1aLUQ5UGJUT0tZTWFIVGhxRzROMlB2OA?oc=5",
+          "date": "08-21 08:36"
         }
       ]
     },
@@ -2923,36 +2923,36 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1618.6,
-      "change": -1.63,
-      "changePercent": -0.1,
+      "price": 1613.9,
+      "change": -6.33,
+      "changePercent": -0.39,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1628.5,
-      "low24h": 1617.3,
+      "low24h": 1613.0,
       "high7d": 1638.16,
       "low7d": 1582.09,
       "high1m": 1687.03,
       "low1m": 1582.09,
       "volume": 0,
       "sparkline": [
+        1628.62,
         1632.86,
-        1634.19,
         1582.09,
         1638.16,
         1634.92,
         1620.23,
-        1618.6
+        1613.9
       ],
       "history": {
         "7D": [
           {
-            "date": "08-12",
-            "price": 1632.86
+            "date": "08-11",
+            "price": 1628.62
           },
           {
-            "date": "08-13",
-            "price": 1634.19
+            "date": "08-12",
+            "price": 1632.86
           },
           {
             "date": "08-16",
@@ -2972,7 +2972,7 @@
           },
           {
             "date": "08-21",
-            "price": 1618.6
+            "price": 1613.9
           }
         ],
         "1M": [
@@ -3049,10 +3049,6 @@
             "price": 1632.86
           },
           {
-            "date": "08-13",
-            "price": 1634.19
-          },
-          {
             "date": "08-16",
             "price": 1582.09
           },
@@ -3070,25 +3066,25 @@
           },
           {
             "date": "08-21",
-            "price": 1618.6
+            "price": 1613.9
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1608.89
+            "price": 1604.22
           },
           {
             "time": "11:00",
-            "price": 1612.13
+            "price": 1607.44
           },
           {
             "time": "13:00",
-            "price": 1615.36
+            "price": 1610.67
           },
           {
-            "time": "09:53",
-            "price": 1618.6
+            "time": "11:20",
+            "price": 1613.9
           }
         ],
         "1Y": [
@@ -3142,7 +3138,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1618.6
+            "price": 1613.9
           }
         ]
       },
@@ -3186,16 +3182,16 @@
           "date": "08-21 06:00"
         },
         {
+          "title": "원·달러 환율 11개월 만에 최저… 국제유가·폭염에 하반기 물가 불확실성 여전 - christiandaily.co.kr",
+          "source": "christiandaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03Z1hjYld6NkJMdlIwQWxiTGZYQUJfZzJKdWFBWERzdDg2RHI0ZjVreGxaQjBsLUkwdGQtWXhzTExtdktBdmp3eERqV2o0bzJCOV9yZGlIRXN1MDB00gFcQVVfeXFMTTdnWGNiV3o2Qkx2UjBBbGJMZlhBQl9nMkp1YUFYRHN0ODZEcjRmNWt4bFpCMGwtSTB0ZC1ZeHNMTG12S0F2and4RGpXajRvMkI5X3JkaUhFc3UwMHQ?oc=5",
+          "date": "08-21 08:29"
+        },
+        {
           "title": "[포커스] 최근 환율 하락 원인과 향후 전망 - CEONEWS",
           "source": "CEONEWS",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRmpmNWdLZG9NeGVPZUhEc2lsdjNkek5ydS1UUWV6RUg1UkdlUmJxa3J0SkVoZGdTZEZLeWFhMFR4ZWsxWFBjaFVDN0NzUlpUM0xYVzBtZWFXWnctVmY0?oc=5",
           "date": "08-20 12:54"
-        },
-        {
-          "title": "[전망] 9월 국내 LPG 판매가격 '동결' 무게 - 투데이에너지",
-          "source": "투데이에너지",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5TllJWTRENTBrZEdXVXh0eU9tMXpkOW1kWHV1OHBtSnFydzBrbnU0YlFqVUJFZTk5YnByaEhweTN1R1NiMTd0VTRLZnVqNVVGNUZJQ3dPNVBiQ3RoRTRnRlltNFh6TzU5Q1BwOFpB?oc=5",
-          "date": "08-20 15:21"
         }
       ]
     }
