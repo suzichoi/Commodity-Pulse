@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-22 06:16:46",
+  "last_updated": "2026-08-22 07:16:24",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 06:16",
+    "report_date": "2026.08.22, 07:16",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 06:16",
+    "report_date": "2026.08.22, 07:16",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-22T06:16:46.224934+09:00",
+  "lastUpdated": "2026-08-22T07:16:24.447662+09:00",
   "usdKrwRate": 1385.98,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 5981.0
           }
         ],
@@ -430,7 +430,7 @@
             "price": 7148.48
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 7162.81
           }
         ],
@@ -649,16 +649,16 @@
           "date": "08-21 20:34"
         },
         {
-          "title": "오늘 8월 21일 커피 가격: 세계 로부스타 가격 하락에도 소폭 상승 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk1MRjQ0U0lFbFd4azh6TXRVdHY4eTdubU5WZERQSG5VdEUxWHhhbDQwck0tN0E5Y1RHbzBqN1pYbmw3c2F4eXBIY2xTZUNyVEtNbTZ6NkYtdkNTUXVqYUViRFJUTG5fUE84Tk5vVHRxeXhNTTJOYkJNVGhYUVA2QmRUOEt6Z2tvejVhQzBpdVZyTmdEeXV4UENtOEFlX1lQVzA4?oc=5",
-          "date": "08-21 15:03"
-        },
-        {
           "title": "8월 21일 농산물 가격: 커피 가격은 혼조세를 보였고, 고무 가격은 상승했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEw1X0lScmRlRUtmemtJenFVcWk3dEtzUjNBRXpmSWM5c1Q4YV92d0VzRjhkLXZDRjFEM0JmNU02X0ZBZS1ZbXZubXBkc0NKeWxWWUxWdmIxZ2psenVTeDEwTEdfLXlTYlZGLVpBa0pOSHptQWF5RFNmZ0RKVG1zUjFsR0owNU9hOHJTNUhoVDRvVmxYQzc4?oc=5",
           "date": "08-21 16:23"
+        },
+        {
+          "title": "2026년 8월 21일 현재 농산물 가격: 국내 커피 가격은 여전히 ​​상승 여지가 있으며, 돌파구를 찾을 수 있을까? 비EU 8개국이 동맹국인 러시아에 대한 제재에 합의했다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeEJWVm05d29sS09XUC1CcHp5SHkzdTFkeHI5VF8xQWY4aVp3RDlRbktMbkh2RVlmR19JVmdzdHlPRXVrSXltRTFsVExZYk9yZFoxbnh5eG95RF9xSHNrdGM1aVlOb014eVZCTTVBQ3E2LXJKeDRNUnh0djdVYnVLeG12RnFtelJOMGtCLUl2UF9qcjYtRHJmXzBZbF8xSm96S0l3T1VBdTJzLThhREpvRkJiS3NLSm4xbnBXcDZiYWk4WThpdVdmdkZHc1NWSWp1QXFHTDZzMmxCMGdSYUhlV0V3UUhpcVlZQUg1ODdlaVhIZ0MzVHhxVU5TSUNXU1E?oc=5",
+          "date": "08-22 00:41"
         }
       ],
       "original_price_lb": 324.9
@@ -847,7 +847,7 @@
             "price": 3720.54
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 3728.0
           }
         ],
@@ -914,12 +914,6 @@
           "date": "08-21 18:38"
         },
         {
-          "title": "Arabica Coffee Consolidating Below This Week’s 6.5-Month High - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME1nZ1ZzVFlkS0VRaXZ3UFY5djdSSGxiT0l2T3NFS0hqSjZiNENFQW5EUk52TkhXZUt4QlIxRWI0bFhfZVpLYWVBTk0wT0tVWDJWbXBGQ2k2amM1WTVGS3RQMXNhSndYeHFTakxDWWhJZHh1LVZZcU93eTVxM3J0dUtUdkdVT1JYS05pVnk5M2dQNlRlWUNQWVVqVVhDUDNfY25GcWJ0X0NFZWtUWnZrYTVrTE8wSHZTOXVvWQ?oc=5",
-          "date": "08-21 00:43"
-        },
-        {
           "title": "Vietnam coffee prices steady in thin trade - Business Recorder",
           "source": "Business Recorder",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ibkhzcnd3aEY3a1NWdG45Y1RnWW1xTm9tdmZXakFxNV9XeW52b0ZFMm1HaF9UYVFTeVoyMTJmQUl2NHJ0RTdXWUpHa2lSSWFWTmFiaWpR0gFWQVVfeXFMTmJuSHNyd3doRjdrU1Z0bjljVGdZbXFOb212ZldqQXE1X1d5bnZvRkUybUdoX1RhUVN5WjIxMmZBSXY0cnRFN1dZSkdraVJJYVZOYWJpalE?oc=5",
@@ -930,6 +924,12 @@
           "source": "Comunicaffe International",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjA5N2ZXejMwdWRoWERMcVB3bzFlUC1PWVJ3aUdrWXlpMVU1ZmYxWUVqTFdieVJsU3hCNnVDd1lEZUhUQUVDUm5mSnNXNV9md2FwcFJta3ZyYjNsTzBUZWdsa0JXY2tWYi1WcXN3NW9tOFhlYS1YTm1ldGhlMEVQQjZLMmxZTVhNWXhhcmR5Vl9NeTFxNDNBVmcxV19DeHZPZkZfQ3BXVXNUYWlhd3NKdTBxUmo4dlIzTzVJbUh4bFB2ZUZJMDE2ZUZoUlFqUFZObElQS3FhNDhGdk1hODdfUQ?oc=5",
           "date": "08-20 07:59"
+        },
+        {
+          "title": "Agric. & Environment: Coffee farmers optimistic despite unst - NewVision.co.ug",
+          "source": "NewVision.co.ug",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVpVLTB1TnQwdXIwdzFCSks5Z2p1NExNR1VBVVo2WDJ0Yk9qYlY5bHNXdk15TDllR01KN1hWUllRckU3SlRHbDVJdlFOanlTMGpyQTVGSU1TUTdSdERTc1VNQWdMM0pLX19xSTEyUk9ra0dzQjctNzZlRHR5YzZhbFEwRUtkNk5Mb05IMm1wU0VqN3VQR0duQmxpZjJlaGpXaklNdWRVWDFWTWl3M1phXw?oc=5",
+          "date": "08-20 18:00"
         }
       ],
       "newsKr": [
@@ -1682,10 +1682,10 @@
           "date": "08-20 07:15"
         },
         {
-          "title": "Powders Drive GDT Index To Strongest Single-Event Lift Since March Amid Climate Concerns - en.edairynews.com",
+          "title": "September Class I Base Milk Price Drops To $17.04/cwt As Easing Butterfat Values Offset Skim Strength - en.edairynews.com",
           "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEs2VXJqUmFjRnpITUw4TXpMRG1oVnVNTDJkblZmRk9FLVdLOFMwVVNEeWNBcndCb2txdHdvbE1mQURTckR0M0hKMnRDam5ZTFNJUzdmUkNkOWQ0OEZIWHRxOGxUSFZESFRiWE5mRFdMTUFWM2htc2tPcE9oTDB0ZkpLZTNUMGhOS1J0eDJMb1BlaWJUWWlxNHBKX2hqRW5YMzZ1d1E1Wm9XR0NKUjJEN2pLdkdCZw?oc=5",
-          "date": "08-20 06:14"
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEVpYXZuZUlqNzNJMmlhOHI3VkdDLU9CNjE0czBZY2ZyWk9jeWxwSzc0aGY2akVHWUZFZTZvdHFJbm5lMGhnSmhhSXc3UENKM0xnemR1QlJOV0tnNWRjZkk5ZGVYLTUxaUZWSHhGQUlENnZubkZiOXlxODk2VlpTWERETVZzbU4xbHBGamFrMkJSTktlM2RYaXdYOG9xNnZUdFBDMmx1UXdYQ3JYa0NTSXZGRE1MX3RRSHN5OER0VU40TkQzb0E?oc=5",
+          "date": "08-21 18:39"
         },
         {
           "title": "Asia-Pacific Recombined Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -2167,7 +2167,7 @@
             "price": 1178.89
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 1181.25
           }
         ],
@@ -2541,7 +2541,7 @@
             "price": 1926.14
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 1930.0
           }
         ]
@@ -2550,8 +2550,8 @@
         {
           "title": "Oleochemicals at 2026 Mid-Year: Trade Action, Biofuel Competition and Geopolitics Redraw the Market - ResourceWise",
           "source": "ResourceWise",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcXNyclpmS3dvbkJYc1RmZWpjZy1sWnl1M2Ewb3dxNEdVN0g5S3BtUzhIb1ltRjlUTzVuMXVzQ3ptQ21oOTNSWl9jMW96YWFCa2NPNmlOdmgyOEtZQUlwc091dXdVSm1tTHlvaWFUdHllaGtLRS11ekxLeFRRQ1g0LTNoLVNESHIzZWFuSDZsYXBqSkpZcU9PZGtaaEZZR2xCM0JPR2xVc2ZwVDhSSTBLMlpBSGdzZXdzN0Iycnl1Rmh3MnU2Qzk2U0RoRDJxUk5pMmJLRVJBOHDSAdsBQVVfeXFMT3pObVFWMWY1QkRUdkVmaHVwcHE2SlJWUVc5eXdYTXNhMG9leFBDM05FV3p3cUpWb2JoQ3M5LVd4Q0xnanZVTjRPeTFUUE94eGpKVHhUbXhlYlZxWnBmNHplUHZjalFXRHpaMFR4YmlrdTVCRWllTmNDRlMzTTUwbXJzTTFSaklEVC1FUENaQ01HQkZQWHpmcl9LVEJVQVc5N19pc2VaZHcwNG04Y1p5YTg3UUZ3Tk4wRWFRYlg2UHQ2U0VHREpLakRvOXlJM0NkZjAxeWFTalRDcFVR?oc=5",
-          "date": "08-21 22:40"
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFFsTDkzbS0ybHBSZkJLcENCUWtsTDJfVjI3OGV2VnFnVUdPbDgzY241VVdrbm9jX3ltaVROU3h5elBVSU5WUEgxV2ZHREo4a1BiLTd1a3ZvSF9UaWNmYm1QUVpRWTJGb210ZEtzeWNjWEJDZTllckhEclJXdWlla1VyZjNoc1ZXX19jYlNicFJ4aTBHLXE2VlJ1WUtIUzZlMUpKSUJlOW0zQ1ltVkw0bTRyOU5vRXF3enJXOUVOcjNsc3pleWxnek90TdIB2wFBVV95cUxPek5tUVYxZjVCRFR2RWZodXBwcTZKUlZRVzl5d1hNc2Ewb2V4UEMzTkVXendxSlZvYmhDczktV3hDTGdqdlVONE95MVRQT3h4akpUeFRteGViVnFacGY0emVQdmNqUVdEelowVHhiaWt1NUJFaWVOY0NGUzNNNTBtcnNNMVJqSURULUVQQ1pDTUdCRlBYemZyX0tUQlVBVzk3X2lzZVpkdzA0bThjWnlhODdRRndOTjBFYVFiWDZQdDZTRUdESktqRG85eUkzQ2RmMDF5YVNqVENwVVE?oc=5",
+          "date": "08-22 00:01"
         },
         {
           "title": "Clean Beauty Drives Growth in Vegetable Oils - Happi | Household And Personal Products Industry",
@@ -2779,7 +2779,7 @@
             "price": 1383.21
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 1385.98
           }
         ],
@@ -2858,10 +2858,10 @@
           "date": "08-20 16:12"
         },
         {
-          "title": "Treasury Buybacks Put Bond Market Liquidity Front And Center - Seeking Alpha",
-          "source": "Seeking Alpha",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0RnbXduSDc2eTZlRktZQ2NObElhU0FCYi1adlZMUUFuXy1IQzVwRzZTdHF5enRvb1EySUZmaFpLQld1U3o1MTQ0cnRUVjlscUxFRmZkNG5jZjk1Y3JYVlVTcGM1WUs2VVRZeHI0VEV5OTd2RTJPd25UcmtBSFVxcjV0ZU9ncHp6RXJwcmNUam04U0czZG84SmplWHdOTnJ0U1UxMFpvWTlOR1JibldTY0theGRnQUp6WUMwalY4UlNFQ2xGMEZkNkJuSjZOSFNsa0E?oc=5",
-          "date": "08-20 07:36"
+          "title": "Dollar-Won Exchange Rate Drops Below 1,400 Won for First Time in 11 Months - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUzJIbGRQcEM4VHh0Z21HcDY5dmZOUTlpRlFkM1g3LV9kZ1B4bEhkUUVfSXAybk8xQ01YeXVHNGZKX1gweE5pNmQtbWtWV1JLTUlIMkppX2NaSEZabkhsbVFJbjk0bFhMQnNERzlMRWF2a3g0V1c1MFBPalhTMHdyb3V6T2ZoRFBtcW1v?oc=5",
+          "date": "08-20 15:28"
         }
       ],
       "newsKr": [
@@ -3083,7 +3083,7 @@
             "price": 1614.86
           },
           {
-            "time": "06:16",
+            "time": "07:16",
             "price": 1618.1
           }
         ],
@@ -3158,7 +3158,7 @@
         {
           "title": "CBA currency exchange rates (21.08.2026) - Report.az",
           "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCbWp2dnkzUTluVk9ldXJkeEVMQVpGcmdscEQyeW43TkxmRC1fRldkSU44NWo1cjZzWEtvcm02VzVBUWhlYkM4ODV1MHBxSGowQ1ZyV1psQkRqOTZFY041RHJSM3UyY1JlR0FmTmhCNHA2REFvYXfSAXtBVV95cUxOaTBGRXp6WFRsZmN2SlNXM2gzaldnX0M0VjJjdHpXdDFLNmJLOHhxekEzN1VXdWpJX09kRzlVWGtkcXhweTJDaUJCY3pEZF93V0p5V1hVYTdSaXFlOGVZUWV2c1FaRTV2Qm12VTFLdDVGdXpqekVlLTRoSUU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pMEZFenpYVGxmY3ZKU1czaDNqV2dfQzRWMmN0eld0MUs2Yks4eHF6QTM3VVd1aklfT2RHOVVYa2RxeHB5MkNpQkJjekRkX3dXSnlXWFVhN1JpcWU4ZVlRZXZzUVpFNXZCbXZVMUt0NUZ1emp6RWUtNGhJRdIBe0FVX3lxTE5pMEZFenpYVGxmY3ZKU1czaDNqV2dfQzRWMmN0eld0MUs2Yks4eHF6QTM3VVd1aklfT2RHOVVYa2RxeHB5MkNpQkJjekRkX3dXSnlXWFVhN1JpcWU4ZVlRZXZzUVpFNXZCbXZVMUt0NUZ1emp6RWUtNGhJRQ?oc=5",
           "date": "08-21 14:30"
         },
         {
@@ -3188,10 +3188,10 @@
           "date": "08-20 12:54"
         },
         {
-          "title": "원·달러 환율 11개월 만에 최저… 국제유가·폭염에 하반기 물가 불확실성 여전 - christiandaily.co.kr",
-          "source": "christiandaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03Z1hjYld6NkJMdlIwQWxiTGZYQUJfZzJKdWFBWERzdDg2RHI0ZjVreGxaQjBsLUkwdGQtWXhzTExtdktBdmp3eERqV2o0bzJCOV9yZGlIRXN1MDB00gFcQVVfeXFMTTdnWGNiV3o2Qkx2UjBBbGJMZlhBQl9nMkp1YUFYRHN0ODZEcjRmNWt4bFpCMGwtSTB0ZC1ZeHNMTG12S0F2and4RGpXajRvMkI5X3JkaUhFc3UwMHQ?oc=5",
-          "date": "08-21 08:29"
+          "title": "고환율 부담 줄었지만…유가·폭염에 하반기 물가 '긴장' - 뉴시스",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ONG15NnZodTJzNTg1cUs2TW00ZFVMWktqZTBqbzQyckx5S3FBWlIwTlQwQmlaeDV2LXN0V1REanNiUWVZakZPQlEtS2hVa1R4U19EY1lDNFlCUmFKdmxTQdIBeEFVX3lxTFBRRW96Z25WZlVBMzRpMHFOUUJFWmxZX2tNUFFFOHJoMXBSbjR3OHVXN2RhUGxUN0JLYU1CUGtTS0RuX1BKaHR2bTZ6b2F6NWRiYTZacGVPUlZLNllFTElmVS1uVnNvZHZfRE9tNTFyTFJHd1pTejg4Ug?oc=5",
+          "date": "08-21 06:00"
         }
       ]
     }
