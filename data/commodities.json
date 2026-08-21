@@ -1,18 +1,18 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-22 01:23:41",
+  "last_updated": "2026-08-22 02:21:38",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 01:23",
+    "report_date": "2026.08.22, 02:21",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,196.98 (▼10.22%)",
+    "top_loser": "아라비카 커피 : $7,159.50 (▼10.68%)",
     "weekly_price_list": [
-      "코코아 : $6,030.00 (▲3.83%)",
-      "아라비카 커피 : $7,196.98 (▲3.85%)",
+      "코코아 : $5,989.00 (▲3.83%)",
+      "아라비카 커피 : $7,159.50 (▲3.85%)",
       "로부스타 커피 : $3,728.00 (▼3.98%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -22,8 +22,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $6,030.00 (▲3.83%)",
-      "아라비카 커피 : $7,196.98 (▲3.85%)",
+      "코코아 : $5,989.00 (▲3.83%)",
+      "아라비카 커피 : $7,159.50 (▲3.85%)",
       "로부스타 커피 : $3,728.00 (▼3.98%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -32,8 +32,8 @@
       "팜유 : $1,181.25 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.51원 (▼3.89원)",
-    "fx_eur": "1,617.60원 (▼2.63원)",
+    "fx_usd": "1,385.19원 (▼4.21원)",
+    "fx_eur": "1,617.30원 (▼2.93원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
@@ -43,12 +43,12 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 01:23",
+    "report_date": "2026.08.22, 02:21",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,196.98 (▼10.22%)",
+    "top_loser": "아라비카 커피 : $7,159.50 (▼10.68%)",
     "weekly_price_list": [
-      "코코아 : $6,030.00 (▲3.83%)",
-      "아라비카 커피 : $7,196.98 (▲3.85%)",
+      "코코아 : $5,989.00 (▲3.83%)",
+      "아라비카 커피 : $7,159.50 (▲3.85%)",
       "로부스타 커피 : $3,728.00 (▼3.98%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -58,8 +58,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $6,030.00 (▲3.83%)",
-      "아라비카 커피 : $7,196.98 (▲3.85%)",
+      "코코아 : $5,989.00 (▲3.83%)",
+      "아라비카 커피 : $7,159.50 (▲3.85%)",
       "로부스타 커피 : $3,728.00 (▼3.98%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -68,14 +68,14 @@
       "팜유 : $1,181.25 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.51원 (▼3.89원)",
-    "fx_eur": "1,617.60원 (▼2.63원)",
+    "fx_usd": "1,385.19원 (▼4.21원)",
+    "fx_eur": "1,617.30원 (▼2.93원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-22T01:23:41.454550+09:00",
-  "usdKrwRate": 1385.31,
-  "eurKrwRate": 1617.6,
+  "lastUpdated": "2026-08-22T02:21:38.608990+09:00",
+  "usdKrwRate": 1385.19,
+  "eurKrwRate": 1617.3,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -102,9 +102,9 @@
           "글로벌 가공업체 분쇄량(Grindings) 지표 및 완제품 소비 수요"
         ]
       },
-      "price": 6030.0,
-      "change": -58.0,
-      "changePercent": -0.95,
+      "price": 5989.0,
+      "change": -99.0,
+      "changePercent": -1.63,
       "high52w": 7935.0,
       "low52w": 2798.0,
       "high24h": 6070.0,
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 20314,
+      "volume": 22051,
       "sparkline": [
         5648.0,
         5734.0,
@@ -121,25 +121,25 @@
         5905.0,
         6046.0,
         6088.0,
-        6030.0
+        5989.0
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 5993.82
+            "price": 5953.07
           },
           {
             "time": "11:00",
-            "price": 6005.88
+            "price": 5965.04
           },
           {
             "time": "13:00",
-            "price": 6017.94
+            "price": 5977.02
           },
           {
-            "time": "01:23",
-            "price": 6030.0
+            "time": "02:21",
+            "price": 5989.0
           }
         ],
         "7D": [
@@ -169,7 +169,7 @@
           },
           {
             "date": "08-21",
-            "price": 6030.0
+            "price": 5989.0
           }
         ],
         "1M": [
@@ -267,7 +267,7 @@
           },
           {
             "date": "08-21",
-            "price": 6030.0
+            "price": 5989.0
           }
         ],
         "1Y": [
@@ -313,7 +313,7 @@
           },
           {
             "date": "2026-08",
-            "price": 6030.0
+            "price": 5989.0
           }
         ]
       },
@@ -394,18 +394,18 @@
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 7196.98,
-      "change": -819.02,
-      "changePercent": -10.22,
+      "price": 7159.5,
+      "change": -856.49,
+      "changePercent": -10.68,
       "high52w": 9655.13,
       "low52w": 5350.61,
       "high24h": 7396.5,
-      "low24h": 7123.13,
+      "low24h": 7092.26,
       "high7d": 8016.0,
-      "low7d": 7196.98,
+      "low7d": 7159.5,
       "high1m": 8016.0,
       "low1m": 6821.09,
-      "volume": 10568,
+      "volume": 13791,
       "sparkline": [
         7343.59,
         7453.82,
@@ -413,25 +413,25 @@
         8011.59,
         7925.61,
         8016.0,
-        7196.98
+        7159.5
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 7153.8
+            "price": 7116.54
           },
           {
             "time": "11:00",
-            "price": 7168.19
+            "price": 7130.86
           },
           {
             "time": "13:00",
-            "price": 7182.59
+            "price": 7145.18
           },
           {
-            "time": "01:23",
-            "price": 7196.98
+            "time": "02:21",
+            "price": 7159.5
           }
         ],
         "7D": [
@@ -461,7 +461,7 @@
           },
           {
             "date": "08-21",
-            "price": 7196.98
+            "price": 7159.5
           }
         ],
         "1M": [
@@ -559,7 +559,7 @@
           },
           {
             "date": "08-21",
-            "price": 7196.98
+            "price": 7159.5
           }
         ],
         "1Y": [
@@ -605,7 +605,7 @@
           },
           {
             "date": "2026-08",
-            "price": 7196.98
+            "price": 7159.5
           }
         ]
       },
@@ -661,7 +661,7 @@
           "date": "08-21 16:23"
         }
       ],
-      "original_price_lb": 326.45
+      "original_price_lb": 324.75
     },
     {
       "id": "robusta",
@@ -847,7 +847,7 @@
             "price": 3720.54
           },
           {
-            "time": "01:23",
+            "time": "02:21",
             "price": 3728.0
           }
         ],
@@ -1164,12 +1164,6 @@
       },
       "newsEn": [
         {
-          "title": "Global Dairy Trade | GlobalDairyTrade: Price Index Rises 2.3% in Auction 410 - en.edairynews.com",
-          "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02dXZ1aFZkVmJkdWF0dWV2N2FOTW9CSjFBY1VZMHZYa1NaSTk1LUJScGkwc0swM0JGdHZycWU5RTdXTTNUOFNEaEJuQjRrNEp6VHRJcFJKSENnT2JZdjNIR2JTNFNIV1BKOWZlc1ZR?oc=5",
-          "date": "08-19 01:39"
-        },
-        {
           "title": "Powders Drive GDT Index To Strongest Single-Event Lift Since March Amid Climate Concerns - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEs2VXJqUmFjRnpITUw4TXpMRG1oVnVNTDJkblZmRk9FLVdLOFMwVVNEeWNBcndCb2txdHdvbE1mQURTckR0M0hKMnRDam5ZTFNJUzdmUkNkOWQ0OEZIWHRxOGxUSFZESFRiWE5mRFdMTUFWM2htc2tPcE9oTDB0ZkpLZTNUMGhOS1J0eDJMb1BlaWJUWWlxNHBKX2hqRW5YMzZ1d1E1Wm9XR0NKUjJEN2pLdkdCZw?oc=5",
@@ -1182,10 +1176,16 @@
           "date": "08-20 02:52"
         },
         {
-          "title": "GDT index up 2.3% after latest trading event - Agriland",
-          "source": "Agriland",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
-          "date": "08-19 02:15"
+          "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
+          "source": "Irish Farmers Journal",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
+          "date": "08-20 07:15"
+        },
+        {
+          "title": "Global dairy prices lift 2.3% - BusinessDesk | NZ",
+          "source": "BusinessDesk | NZ",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUEhtb2UySTZ1VndmT1BXUVVES193Ri1YRnN2TTdkMXRNOXg2OXNoQ3lWX0loLWdZcFF4X3hLYmhvZm16LXhIR00yd2U2TXZlSllyMTZ1aHVCdllQTW9Yc2JGbVRoVmVZaE14Vzl5WDlMS2poUUlmU1VpeXpWZ3hWdGlDWQ?oc=5",
+          "date": "08-19 05:10"
         }
       ],
       "newsKr": [
@@ -1426,6 +1426,12 @@
           "date": "08-21 18:31"
         },
         {
+          "title": "Asia-Pacific Recombined Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHg4OFc3NmVPcV82WUcwOEhpa3dOdUwxX2tCeHIyeUstMkFIUGc4MnZjZGJQaWxnTWc0RVo4YVNDUzdscVpKaWR4X3RhY2drNmw0TnZsQmFhTjJPTGtjVlZjVmo3STFQbkpFWHNvWG52NHpJUDVvdWVJS2xZUm5wN2U5cG9tM0REYkVBdUxONWlqdmtCZmhYdGRfb2FRMmZLUi0xRkZwNVI4eXQ5UlE?oc=5",
+          "date": "08-21 18:09"
+        },
+        {
           "title": "Powders Drive GDT Index To Strongest Single-Event Lift Since March Amid Climate Concerns - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEs2VXJqUmFjRnpITUw4TXpMRG1oVnVNTDJkblZmRk9FLVdLOFMwVVNEeWNBcndCb2txdHdvbE1mQURTckR0M0hKMnRDam5ZTFNJUzdmUkNkOWQ0OEZIWHRxOGxUSFZESFRiWE5mRFdMTUFWM2htc2tPcE9oTDB0ZkpLZTNUMGhOS1J0eDJMb1BlaWJUWWlxNHBKX2hqRW5YMzZ1d1E1Wm9XR0NKUjJEN2pLdkdCZw?oc=5",
@@ -1436,12 +1442,6 @@
           "source": "Farmers' Advance",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWWh5SWhHUzlMd3JncGlaUFY2eXVzUV9tZklwcmtqU0l0U0NqTUhVT21mZk9qeURCRXVJUEZVS3d6TEc5UjltOFF3YXl3NUNGbkVia084SVpWQl9HZlZVeVZPbkNXX05QX0h1ckJCaGVPc1lkdGE0c2JNM3YxMlJlRl9fbnZNMEV5UXBmY2VHMWRVT19OeE9XeVNNNW9VQ2taVFRjYnpmNEsyZ0FMZDhwaHljM2RTRDBNQ2huTHdTVGN4S2ZPdXJoVVAzUVcxdWRKcFZoRk5jUWxFV2FiZHc?oc=5",
           "date": "08-20 04:34"
-        },
-        {
-          "title": "Dairy prices rally at latest auction as El Niño looms - NZ Herald",
-          "source": "NZ Herald",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd1FtTTQwZzR2TWpaTGxhaDRuU19fWUFPUGFMTTlKSm1wdFJkeTZEX0duT0JGVXROTGFJOG15Z3hJazRZYVlnQThLOGFZN3pLclVhel9JR3p1N3dSek9jeWVPMGxEbUdzV1NhVkxOakt0S0JGMk1QWWhjLWJWUl80dVV3ejk2YkpySmZQMnhsUV9WU2lQUmNCY0hpVnFmRjg2R2YyWV84VUpNelZLdG0tUHJTT2Z2UHctVVZYcFlGZXduN2N5ZnBHa0dmX3ZscFJnVmpxZzZVWmFjOFZoTTI5YnRKVi1lSDMz?oc=5",
-          "date": "08-19 09:02"
         }
       ],
       "newsKr": [
@@ -1688,16 +1688,16 @@
           "date": "08-20 06:14"
         },
         {
+          "title": "Asia-Pacific Recombined Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHg4OFc3NmVPcV82WUcwOEhpa3dOdUwxX2tCeHIyeUstMkFIUGc4MnZjZGJQaWxnTWc0RVo4YVNDUzdscVpKaWR4X3RhY2drNmw0TnZsQmFhTjJPTGtjVlZjVmo3STFQbkpFWHNvWG52NHpJUDVvdWVJS2xZUm5wN2U5cG9tM0REYkVBdUxONWlqdmtCZmhYdGRfb2FRMmZLUi0xRkZwNVI4eXQ5UlE?oc=5",
+          "date": "08-21 18:09"
+        },
+        {
           "title": "Dairy prices rally at latest auction as El Niño looms - NZ Herald",
           "source": "NZ Herald",
           "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd1FtTTQwZzR2TWpaTGxhaDRuU19fWUFPUGFMTTlKSm1wdFJkeTZEX0duT0JGVXROTGFJOG15Z3hJazRZYVlnQThLOGFZN3pLclVhel9JR3p1N3dSek9jeWVPMGxEbUdzV1NhVkxOakt0S0JGMk1QWWhjLWJWUl80dVV3ejk2YkpySmZQMnhsUV9WU2lQUmNCY0hpVnFmRjg2R2YyWV84VUpNelZLdG0tUHJTT2Z2UHctVVZYcFlGZXduN2N5ZnBHa0dmX3ZscFJnVmpxZzZVWmFjOFZoTTI5YnRKVi1lSDMz?oc=5",
           "date": "08-19 09:02"
-        },
-        {
-          "title": "Milk powders boost Global Dairy Trade market - farmersweekly.co.nz",
-          "source": "farmersweekly.co.nz",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1c2aF9lYS03YWJJR3p6d28tZnBPcTZCeW1UU2xlQUdqMUYwVjhfcmpjc2FfYjNxcGZQWWVLcjdBUm1OSHVCS0VDNDBQVnF5N0NDQ19fNm5wZzl1NkwtNW5jeXlQSWdIdXRpWmM5LWc4aE9XaWg0NndhWWRLUHNyWlhKZDgxSzVGWFNYOXBXMVBMZHkzZGJIcUJVdHdMR2ts?oc=5",
-          "date": "08-19 07:55"
         }
       ],
       "newsKr": [
@@ -2167,7 +2167,7 @@
             "price": 1178.89
           },
           {
-            "time": "01:23",
+            "time": "02:21",
             "price": 1181.25
           }
         ],
@@ -2224,6 +2224,12 @@
       },
       "newsEn": [
         {
+          "title": "CPO Futures End Week Higher For Fifth Straight Session - bernama",
+          "source": "bernama",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dFRuTU45TTh0eXJOU2NtelV5MndJNE1wRElZSHE4Y0pPWElqeWlmYlh4YTNTTjY5bkhjdVdldFN2dkFLdEdHMC1ySF9lQVRVWDdkRS1lRzk0dndrVVZIZi1hcw?oc=5",
+          "date": "08-22 00:09"
+        },
+        {
           "title": "What is Driving PFAD Prices Up in SEA and India this Week? - Fibre2Fashion",
           "source": "Fibre2Fashion",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjlIV1FwZTJfVVE1anNBVGRxa1BHcnFyVTMtZURnUHFvOElIZzRhb0RWSDZqS0ZycDI4SjQ0RTBoZTRnbnlsUnFqUjlwRzMyNmZCRjBFdzNxYXBhMEtYNDNZd0lxQk5nbVl1WDBnckJUWXJYTDdGWFd3TDB3b2tMWmk0Snpoc1c4REhRUjFzdG5id3VkbklDck5uLWdYVjdHQ0NrQ0hjSnFpRURmcFRz?oc=5",
@@ -2240,19 +2246,13 @@
           "source": "BusinessToday Malaysia",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGpsZTZfNEthMngzTlJPSnZOSUNVQXktazR1OWprdk11SEt0NzRId0hhYWZUUGxublBpQlBLRHJXdHlpUHFkNlIxVXpiX05wUVRXZC1HZGoySVkyY2JvNlVEQTBnWVc1cVEtdVRGMElnZ00wNzVPeDJzMmxLNUNnUEUtMGNCSDFYZ3NPM3VWTld5bzNINTItd25TVm9BdmtKcHhzd2VR?oc=5",
           "date": "08-19 18:08"
-        },
-        {
-          "title": "MPOC expects CPO prices to hold firm amid tight supply - The Star",
-          "source": "The Star",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNME9RTFk0b2w5UG1ia3ZidldJNXpKMHVNRDEwNTE5UTkxLU9lN0tsUjJfam16WkdrcE13WG55UGVSZWhiVVJMb1hzek9rWGtBYnRLVXlWQXpHNkhKNXFiejZUQzVMbTR2VkdUWE85bHBuRWhYNUlBZzIzbEIxZTBsbzE1YjhqMmlwT21IeUN2Y3VmTF9xbWprV0RqdHdHWFY0ZVdGX0o0T052ZzVzSHhENS1pdnJWQQ?oc=5",
-          "date": "08-20 08:04"
         }
       ],
       "newsKr": [
         {
           "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
           "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1nc9IBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
           "date": "08-19 14:13"
         },
         {
@@ -2541,7 +2541,7 @@
             "price": 1926.14
           },
           {
-            "time": "01:23",
+            "time": "02:21",
             "price": 1930.0
           }
         ]
@@ -2611,17 +2611,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.51,
-      "change": -3.89,
-      "changePercent": -0.28,
+      "price": 1385.19,
+      "change": -4.21,
+      "changePercent": -0.3,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1394.71,
       "low24h": 1379.78,
       "high7d": 1416.85,
-      "low7d": 1385.51,
+      "low7d": 1385.19,
       "high1m": 1479.72,
-      "low1m": 1385.51,
+      "low1m": 1385.19,
       "volume": 0,
       "sparkline": [
         1416.46,
@@ -2630,7 +2630,7 @@
         1414.73,
         1413.58,
         1389.4,
-        1385.51
+        1385.19
       ],
       "history": {
         "7D": [
@@ -2660,7 +2660,7 @@
           },
           {
             "date": "08-21",
-            "price": 1385.51
+            "price": 1385.19
           }
         ],
         "1M": [
@@ -2758,25 +2758,25 @@
           },
           {
             "date": "08-21",
-            "price": 1385.51
+            "price": 1385.19
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.2
+            "price": 1376.88
           },
           {
             "time": "11:00",
-            "price": 1379.97
+            "price": 1379.65
           },
           {
             "time": "13:00",
-            "price": 1382.74
+            "price": 1382.42
           },
           {
-            "time": "01:23",
-            "price": 1385.51
+            "time": "02:21",
+            "price": 1385.19
           }
         ],
         "1Y": [
@@ -2830,7 +2830,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1385.51
+            "price": 1385.21
           }
         ]
       },
@@ -2862,10 +2862,10 @@
       ],
       "newsKr": [
         {
-          "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
+          "title": "[환율 전망] 쏟아지는 악재들, 수급으로 버티는 원화 - KB Think",
           "source": "KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
-          "date": "08-21 08:02"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGdtT1BrU1VrWkd6TWlydFpiNllIaWF5cFg3MW5faG5YWTZkSjI5amdOeHpjVThfYWlMZUJCWUh1NjNXZ0VfbUZzZFZWRzh3YnZ2R0g2enJiR1E5OW8yLQ?oc=5",
+          "date": "08-19 07:58"
         },
         {
           "title": "원·달러, 미 금리 동결 가능성에 1300원대로 하락…10개월여만 - JTBC",
@@ -2911,9 +2911,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1617.6,
-      "change": -2.63,
-      "changePercent": -0.16,
+      "price": 1617.3,
+      "change": -2.93,
+      "changePercent": -0.18,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1628.5,
@@ -2930,7 +2930,7 @@
         1638.16,
         1634.92,
         1620.23,
-        1617.6
+        1617.3
       ],
       "history": {
         "7D": [
@@ -2960,7 +2960,7 @@
           },
           {
             "date": "08-21",
-            "price": 1617.6
+            "price": 1617.3
           }
         ],
         "1M": [
@@ -3058,25 +3058,25 @@
           },
           {
             "date": "08-21",
-            "price": 1617.6
+            "price": 1617.3
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1607.89
+            "price": 1607.6
           },
           {
             "time": "11:00",
-            "price": 1611.13
+            "price": 1610.83
           },
           {
             "time": "13:00",
-            "price": 1614.36
+            "price": 1614.07
           },
           {
-            "time": "01:23",
-            "price": 1617.6
+            "time": "02:21",
+            "price": 1617.3
           }
         ],
         "1Y": [
@@ -3130,7 +3130,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1617.6
+            "price": 1617.3
           }
         ]
       },
