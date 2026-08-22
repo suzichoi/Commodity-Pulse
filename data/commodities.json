@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 02:14:31",
+  "last_updated": "2026-08-23 03:19:04",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 02:14",
+    "report_date": "2026.08.23, 03:19",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -35,7 +35,7 @@
     "fx_usd": "1,383.90원 (▼6.89원)",
     "fx_eur": "1,618.10원 (▼8.27원)",
     "news_category": "오늘의 주요 헤드라인",
-    "news_title": "GDT 유제품 가격 5회 연속 하락세"
+    "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
   "daily_briefing": {
     "title": "[2026 Week 34 Report]",
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 02:14",
+    "report_date": "2026.08.23, 03:19",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -71,9 +71,9 @@
     "fx_usd": "1,383.90원 (▼6.89원)",
     "fx_eur": "1,618.10원 (▼8.27원)",
     "news_category": "오늘의 주요 헤드라인",
-    "news_title": "GDT 유제품 가격 5회 연속 하락세"
+    "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
   },
-  "lastUpdated": "2026-08-23T02:14:31.891756+09:00",
+  "lastUpdated": "2026-08-23T03:19:04.681652+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 5981.0
           }
         ],
@@ -426,7 +426,7 @@
             "price": 7148.48
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 7162.81
           }
         ],
@@ -621,10 +621,10 @@
           "date": "08-22 14:14"
         },
         {
-          "title": "Keurig Dr Pepper stock rating resumed at Overweight by Morgan Stanley - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVl5SkUwMHBIVzVBX253ZkxLcmp0OG55Vk4yN192Nlp3bzVSbU5rUFdNUGVXTDZvU3RqeFE4X3NmUkh2UVFUdnl5ODB3Z2RqdDZzZDlPaVZtZWw0RU41OWE5LXFYY3h2RmV0azI4cTFtNU9YTmN5dTEtUWoyMTlYbXhTRzBpdWJwMDk3MV9TQm91clA5SW1fTjlvQXpUYlBFM3FhZDlYV0ZOV3dqaW1xYmNzNmc2eUxqdUttRGRuSkFlSUlocVFVM2VEMVFIMDFFQ25B?oc=5",
-          "date": "08-20 15:14"
+          "title": "Arabica Coffee Consolidating Below This Week’s 6.5-Month High - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRk9LUUFUOGlaX1Fsb2Q3cHhxaWpXX05IZ3dDMV94OEpWQkpMRVBMVkkydk9SU1V0ZWVNOTZaUzlJR2hmUHp0UW5pYm1HcUJrQnFobEhqS0JkRkZEcDBRb1Q0RkVzYmJ6ejdLV2lGYVNRSlZhdEk1YnN3WTFXMGpuSHBCUDVRZ0g2dTNqYWk4a2YxRVVCY3doNF9rNjIxb3VmMEJOc0lfSQ?oc=5",
+          "date": "08-21 00:43"
         }
       ],
       "newsKr": [
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 3728.0
           }
         ],
@@ -926,16 +926,16 @@
       ],
       "newsKr": [
         {
-          "title": "오늘(8월 22일) 커피 가격: 급락, 로부스타는 일주일 만에 최저치 기록. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg5OHZkdGs3d053cDBXU28zZUMtQmJUbFZ6TmhVb1VkdklZeGVjN3pnbWtYWFV4VnJuWWlOQ2VWMVF3WlN6bFduZ3p4V1FFV1JxZ2ZxTG44RGhxOF9Od2NFdHcxTFdIYUFwSjNPazJtZklOZjlGaWZnTGdTbFZiVmsyblVmQzI3S1NN?oc=5",
-          "date": "08-22 10:38"
-        },
-        {
           "title": "2026년 8월 22일 오늘 농산물 가격: 로부스타 커피 가격 급락, 베트남 수확에 관심 집중; 새로운 EU 관세, 중국 상품의 약점 '타격'. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOX0tWRUFadDhGYkFucmUzR2ZvMXlGQm54b1N0ek9Ta3JXUV9NNnc1YVhfZlhRUGhKbURKR0lNSEF3M0NJQTRDM1V1UjhSMFNGd3FvX3ZicmtudklqRmRJRUxRdExuMUlJU2pBc0o2cmNRTDdXZVFmXzNCejUwbDU2ZmNWZ1NvcjF3SEdQQlZlYVp6R2VWOXVmUEZTVTcyTFg3Znd4QVFtQ1VSbncwajY2ZWxrZnh4X01lZUt1bk9YWUhCUjR0YzR2WG83dXlCa2hURkI1WnJkUTBrOXI5RlVlUEdOZFQ4Y0xSUTJzV3pwS2VRM3pmQnBDSGt5WQ?oc=5",
           "date": "08-22 14:31"
+        },
+        {
+          "title": "오늘(8월 22일) 커피 가격: 급락, 로부스타는 일주일 만에 최저치 기록. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg5OHZkdGs3d053cDBXU28zZUMtQmJUbFZ6TmhVb1VkdklZeGVjN3pnbWtYWFV4VnJuWWlOQ2VWMVF3WlN6bFduZ3p4V1FFV1JxZ2ZxTG44RGhxOF9Od2NFdHcxTFdIYUFwSjNPazJtZklOZjlGaWZnTGdTbFZiVmsyblVmQzI3S1NN?oc=5",
+          "date": "08-22 10:38"
         },
         {
           "title": "오늘(8월 22일) 커피 가격은 kg당 97,900 VND까지 상승했으며, 로부스타와 아라비카는 혼조세를 보였습니다. - Vietnam.vn",
@@ -1162,12 +1162,6 @@
           "date": "08-20 06:14"
         },
         {
-          "title": "July 2026 Dairy Market Review: UK Milk Deliveries Fall, Global Production Rises - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFBGQWxvdG9vSEctNldPbDZyVm1JbWNmNWxySXFmWEVKQVVZVFN2LWt3cEZzUWYzXzVleHJhZlZRUlJfM0I1LTVYYUJTYjY1TDBaNjNIS2RyXzNrMDNFRk0tVXU1WWVuVGtSeVhQQklpMTg4WS1rckJMZENBVzItZS1VWTIyaU5MWmtYeExNdUNyLTVYdFE?oc=5",
-          "date": "08-20 02:52"
-        },
-        {
           "title": "Dairy Trends: strong demand drives biggest GDT rise since March 19 August 2026 Premium - Irish Farmers Journal",
           "source": "Irish Farmers Journal",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZkZFRKenNJaTB6VnVlMVJpdWgtUlE1b243Sm54eWRiV283dE9STlVCQWlubXd5eGZveEw3b3VpdWZvT01Pc3EyV1RiTXdtdnVKbUJTSmtwM0FDYWhTVEhDcTFfVUpfMmNTaGlpelRIeHZRWWdLOHhKZ2wxdWdnbGdfb2pfT0pDcDFFRy01TS1BQzFtMkdNbVc5TklYUGdNUVA5NU02Y3J4RFoydVNiYVNYbWRuVW03?oc=5",
@@ -1178,6 +1172,12 @@
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVkzX2FZSzRVeEY1OHJzZmxLa0E5SnV6Wjg0MmNhWFZhN2k2QTBaTUF4bDl1REQ2R1pLSTdlUmd4TlUtRHpheTJDaGRiMGVuX1hKbDN4MjZaWV94NndGZXhHb3lHLU9NeHgtSGhBd19CMVg4WmozZ1JVeHBYY045ejRrRHZuLU1aVUQyVU15TlliSlpSV3dMbnlnV3ZBMnpSdGMtSkI3cFZtQWRqT1JfOXV1bkR3ZC1BQW02TVZpWVlVR0t0YjNKbUFtaXJ4WjBFbUE?oc=5",
           "date": "08-20 06:16"
+        },
+        {
+          "title": "NZ’s financial adviser news-item centre - Good Returns.co.nz",
+          "source": "Good Returns.co.nz",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUgxMHpWZ18tRzhMeko5U24tQndCMzdhTVFiWVg3ZVZST0p5eEVtd3ZKZS04cFlJeUJnNHBrYTFlSktJajJuQl9semI2MEZsdm1EMDhMTm9BemJQOHItMjRldEdqQTRNMUtCbVFhSS1BY2NzUW5SaWEtcHMtNHFSZ25wRkdCcWM?oc=5",
+          "date": "08-20 05:38"
         }
       ],
       "newsKr": [
@@ -1694,6 +1694,12 @@
       ],
       "newsKr": [
         {
+          "title": "GDT 가격 수요 증가로 4% 상승하며 회복세 - 푸드아이콘",
+          "source": "푸드아이콘",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQUQyQUdiTzN0RExRWTgwSG1PYjBfSnc4c0szTWk3SkhzUlVZeVpKdE1qNmVhbndHR0hpSDEybGRCN0tJQlVXZzdWUXZlb2Zhejc2Vm5WaEJ0TzZMWnhKZ2cwUlJfSEU5WFZLbQ?oc=5",
+          "date": "09-09 16:00"
+        },
+        {
           "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
           "source": "푸드아이콘",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
@@ -2153,7 +2159,7 @@
             "price": 1182.13
           },
           {
-            "time": "02:14",
+            "time": "03:19",
             "price": 1184.5
           }
         ],
@@ -2216,16 +2222,16 @@
           "date": "08-22 04:23"
         },
         {
-          "title": "CPO Futures Expected To Stay Bullish Next Week - BernamaBiz",
-          "source": "BernamaBiz",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMdzV6VlE1a2dNWEJVcXFhckU5UUYyaHFZNXk5QkFNOEQ0Yk1zeW5zSjNUT1BicloteWFuM0YyVEZHSmdmeUM3T09OVHlla3phTFN4dTdKTHY0dw?oc=5",
-          "date": "08-22 11:42"
+          "title": "CPO Futures Expected To Stay Bullish Next Week - bernama",
+          "source": "bernama",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zeEZHZUZZcnZSUnFSVG5aSHNTYXU0M2w0NzZXaDhLUDFMQWR2N0FhWHlQU1RXOTR1dXVBWGJJN0xwbUozOUZIMzlCVGxMMHVmdlctaHhvVEtkaENLaTFMT2s1NA?oc=5",
+          "date": "08-22 16:07"
         },
         {
-          "title": "CPO Futures End Week Higher For Fifth Straight Session - bernama",
-          "source": "bernama",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdGRVam9qYkhWclA5aTNlbXpNUVkyTGo2S2ZoZ21COENRbEdyYmFrRWRWZVEwSzJYWUlnTjdKNk5ZMWdmMUVpM3J1eEl6N3ltcHZsLTREbDZKQQ?oc=5",
-          "date": "08-21 22:45"
+          "title": "CPO Futures End Week Higher For Fifth Straight Session - BernamaBiz",
+          "source": "BernamaBiz",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VajU1UHZYenhKWUhIbGc1anFMellSMmlnT1BZTU9XeDRVdjBEaU1ybU9wWm1ZMWZBS1JuZThKOWl1S1M4Ujh2eTY1S2tCa1VZVmlQWHNBUThQdw?oc=5",
+          "date": "08-21 22:57"
         },
         {
           "title": "Palm Oil Prices Seen Holding Above RM4,600 as Supply Tightens, Genting Posts Profit Dip - finance.biggo.com",
@@ -2527,7 +2533,7 @@
             "price": 1926.14
           },
           {
-            "time": "02:14",
+            "time": "03:19",
             "price": 1930.0
           }
         ]
@@ -2777,7 +2783,7 @@
             "price": 1381.13
           },
           {
-            "time": "02:14",
+            "time": "03:19",
             "price": 1383.9
           }
         ],
@@ -2844,16 +2850,16 @@
           "date": "08-21 12:33"
         },
         {
+          "title": "Dollar at 3-month lows after weekly slump; yen set to halt post-intervention slide - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDBPZFdPbHNFRGdJLTVQdjN2WEJsVUo5YklaenhjOWJlelp0RXNDUHo2U3Q4emctSVJvVHlweWtsbEFoYVhZVl9ST2RwdjE5X2FQQWZMaEVEMUxZdFBlaTM2X044b0JLQTQxNmtHTlVxbkc5V1c3eWZ0Z2tnRjhQOVREanc3REc3c3dfTTYyYnVXOFZvY3hWYUo4SXlMMjRONTJpOFN2RFRmMnBtM3JJUFJ1Yy1Bc3BrTmhtVjY5VmFyZG8?oc=5",
+          "date": "08-21 12:51"
+        },
+        {
           "title": "USD-KRW Remains in 1,300 Won Range for Second Day as Exporters Sell Dollars and Dollar Weakness Persists - 아시아경제",
           "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fdHRNOVY2NTFiZ1VZeXp1ZmtsWi0wMzM0R2lWU1V1dl9nVm1LcUxvNTBBTVJEWDliTUtGRWVlMW90X3BIdXMwTHlYNEpNTjZHcEZGMzQxeUFOQ1hsNzBWS2pzNHQ?oc=5",
           "date": "08-20 16:12"
-        },
-        {
-          "title": "Dollar languishes at 3-month lows as sovereign debt doubts overshadow buybacks - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDBPZFdPbHNFRGdJLTVQdjN2WEJsVUo5YklaenhjOWJlelp0RXNDUHo2U3Q4emctSVJvVHlweWtsbEFoYVhZVl9ST2RwdjE5X2FQQWZMaEVEMUxZdFBlaTM2X044b0JLQTQxNmtHTlVxbkc5V1c3eWZ0Z2tnRjhQOVREanc3REc3c3dfTTYyYnVXOFZvY3hWYUo4SXlMMjRONTJpOFN2RFRmMnBtM3JJUFJ1Yy1Bc3BrTmhtVjY5VmFyZG8?oc=5",
-          "date": "08-21 19:46"
         },
         {
           "title": "Dollar-Won Exchange Rate Drops Below 1,400 Won for First Time in 11 Months - CryptoRank",
@@ -3081,7 +3087,7 @@
             "price": 1614.86
           },
           {
-            "time": "02:14",
+            "time": "03:19",
             "price": 1618.1
           }
         ],
