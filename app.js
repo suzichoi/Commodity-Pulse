@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 01:15:22",
+  "last_updated": "2026-08-23 02:14:31",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 01:15",
+    "report_date": "2026.08.23, 02:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -52,7 +52,7 @@ const FALLBACK_DATA = {
     "fx_usd": "1,383.90원 (▼6.89원)",
     "fx_eur": "1,618.10원 (▼8.27원)",
     "news_category": "오늘의 주요 헤드라인",
-    "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
+    "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
   "daily_briefing": {
     "title": "[2026 Week 34 Report]",
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 01:15",
+    "report_date": "2026.08.23, 02:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -88,9 +88,9 @@ const FALLBACK_DATA = {
     "fx_usd": "1,383.90원 (▼6.89원)",
     "fx_eur": "1,618.10원 (▼8.27원)",
     "news_category": "오늘의 주요 헤드라인",
-    "news_title": "GDT 가격 수요 증가로 4% 상승하며 회복세"
+    "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T01:15:22.402416+09:00",
+  "lastUpdated": "2026-08-23T02:14:31.891756+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5969.04
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 5981.0
           }
         ],
@@ -443,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 7148.48
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 7162.81
           }
         ],
@@ -620,12 +620,6 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "US Coffee C Futures Price Today - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05eDV4a1B1S0Y1eVNSMTJBbEd6bkZmZE1fTERYY3M5VW9Ob1l5UGFpRUc3eXlpUlc4Y3RoUnZBYmIzNXlIYlc5TjlhUVY0WV9fWXpQZnpid2dUaW0wbUE?oc=5",
-          "date": "08-22 12:06"
-        },
-        {
           "title": "Coffee Prices Slip on Brazil Harvest Pressures - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOem9GcGs4RE8ybWpvdGg4aC1zaGRTeW9MX1BCdGdlTEFnMjJ3WF8zVmZVOC1mbTFHTEZVeWQ3a0N6ODY0dzF1UUJPRG1YV3hBMW56c1Jab20zdDlDVGxEZVpZTXRkSFhYT0hUakFiQTV2U01fUFdxbzBQejZrZWxmb081Y09ndmQ5Y29xLWxCa0xGb0JB?oc=5",
@@ -642,6 +636,12 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
           "date": "08-22 14:14"
+        },
+        {
+          "title": "Keurig Dr Pepper stock rating resumed at Overweight by Morgan Stanley - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdVl5SkUwMHBIVzVBX253ZkxLcmp0OG55Vk4yN192Nlp3bzVSbU5rUFdNUGVXTDZvU3RqeFE4X3NmUkh2UVFUdnl5ODB3Z2RqdDZzZDlPaVZtZWw0RU41OWE5LXFYY3h2RmV0azI4cTFtNU9YTmN5dTEtUWoyMTlYbXhTRzBpdWJwMDk3MV9TQm91clA5SW1fTjlvQXpUYlBFM3FhZDlYV0ZOV3dqaW1xYmNzNmc2eUxqdUttRGRuSkFlSUlocVFVM2VEMVFIMDFFQ25B?oc=5",
+          "date": "08-20 15:14"
         }
       ],
       "newsKr": [
@@ -856,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 3728.0
           }
         ],
@@ -1711,12 +1711,6 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "GDT 가격 수요 증가로 4% 상승하며 회복세 - 푸드아이콘",
-          "source": "푸드아이콘",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQUQyQUdiTzN0RExRWTgwSG1PYjBfSnc4c0szTWk3SkhzUlVZeVpKdE1qNmVhbndHR0hpSDEybGRCN0tJQlVXZzdWUXZlb2Zhejc2Vm5WaEJ0TzZMWnhKZ2cwUlJfSEU5WFZLbQ?oc=5",
-          "date": "09-09 16:00"
-        },
-        {
           "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
           "source": "푸드아이콘",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
@@ -2176,7 +2170,7 @@ const FALLBACK_DATA = {
             "price": 1182.13
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 1184.5
           }
         ],
@@ -2261,7 +2255,7 @@ const FALLBACK_DATA = {
         {
           "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
           "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1nc9IBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
           "date": "08-19 14:13"
         },
         {
@@ -2550,7 +2544,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 1930.0
           }
         ]
@@ -2800,7 +2794,7 @@ const FALLBACK_DATA = {
             "price": 1381.13
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 1383.9
           }
         ],
@@ -3104,7 +3098,7 @@ const FALLBACK_DATA = {
             "price": 1614.86
           },
           {
-            "time": "01:15",
+            "time": "02:14",
             "price": 1618.1
           }
         ],
