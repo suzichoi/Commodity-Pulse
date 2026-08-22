@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-22 18:20:18",
+  "last_updated": "2026-08-22 19:15:34",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 18:20",
+    "report_date": "2026.08.22, 19:15",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 18:20",
+    "report_date": "2026.08.22, 19:15",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-22T18:20:18.359553+09:00",
+  "lastUpdated": "2026-08-22T19:15:34.998696+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23201,
+      "volume": 23210,
       "sparkline": [
         5648.0,
         5734.0,
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 5981.0
           }
         ],
@@ -321,6 +321,12 @@
           "date": "08-22 03:25"
         },
         {
+          "title": "Cocoa Futures Test Key Arc Levels: Is a Move Toward 6,420 Next? - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0RBZzJiOF9kUzdNYTNxMVc3R245ZnA0S3pZTmI1Q2JmUklTX1QzYmdZTklzNjZ3aDNmUEdUR2xXbmluUmI5N1FrNnJlYmtMd1J0dHRmZnBodjhpQ3ZnSFRHV0FOUVFzbExfSU1MMFBDRHN6X05Pb210YTltZm1kVEU3OUtkWjQ?oc=5",
+          "date": "08-22 09:32"
+        },
+        {
           "title": "Cocoa Prices Fall on Rising Nigerian Cocoa Exports - Yahoo Finance",
           "source": "Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3pLR193TU5lWGxXZW4zSkRhTFFBOS0tVjEtUFpLcDQ4VzBqcVFfODN4UjJla2JXQlU5U0tJVnNKaW5kM1FlaVktanNDUHNPaXpuWW4tclVLTDIxMWxmZDVSUjhJOU9CNnR1azN4RllNaV8wV0x4RVdtNnplTkozVHNRcS1WX3J1WUtTTkR1RUZJN1FDQ2JDR0tXSGp5VFQ4TktuUWln?oc=5",
@@ -331,12 +337,6 @@
           "source": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr0gGoAUFVX3lxTE1iZmtJbWlEVTNqRlYwU3pDeTFoVnNRbGZhM0JaaGhzZGo0VXd5eHM4dzJFZF81V0ZZMVNycml2ZWlkdmhKeXFhbS1GclJPLXZTelA2RDZRek1SeXlSb185OW52TU9ySVR5SnRSa2xPZThNTTNlQ3QxaUV0Zy1TVldMTUZFM083N0tOdi15VXFNYy0zTnhVWGE0dFprTXV3SkViZHUyWG94MQ?oc=5",
           "date": "08-21 11:44"
-        },
-        {
-          "title": "El Niño could push chocolate prices higher again - Valor International",
-          "source": "Valor International",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWllocEtQSEZJd1FVM2tBZnR5NktsbDcwZUlmNXVlNlFPRFkyR2duUjVEeU53VS04YnE0d0xvY0ZzMXljZGZRejhXczZZWFgzOVVOQjk0SEpOOE4wcUJnbU1BcTNKV3lwTzlxeFFKWFNUMWc5MkZlTF9CWFA5UllGdEhHcUIwN2lnSXl6Tm9sSGMwQlVLOTJvOGYtSDAxeEJsSmp2Q2VNLVpfWFVZNXNrZ1hMaHl3eThjcERMU9IBywFBVV95cUxQZWhla3BwbVBsR3pucGgzbl9kN0xnNXVqMXRkODFVRFVFdmZVWEV1T1VIeGNRMndxWEVVOWVJblNDMXh0WDFUeXVIREtFNjlxb1Q0UmI0dmtKRWx1YnBHaTRUZEZDQzV5M09JMVp4OGVGOHJrX3lNa0JEckd6aEVSU0R4QTFEdlpudEVHMURjdjFjem10bmVDSzMzdk1jeWl1Ulc3WVYtV1BhVEY1ZmVQNEtaaFRJeEF1ZmhDUGVvTFNScHR1eXFCMTU5Zw?oc=5",
-          "date": "08-20 20:45"
         }
       ],
       "newsKr": [
@@ -426,7 +426,7 @@
             "price": 7148.48
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 7162.81
           }
         ],
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 3728.0
           }
         ],
@@ -1918,10 +1918,10 @@
       },
       "newsEn": [
         {
-          "title": "Nonfat dry milk jumps higher while butter slides in Wednesday CME dairy trade - Brownfield Ag News",
+          "title": "Butter rallies as CME cash dairy trade ends week mixed - Brownfield Ag News",
           "source": "Brownfield Ag News",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRHbHF2bmJrbE5GZ1dkNVJyTjRHSTF0akhTTHBtV3FoR0hXTEdHSEJiNFF0RkwtaGdONEV0V0hkOElTTEFyZ3FjYTJ4cDRaNThILXBqY3gyaFJrRFdEdFZRVWF2NngzQ2RHa1FIc3JDb2hoenlycHd1WGlpOWpmdmtpS1RheFN5V19uSmtobFY2YlByR0RJeEwxX2M2ZEY4QlZSX2FZVG1YcVdCZXB6c0V5OG1xRWQ2U2tnMXpLWm4?oc=5",
-          "date": "08-20 04:07"
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXFKWk1Ta3VKcXdESm43VmJvMTJSeXlMOHN4RkM1dW9ySDBiNTJsWF9PMy1QVVlFRXNaUS1ZNlhoTXVqVkFtQmNPeTVWSkFFOWFOVFZGSzFWb19vQlR4MUM5Zm83d1JGNktmbmM0ZUpvMEg2alRJc1E1TzhvNzNtQmVDWFcxVVlmUjdlWnlCRzNhZGdRYXNHQ2FpeXJvbjU2S0E?oc=5",
+          "date": "08-22 04:12"
         },
         {
           "title": "Nonfat Dry Milk Gains At CME While Butter And Dry Whey Soften In Midweek Trade - en.edairynews.com",
@@ -1936,10 +1936,10 @@
           "date": "08-21 20:00"
         },
         {
-          "title": "South Korea Recombined Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjRsRzR3ZWR6dnpiSlVmSU1LclR6M3JEcFZLZ3N3bUpnQ2ZjVlVkbHZTOE5SbWllVjhZSjBWLWJqQUxiVE9aWUg3UlMtZmItMk9hTVVjTzNzeXlNeWx4T0F5Y2VlWDFEZGh1aVM4UGNpMEdSTHctc0ZUVE9zdVZreGFLemdYM0ZYYUJ1bU9RRmNWaGI0aWNnV0l3RlNDYlVxQWtfeDNuOG9CdVBI?oc=5",
-          "date": "08-22 14:36"
+          "title": "Knowledge Nook Sessions Feature Information Shaping Global Dairy Industry - Madison's Country Q106",
+          "source": "Madison's Country Q106",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVJQWW5HOElnOVJvbmo2bTVkNTZPRlhPdTlkcFRzZzZselZVS0pPQjNWM0tzdjhZQ0ExQ0pxaURXdFFMNS05QVZQVjE2bm44Qk9kS2JzbXZpOXZCUUdKVlVadlpONjVuTWt6WGNxSU4wSVhMelUxYko2RG1jZWpwUDNXSUpqdHV4SnljTzBCNnNSejJYc2UxdFI5d0RncG9WUnpHZmFpZWpEdw?oc=5",
+          "date": "08-21 05:02"
         }
       ],
       "newsKr": [
@@ -2153,7 +2153,7 @@
             "price": 1182.13
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 1184.5
           }
         ],
@@ -2210,6 +2210,12 @@
       },
       "newsEn": [
         {
+          "title": "CPO Futures Expected To Stay Bullish Next Week - bernama",
+          "source": "bernama",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zeEZHZUZZcnZSUnFSVG5aSHNTYXU0M2w0NzZXaDhLUDFMQWR2N0FhWHlQU1RXOTR1dXVBWGJJN0xwbUozOUZIMzlCVGxMMHVmdlctaHhvVEtkaENLaTFMT2s1NA?oc=5",
+          "date": "08-22 16:07"
+        },
+        {
           "title": "CPO Futures End Week Higher For Fifth Straight Session - BernamaBiz",
           "source": "BernamaBiz",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VajU1UHZYenhKWUhIbGc1anFMellSMmlnT1BZTU9XeDRVdjBEaU1ybU9wWm1ZMWZBS1JuZThKOWl1S1M4Ujh2eTY1S2tCa1VZVmlQWHNBUThQdw?oc=5",
@@ -2226,12 +2232,6 @@
           "source": "Fibre2Fashion",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjlIV1FwZTJfVVE1anNBVGRxa1BHcnFyVTMtZURnUHFvOElIZzRhb0RWSDZqS0ZycDI4SjQ0RTBoZTRnbnlsUnFqUjlwRzMyNmZCRjBFdzNxYXBhMEtYNDNZd0lxQk5nbVl1WDBnckJUWXJYTDdGWFd3TDB3b2tMWmk0Snpoc1c4REhRUjFzdG5id3VkbklDck5uLWdYVjdHQ0NrQ0hjSnFpRURmcFRz?oc=5",
           "date": "08-21 19:35"
-        },
-        {
-          "title": "MPOC expects CPO prices to hold firm amid tight supply - The Star",
-          "source": "The Star",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNME9RTFk0b2w5UG1ia3ZidldJNXpKMHVNRDEwNTE5UTkxLU9lN0tsUjJfam16WkdrcE13WG55UGVSZWhiVVJMb1hzek9rWGtBYnRLVXlWQXpHNkhKNXFiejZUQzVMbTR2VkdUWE85bHBuRWhYNUlBZzIzbEIxZTBsbzE1YjhqMmlwT21IeUN2Y3VmTF9xbWprV0RqdHdHWFY0ZVdGX0o0T052ZzVzSHhENS1pdnJWQQ?oc=5",
-          "date": "08-20 08:04"
         }
       ],
       "newsKr": [
@@ -2527,35 +2527,35 @@
             "price": 1926.14
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Coconut Oil Market Size, Share, Growth Forecast to 2034 - Fortune Business Insights",
-          "source": "Fortune Business Insights",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bEhUZ1VzendLYXMtQWZQU3dxOVZJcnVGVXhObG9yRzB3MUk0bVJxaE5CRExlQWM3UzFNZlpTbEZsMXZmQ20waUZpTTVURWxIb3BkVG1zSWhxYm9aU3AtM1ViYm9IMzM5TUpFcTZUQjlfM1E?oc=5",
-          "date": "07-27 16:00"
+          "title": "Buyers are clamoring for coconut oil - Food Business News",
+          "source": "Food Business News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
+          "date": "04-29 16:00"
+        },
+        {
+          "title": "Humble coconut oil turns into a luxury on rising demand, shrinking output - Reuters",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ01qdVpVWVRianppU1ZsRnh1NDdKU0h6V2xESUFRV195QmlsaEVCR2NiZEY5bGtFbDBsTTNWY2ZkanlkMndhNnVqc1NEUjVuVXpNZ3Zob3lwRmpKWVJNX3N6b08wZkdRWkpyOFdONXFTQ3Y5bDB0YlFPZGFNaTVCbHBtUjhNdlIteVJHTEMyb0VYTlhOalFUTkktcmdWVXM0TWNKMGVaMVNwbDc1cHlOaUxsYTBadw?oc=5",
+          "date": "08-19 16:00"
+        },
+        {
+          "title": "Coconut Oil Price Falls 7.0% in Sri Lanka, 5.5% in Indonesia — Q1 2026 Update - IMARC Group",
+          "source": "IMARC Group",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGRQSXZYTlNEczFUMEpvTjNoMm9FZmI1M0xmalpaNjRTLXNVWmpNc0lSSEtGdFZOOHBGUU5GX2V2Yjc5N3ZMVV9yNGRTeVY3eF9maGJhWU84RlJKVG9TTk1yN2R4MzJtT3dWa3RZWWdyOEdxQ0RyOU9hTlFOdnRnWA?oc=5",
+          "date": "07-23 16:00"
         },
         {
           "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
           "source": "Mundus Agri",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
           "date": "06-30 16:00"
-        },
-        {
-          "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
-          "source": "TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
-          "date": "02-04 17:00"
-        },
-        {
-          "title": "Buyers are clamoring for coconut oil - Food Business News",
-          "source": "Food Business News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
-          "date": "04-29 16:00"
         }
       ],
       "newsKr": [
@@ -2777,7 +2777,7 @@
             "price": 1381.13
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 1383.9
           }
         ],
@@ -3081,7 +3081,7 @@
             "price": 1614.86
           },
           {
-            "time": "18:20",
+            "time": "19:15",
             "price": 1618.1
           }
         ],
