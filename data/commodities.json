@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-22 19:15:34",
+  "last_updated": "2026-08-22 20:14:25",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 19:15",
+    "report_date": "2026.08.22, 20:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.22",
-    "report_date": "2026.08.22, 19:15",
+    "report_date": "2026.08.22, 20:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-22T19:15:34.998696+09:00",
+  "lastUpdated": "2026-08-22T20:14:25.640256+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23210,
+      "volume": 23201,
       "sparkline": [
         5648.0,
         5734.0,
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 5981.0
           }
         ],
@@ -321,12 +321,6 @@
           "date": "08-22 03:25"
         },
         {
-          "title": "Cocoa Futures Test Key Arc Levels: Is a Move Toward 6,420 Next? - CryptoRank",
-          "source": "CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0RBZzJiOF9kUzdNYTNxMVc3R245ZnA0S3pZTmI1Q2JmUklTX1QzYmdZTklzNjZ3aDNmUEdUR2xXbmluUmI5N1FrNnJlYmtMd1J0dHRmZnBodjhpQ3ZnSFRHV0FOUVFzbExfSU1MMFBDRHN6X05Pb210YTltZm1kVEU3OUtkWjQ?oc=5",
-          "date": "08-22 09:32"
-        },
-        {
           "title": "Cocoa Prices Fall on Rising Nigerian Cocoa Exports - Yahoo Finance",
           "source": "Yahoo Finance",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3pLR193TU5lWGxXZW4zSkRhTFFBOS0tVjEtUFpLcDQ4VzBqcVFfODN4UjJla2JXQlU5U0tJVnNKaW5kM1FlaVktanNDUHNPaXpuWW4tclVLTDIxMWxmZDVSUjhJOU9CNnR1azN4RllNaV8wV0x4RVdtNnplTkozVHNRcS1WX3J1WUtTTkR1RUZJN1FDQ2JDR0tXSGp5VFQ4TktuUWln?oc=5",
@@ -337,20 +331,20 @@
           "source": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr0gGoAUFVX3lxTE1iZmtJbWlEVTNqRlYwU3pDeTFoVnNRbGZhM0JaaGhzZGo0VXd5eHM4dzJFZF81V0ZZMVNycml2ZWlkdmhKeXFhbS1GclJPLXZTelA2RDZRek1SeXlSb185OW52TU9ySVR5SnRSa2xPZThNTTNlQ3QxaUV0Zy1TVldMTUZFM083N0tOdi15VXFNYy0zTnhVWGE0dFprTXV3SkViZHUyWG94MQ?oc=5",
           "date": "08-21 11:44"
+        },
+        {
+          "title": "Cocoa Bulk Bean (UK) (May 2027) Trade Ideas — CMCMARKETS:UKCOCOAK2027 - TradingView",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FjclczTl9NXzlpaFdBN2NOT2hvNGlGdlgzLUlvbTY5bzRLZWw5NEFRamJvT2d3ZDMtNUs3eXk3S3JMZGlwZVRMQ0MwRThnUkxoMWM0T21TSGVKd0UwNXpHS0hZU05IQUlhVG8zUm1EYldWVTVzbk9CT3Y3V3VZVjFPQzBuaVFtbElsYUNB?oc=5",
+          "date": "08-21 12:03"
         }
       ],
       "newsKr": [
         {
-          "title": "미국 코코아 선물(COCOA-F) 종목이 8월19일에 2.26% 상승했습니다. 시장이 가격을 다시 책정하고 있나요? - TradingKey",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWxSdWdrNU1WbG1hYnYzUk13eEZ6dFMtQmNhUGdEWmM4YmxQUmZhRFJ1VzR4VGNXbEUxWGxuNW5iVnp3RGx6S1FnR0hURWZhMjdxbE5XbXN3ZXpRc1NkTTRBYVVXczA3clFiZ292eTZhNS1TSG5FdUQ2X3JyVW9feUE5SHJCbWRVRGk5RVJmYmJoTk0?oc=5",
-          "date": "08-19 20:05"
-        },
-        {
-          "title": "유럽중앙은행(ECB)은 지속적인 인플레이션 압력에 대해 경고했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XWkUycVM2cHhOOEJqMi1BM2hoS0FnejNaUlU1eXpBM0hHV3dORXZmcnVEcmhBUjR6VE9objRPeHNFdmlnT29Fd3pFTE16QTByeXFpWmVuTGFaOTd6bzRjSHBydmlUdDduWFRXd3Y3TQ?oc=5",
-          "date": "08-19 19:29"
+          "title": "윌케르 비스퀴비, 2026년 2분기 엇갈린 실적 발표에도 주가 상승 - Investing.com 한국어",
+          "source": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOb21heG92UmluMFlKSlNUQ3Z4Vmp6NE84bmNSSHprU1FXLUZJa084dmZCdDdqMGlxaVkxaFFxX01TM2hwU0s4MG9mRjlLU08yR0tzVGxZQ2hIWGZZUG9ncXhERDY3S2RkREM0NlpKVQ?oc=5",
+          "date": "08-19 23:43"
         },
         {
           "title": "[Q2 분석] 롯데웰푸드's 어닝 서프라이즈…\"H2 변수=해외 캐시카우·비용 환골탈태·내수·원가·날씨\" - 이코노미톡뉴스",
@@ -359,10 +353,16 @@
           "date": "08-22 10:17"
         },
         {
-          "title": "윌케르 비스퀴비, 2026년 2분기 엇갈린 실적 발표에도 주가 상승 - Investing.com 한국어",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOb21heG92UmluMFlKSlNUQ3Z4Vmp6NE84bmNSSHprU1FXLUZJa084dmZCdDdqMGlxaVkxaFFxX01TM2hwU0s4MG9mRjlLU08yR0tzVGxZQ2hIWGZZUG9ncXhERDY3S2RkREM0NlpKVQ?oc=5",
-          "date": "08-19 23:43"
+          "title": "롯데웰푸드, 국내 수익성 개선·해외 성장 지속…목표가 17만원 - ksdaily.co.kr",
+          "source": "ksdaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZFRwTERJSkFKckxSWDh3ZUMyNF9pYjN6SUFtYVliRlBGcGc3VWFxdlEtenRKUWF4NjM5cnpvVmRta013WlVVTkdrNDJMTE02WHhtTm9uMGF4LU1fZ20wNUc2YzRmQWluMGU0?oc=5",
+          "date": "08-21 11:14"
+        },
+        {
+          "title": "‘슈퍼 엘니뇨’ 온다…'27년 역대 가장 뜨거운 해 될까 - ESG경제",
+          "source": "ESG경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14MndweVJ1TlU0V1ZmQ3pBY2JNRVhxbGVHam1nTERhLVExZ2pGdzdteVZRVEVUaHhIX3I5WnlrQnZsSmxjTm5CVmRtbF9IbHJCZzJNMHJqNEgxLVgzd1pYcDY0dUdMLU01NHItVg?oc=5",
+          "date": "08-20 11:58"
         }
       ]
     },
@@ -426,7 +426,7 @@
             "price": 7148.48
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 7162.81
           }
         ],
@@ -603,10 +603,10 @@
       },
       "newsEn": [
         {
-          "title": "Coffee Prices Slip on Brazil Harvest Pressures - Barchart.com",
+          "title": "Brazil Harvest Pressures Weigh on Coffee Prices - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOem9GcGs4RE8ybWpvdGg4aC1zaGRTeW9MX1BCdGdlTEFnMjJ3WF8zVmZVOC1mbTFHTEZVeWQ3a0N6ODY0dzF1UUJPRG1YV3hBMW56c1Jab20zdDlDVGxEZVpZTXRkSFhYT0hUakFiQTV2U01fUFdxbzBQejZrZWxmb081Y09ndmQ5Y29xLWxCa0xGb0JB?oc=5",
-          "date": "08-22 00:47"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1B6R2FSRjgxbnlsVzBGUjJiNjFUTTNIdWt3NnJPdjNHeGQtaWEtY1RVLWV6Z01lZXNfQmF2c3Jfc2h3c1Y4djdqVWlxb0NmWVJqTlBOV1VwM3pVdU81UWVlZ1VrQ0FhSzQ3V2dlT0dZSnhSa2JGYlkzWUhQQUhTb1NIdnNGdUVXRER1akxQdEFqOGZ5YXc?oc=5",
+          "date": "08-22 03:23"
         },
         {
           "title": "Arabica coffee futures retreated yesterday from Tuesday’s highs, Colombian exports are gradually resuming, Vietnam's shipments soared to 147,890 tonnes in July - Comunicaffe International",
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 3728.0
           }
         ],
@@ -944,10 +944,10 @@
           "date": "08-22 10:27"
         },
         {
-          "title": "8월 21일 커피 가격: 상승과 하락이 혼재되었습니다. - Vietnam.vn",
+          "title": "2026년 8월 22일 오늘 커피 가격은 소폭 상승하여 kg당 98,000 VND까지 올랐습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yam9CdF9xeVNYcDFBRnF3b1MwMUhja0lWZGIwOEM0UnBlT0pod2FvYURhenZJQnp5aUVCM1Q1c3hEdkYwRGJ6Q3ZsRUlmV3FudWIyQ0RfclJkSmRxN09Sam9KOHFfUGJiZk5EemRFOA?oc=5",
-          "date": "08-21 20:34"
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWDR1VmxuY0NyVDMyekNzRldjU19ENWdMbVQzNEVuSXNKU3NKUVFBcHB6RjhmVFNUbDBfbUZXQTdJWGFtS1lLa1RsdE5MRkNtNGlzWGIwZU1wMmdMN3FwQk0tQTRuRDktV1hsSFI1VnV3cHhKOElvcDdxaWdlMnE0dUR4b2xmSlRfZnIwcFBzR3Q?oc=5",
+          "date": "08-22 10:34"
         }
       ]
     },
@@ -2153,7 +2153,7 @@
             "price": 1182.13
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 1184.5
           }
         ],
@@ -2236,16 +2236,16 @@
       ],
       "newsKr": [
         {
-          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
-          "date": "08-19 14:13"
-        },
-        {
           "title": "해바라기유도 ‘껑충’…유지류 가격 초비상 [푸드360] - 헤럴드경제",
           "source": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14VjRvazRSVFdoc1RyclRjZWtudlozWm1ESDd4ay14amtHTkllclducHRFYXR5RlVEdVRCbDRZWjJvbExwUlJtbndlVFA0WGZzZk9Ic2V3?oc=5",
           "date": "08-10 11:52"
+        },
+        {
+          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
+          "date": "08-19 14:13"
         },
         {
           "title": "세계식량가격지수 3개월 연속 오름세…4월 130.7포인트 - 식품음료신문",
@@ -2527,35 +2527,35 @@
             "price": 1926.14
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Buyers are clamoring for coconut oil - Food Business News",
-          "source": "Food Business News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
-          "date": "04-29 16:00"
-        },
-        {
-          "title": "Humble coconut oil turns into a luxury on rising demand, shrinking output - Reuters",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ01qdVpVWVRianppU1ZsRnh1NDdKU0h6V2xESUFRV195QmlsaEVCR2NiZEY5bGtFbDBsTTNWY2ZkanlkMndhNnVqc1NEUjVuVXpNZ3Zob3lwRmpKWVJNX3N6b08wZkdRWkpyOFdONXFTQ3Y5bDB0YlFPZGFNaTVCbHBtUjhNdlIteVJHTEMyb0VYTlhOalFUTkktcmdWVXM0TWNKMGVaMVNwbDc1cHlOaUxsYTBadw?oc=5",
-          "date": "08-19 16:00"
-        },
-        {
-          "title": "Coconut Oil Price Falls 7.0% in Sri Lanka, 5.5% in Indonesia — Q1 2026 Update - IMARC Group",
-          "source": "IMARC Group",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGRQSXZYTlNEczFUMEpvTjNoMm9FZmI1M0xmalpaNjRTLXNVWmpNc0lSSEtGdFZOOHBGUU5GX2V2Yjc5N3ZMVV9yNGRTeVY3eF9maGJhWU84RlJKVG9TTk1yN2R4MzJtT3dWa3RZWWdyOEdxQ0RyOU9hTlFOdnRnWA?oc=5",
-          "date": "07-23 16:00"
+          "title": "Coconut Oil Market Size, Share, Growth Forecast to 2034 - Fortune Business Insights",
+          "source": "Fortune Business Insights",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bEhUZ1VzendLYXMtQWZQU3dxOVZJcnVGVXhObG9yRzB3MUk0bVJxaE5CRExlQWM3UzFNZlpTbEZsMXZmQ20waUZpTTVURWxIb3BkVG1zSWhxYm9aU3AtM1ViYm9IMzM5TUpFcTZUQjlfM1E?oc=5",
+          "date": "07-27 16:00"
         },
         {
           "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
           "source": "Mundus Agri",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
           "date": "06-30 16:00"
+        },
+        {
+          "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
+          "source": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
+          "date": "02-04 17:00"
+        },
+        {
+          "title": "Buyers are clamoring for coconut oil - Food Business News",
+          "source": "Food Business News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
+          "date": "04-29 16:00"
         }
       ],
       "newsKr": [
@@ -2777,7 +2777,7 @@
             "price": 1381.13
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 1383.9
           }
         ],
@@ -2844,10 +2844,10 @@
           "date": "08-21 12:33"
         },
         {
-          "title": "\"Samsung Electronics and SK hynix's Large-Scale Shareholder Returns... Even Lowering the Exchange Rate?\" [Weekend Money] - 아시아경제",
+          "title": "USD-KRW Remains in 1,300 Won Range for Second Day as Exporters Sell Dollars and Dollar Weakness Persists - 아시아경제",
           "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YWUlRRkRGamhneHQ3VFdmWDF4bHIwUTNNcVFTbjgwZEJqajZYWlZMVW51ZU5zWU16dDZ6ajJjWFQyM1FrdUFWUDcyaHhPYlg1VElXemxGbkE2UUx2dUpMOTdPZjU?oc=5",
-          "date": "08-22 14:47"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fdHRNOVY2NTFiZ1VZeXp1ZmtsWi0wMzM0R2lWU1V1dl9nVm1LcUxvNTBBTVJEWDliTUtGRWVlMW90X3BIdXMwTHlYNEpNTjZHcEZGMzQxeUFOQ1hsNzBWS2pzNHQ?oc=5",
+          "date": "08-20 16:12"
         },
         {
           "title": "Dollar languishes at 3-month lows as sovereign debt doubts overshadow buybacks - Investing.com",
@@ -3081,7 +3081,7 @@
             "price": 1614.86
           },
           {
-            "time": "19:15",
+            "time": "20:14",
             "price": 1618.1
           }
         ],
